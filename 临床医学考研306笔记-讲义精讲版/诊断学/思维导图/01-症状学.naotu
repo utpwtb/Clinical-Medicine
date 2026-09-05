@@ -1,0 +1,730 @@
+{
+ "version": 1,
+ "title": "01-症状学 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_b19499",
+   "kind": "text",
+   "title": "诊断学·症状学",
+   "x": 0,
+   "y": 726.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_7ed70e",
+   "kind": "notebook",
+   "title": "第 1 节 发热",
+   "x": 240,
+   "y": 110.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-症状学#第 1 节 发热]]",
+    "path": "诊断学/01-症状学.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-症状学#第 1 节 发热]]"
+  },
+  {
+   "id": "node_3_49c8a4",
+   "kind": "text",
+   "title": "机制链：外源致热原→内源性致热原→下丘脑 PGE₂→调定点上移",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_5_f1f834",
+   "kind": "text",
+   "title": "六种热型与疾病配对（稽留/弛张/间歇热波动幅度）",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_7_d045dd",
+   "kind": "text",
+   "title": "先发热后昏迷 vs 先昏迷后发热",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_a_964fb",
+   "kind": "notebook",
+   "title": "第 3 节 咯血与呕血",
+   "x": 240,
+   "y": 440.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-症状学#第 3 节 咯血与呕血]]",
+    "path": "诊断学/01-症状学.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-症状学#第 3 节 咯血与呕血]]"
+  },
+  {
+   "id": "node_b_746f78",
+   "kind": "text",
+   "title": "咯血 vs 呕血七维度鉴别（颜色/混有物/黑便/pH）",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_d_508432",
+   "kind": "text",
+   "title": "咯血量分度：大咯血 ＞500ml",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_f_52c212",
+   "kind": "text",
+   "title": "大咯血窒息：头低足高 45° 俯卧位",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_12_c5c5b3",
+   "kind": "notebook",
+   "title": "第 5 节 胸痛",
+   "x": 240,
+   "y": 715.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-症状学#第 5 节 胸痛]]",
+    "path": "诊断学/01-症状学.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-症状学#第 5 节 胸痛]]"
+  },
+  {
+   "id": "node_13_677804",
+   "kind": "text",
+   "title": "五种危险胸痛关键词：压榨/撕裂/三联/皮下气肿",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_15_83bc94",
+   "kind": "text",
+   "title": "主动脉夹层：双上肢血压差 ＞20mmHg",
+   "x": 480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_18_4b6f",
+   "kind": "notebook",
+   "title": "第 7 节 呕血与黑便",
+   "x": 240,
+   "y": 935.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-症状学#第 7 节 呕血与黑便]]",
+    "path": "诊断学/01-症状学.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-症状学#第 7 节 呕血与黑便]]"
+  },
+  {
+   "id": "node_19_a85c6e",
+   "kind": "text",
+   "title": "出血量数值链：5→50→250-300→400→1000ml",
+   "x": 480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1b_8ae769",
+   "kind": "text",
+   "title": "黑便机制：硫化铁（柏油样便）",
+   "x": 480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1e_de051",
+   "kind": "notebook",
+   "title": "第 9 节 皮肤黏膜出血",
+   "x": 240,
+   "y": 1210.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-症状学#第 9 节 皮肤黏膜出血]]",
+    "path": "诊断学/01-症状学.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-症状学#第 9 节 皮肤黏膜出血]]"
+  },
+  {
+   "id": "node_1f_300568",
+   "kind": "text",
+   "title": "三大病因：血管壁/血小板/凝血功能",
+   "x": 480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_21_5c9d92",
+   "kind": "text",
+   "title": "紫癜 vs 充血性皮疹：压之褪色与否",
+   "x": 480,
+   "y": 1210,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_23_c1a642",
+   "kind": "text",
+   "title": "凝血异常＝深部血肿＋关节腔出血",
+   "x": 480,
+   "y": 1320,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_26_712998",
+   "kind": "notebook",
+   "title": "第 2 节 水肿",
+   "x": -240,
+   "y": 110.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-症状学#第 2 节 水肿]]",
+    "path": "诊断学/01-症状学.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-症状学#第 2 节 水肿]]"
+  },
+  {
+   "id": "node_27_c28ebd",
+   "kind": "text",
+   "title": "五大发生机制（水钠潴留为共同通路）",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_29_341c64",
+   "kind": "text",
+   "title": "全身性水肿五病因鉴别：起始部位＋晨暮规律",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2b_8c99a8",
+   "kind": "text",
+   "title": "非凹陷性：黏液性水肿与淋巴性水肿",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2e_49bc47",
+   "kind": "notebook",
+   "title": "第 4 节 呼吸困难",
+   "x": -240,
+   "y": 440.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-症状学#第 4 节 呼吸困难]]",
+    "path": "诊断学/01-症状学.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-症状学#第 4 节 呼吸困难]]"
+  },
+  {
+   "id": "node_2f_702860",
+   "kind": "text",
+   "title": "肺源三型：吸气性三凹征/呼气性哮鸣/混合性",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_31_b2c083",
+   "kind": "text",
+   "title": "心源性四阶段：劳力性→夜间阵发→端坐→急性肺水肿",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_33_1f15c7",
+   "kind": "text",
+   "title": "Kussmaul 呼吸、潮式（间脑）与间停（脑桥/延髓）",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_36_a14923",
+   "kind": "notebook",
+   "title": "第 6 节 腹痛",
+   "x": -240,
+   "y": 770.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-症状学#第 6 节 腹痛]]",
+    "path": "诊断学/01-症状学.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-症状学#第 6 节 腹痛]]"
+  },
+  {
+   "id": "node_37_9bdf03",
+   "kind": "text",
+   "title": "三机制：内脏性/躯体性/牵涉痛",
+   "x": -480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_39_3d4299",
+   "kind": "text",
+   "title": "八大急腹症关键词（转移性右下腹痛、板状腹、痛吐胀闭）",
+   "x": -480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3b_288b78",
+   "kind": "text",
+   "title": "未确诊急腹症禁用强效镇痛药",
+   "x": -480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3e_3802b",
+   "kind": "notebook",
+   "title": "第 8 节 黄疸",
+   "x": -240,
+   "y": 1100.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-症状学#第 8 节 黄疸]]",
+    "path": "诊断学/01-症状学.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-症状学#第 8 节 黄疸]]"
+  },
+  {
+   "id": "node_3f_8d6059",
+   "kind": "text",
+   "title": "胆红素代谢三步（UCB/CB/尿胆原）",
+   "x": -480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_41_17dc8e",
+   "kind": "text",
+   "title": "三型黄疸鉴别大表（尿胆红素/尿胆原组合）",
+   "x": -480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_43_fe0490",
+   "kind": "text",
+   "title": "Courvoisier 征：癌性黄疸胆囊肿大",
+   "x": -480,
+   "y": 1210,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_46_1d0bc9",
+   "kind": "notebook",
+   "title": "第 10 节 意识障碍",
+   "x": -240,
+   "y": 1430.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-症状学#第 10 节 意识障碍]]",
+    "path": "诊断学/01-症状学.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-症状学#第 10 节 意识障碍]]"
+  },
+  {
+   "id": "node_47_762172",
+   "kind": "text",
+   "title": "六级分级：能否唤醒/答话质量/反射存否",
+   "x": -480,
+   "y": 1320,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_49_1e1242",
+   "kind": "text",
+   "title": "谵妄：兴奋性增高＋定向力丧失＋幻觉",
+   "x": -480,
+   "y": 1430,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_4b_d50755",
+   "kind": "text",
+   "title": "病因先分类再定位；GCS ≤8 判昏迷",
+   "x": -480,
+   "y": 1540,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_a99f13",
+   "source": "node_2_7ed70e",
+   "target": "node_3_49c8a4",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_6_668409",
+   "source": "node_2_7ed70e",
+   "target": "node_5_f1f834",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_8_c2b01c",
+   "source": "node_2_7ed70e",
+   "target": "node_7_d045dd",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_9_8cd321",
+   "source": "node_1_b19499",
+   "target": "node_2_7ed70e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_c_168b16",
+   "source": "node_a_964fb",
+   "target": "node_b_746f78",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_e_409d36",
+   "source": "node_a_964fb",
+   "target": "node_d_508432",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_10_1dad09",
+   "source": "node_a_964fb",
+   "target": "node_f_52c212",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_11_f85e06",
+   "source": "node_1_b19499",
+   "target": "node_a_964fb",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_14_dd6ac7",
+   "source": "node_12_c5c5b3",
+   "target": "node_13_677804",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_16_d32e6d",
+   "source": "node_12_c5c5b3",
+   "target": "node_15_83bc94",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_17_fcf561",
+   "source": "node_1_b19499",
+   "target": "node_12_c5c5b3",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1a_de8ede",
+   "source": "node_18_4b6f",
+   "target": "node_19_a85c6e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1c_764414",
+   "source": "node_18_4b6f",
+   "target": "node_1b_8ae769",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1d_69ca97",
+   "source": "node_1_b19499",
+   "target": "node_18_4b6f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_20_84b871",
+   "source": "node_1e_de051",
+   "target": "node_1f_300568",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_22_9f64ee",
+   "source": "node_1e_de051",
+   "target": "node_21_5c9d92",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_24_7f9d3e",
+   "source": "node_1e_de051",
+   "target": "node_23_c1a642",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_25_a01ac9",
+   "source": "node_1_b19499",
+   "target": "node_1e_de051",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_28_d366d",
+   "source": "node_26_712998",
+   "target": "node_27_c28ebd",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2a_445dcc",
+   "source": "node_26_712998",
+   "target": "node_29_341c64",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2c_218a15",
+   "source": "node_26_712998",
+   "target": "node_2b_8c99a8",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2d_ed7bf6",
+   "source": "node_1_b19499",
+   "target": "node_26_712998",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_30_e17f29",
+   "source": "node_2e_49bc47",
+   "target": "node_2f_702860",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_32_7c1612",
+   "source": "node_2e_49bc47",
+   "target": "node_31_b2c083",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_34_763fc",
+   "source": "node_2e_49bc47",
+   "target": "node_33_1f15c7",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_35_f92026",
+   "source": "node_1_b19499",
+   "target": "node_2e_49bc47",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_38_cc9fd3",
+   "source": "node_36_a14923",
+   "target": "node_37_9bdf03",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3a_b5b453",
+   "source": "node_36_a14923",
+   "target": "node_39_3d4299",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3c_4f8d52",
+   "source": "node_36_a14923",
+   "target": "node_3b_288b78",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3d_8d03c9",
+   "source": "node_1_b19499",
+   "target": "node_36_a14923",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_40_687213",
+   "source": "node_3e_3802b",
+   "target": "node_3f_8d6059",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_42_3985fb",
+   "source": "node_3e_3802b",
+   "target": "node_41_17dc8e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_44_d7665c",
+   "source": "node_3e_3802b",
+   "target": "node_43_fe0490",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_45_e9b5c5",
+   "source": "node_1_b19499",
+   "target": "node_3e_3802b",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_48_f27292",
+   "source": "node_46_1d0bc9",
+   "target": "node_47_762172",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4a_a5d04d",
+   "source": "node_46_1d0bc9",
+   "target": "node_49_1e1242",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4c_276aa6",
+   "source": "node_46_1d0bc9",
+   "target": "node_4b_d50755",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4d_7f9589",
+   "source": "node_1_b19499",
+   "target": "node_46_1d0bc9",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

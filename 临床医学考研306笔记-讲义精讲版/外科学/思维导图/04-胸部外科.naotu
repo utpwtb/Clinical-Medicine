@@ -1,0 +1,457 @@
+{
+ "version": 1,
+ "title": "04-胸部外科 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_39820c",
+   "kind": "text",
+   "title": "外科学·胸部外科",
+   "x": 0,
+   "y": 416.42857142857144,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_ce7ae7",
+   "kind": "notebook",
+   "title": "一、肋骨骨折与连枷胸",
+   "x": 240,
+   "y": 110.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-胸部外科#一、肋骨骨折与连枷胸]]",
+    "path": "外科学/04-胸部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-胸部外科#一、肋骨骨折与连枷胸]]"
+  },
+  {
+   "id": "node_3_32fa2d",
+   "kind": "text",
+   "title": "**4–7 肋**最常见；下位肋骨骨折查肝脾",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_5_640be",
+   "kind": "text",
+   "title": "连枷胸：**反常呼吸+纵隔扑动**",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_7_3eae00",
+   "kind": "text",
+   "title": "固定+镇痛+必要时机械通气“内固定”",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_a_9c7c73",
+   "kind": "notebook",
+   "title": "三、血胸",
+   "x": 240,
+   "y": 385.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-胸部外科#三、血胸]]",
+    "path": "外科学/04-胸部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-胸部外科#三、血胸]]"
+  },
+  {
+   "id": "node_b_d98868",
+   "kind": "text",
+   "title": "胸腔血**不凝固**（去纤维化）；抽出凝固血=仍在出血",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_d_12a4de",
+   "kind": "text",
+   "title": "**进行性血胸**：＞200 ml/h×3 h→开胸止血",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_10_e2d9de",
+   "kind": "notebook",
+   "title": "五、脓胸",
+   "x": 240,
+   "y": 605.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-胸部外科#五、脓胸]]",
+    "path": "外科学/04-胸部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-胸部外科#五、脓胸]]"
+  },
+  {
+   "id": "node_11_a1384d",
+   "kind": "text",
+   "title": "演变：渗出→纤维素→**机化**（纤维板）",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_13_31c681",
+   "kind": "text",
+   "title": "慢性首选**纤维板剥脱术**",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_16_624c69",
+   "kind": "notebook",
+   "title": "七、食管癌",
+   "x": 240,
+   "y": 880.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-胸部外科#七、食管癌]]",
+    "path": "外科学/04-胸部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-胸部外科#七、食管癌]]"
+  },
+  {
+   "id": "node_17_7e8f80",
+   "kind": "text",
+   "title": "**胸中段、鳞癌**最多见",
+   "x": 480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_19_3e75c3",
+   "kind": "text",
+   "title": "**进行性吞咽困难**=中晚期标志；胃镜活检确诊",
+   "x": 480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1b_a7f36a",
+   "kind": "text",
+   "title": "颈段与胸上段**放疗为主**，中下段手术为主",
+   "x": 480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1e_e4855a",
+   "kind": "notebook",
+   "title": "二、气胸（创伤性三型）",
+   "x": -240,
+   "y": 110.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-胸部外科#二、气胸（创伤性三型）]]",
+    "path": "外科学/04-胸部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-胸部外科#二、气胸（创伤性三型）]]"
+  },
+  {
+   "id": "node_1f_c03f35",
+   "kind": "text",
+   "title": "**张力性**：单向活瓣，现场**先减压**（锁骨中线第 2 肋间粗针排气）",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_21_c521bf",
+   "kind": "text",
+   "title": "**开放性**：先封闭伤口变闭合",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_23_1b494e",
+   "kind": "text",
+   "title": "闭式引流：气**第 2 肋间**、液**第 6–8 肋间**，沿**肋上缘**进管",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_26_3805f9",
+   "kind": "notebook",
+   "title": "四、创伤性窒息",
+   "x": -240,
+   "y": 330.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-胸部外科#四、创伤性窒息]]",
+    "path": "外科学/04-胸部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-胸部外科#四、创伤性窒息]]"
+  },
+  {
+   "id": "node_27_2d06e8",
+   "kind": "text",
+   "title": "**声门紧闭→上腔静脉逆流→上半身瘀斑**",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2a_b22746",
+   "kind": "notebook",
+   "title": "六、肺癌的外科治疗原则",
+   "x": -240,
+   "y": 495.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-胸部外科#六、肺癌的外科治疗原则]]",
+    "path": "外科学/04-胸部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-胸部外科#六、肺癌的外科治疗原则]]"
+  },
+  {
+   "id": "node_2b_8498e1",
+   "kind": "text",
+   "title": "**肺叶切除+系统淋巴结清扫**=标准术式",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2d_cdb1c",
+   "kind": "text",
+   "title": "**右全肺**切除最慎重",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_25b8fd",
+   "source": "node_2_ce7ae7",
+   "target": "node_3_32fa2d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_6_bd4a9",
+   "source": "node_2_ce7ae7",
+   "target": "node_5_640be",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_8_fbe33b",
+   "source": "node_2_ce7ae7",
+   "target": "node_7_3eae00",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_9_79a289",
+   "source": "node_1_39820c",
+   "target": "node_2_ce7ae7",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_c_c4bbb7",
+   "source": "node_a_9c7c73",
+   "target": "node_b_d98868",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_e_749627",
+   "source": "node_a_9c7c73",
+   "target": "node_d_12a4de",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_f_6a18ce",
+   "source": "node_1_39820c",
+   "target": "node_a_9c7c73",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_12_935f2b",
+   "source": "node_10_e2d9de",
+   "target": "node_11_a1384d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_14_b7e584",
+   "source": "node_10_e2d9de",
+   "target": "node_13_31c681",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_15_b24445",
+   "source": "node_1_39820c",
+   "target": "node_10_e2d9de",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_18_664fa6",
+   "source": "node_16_624c69",
+   "target": "node_17_7e8f80",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1a_25c73c",
+   "source": "node_16_624c69",
+   "target": "node_19_3e75c3",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1c_b00805",
+   "source": "node_16_624c69",
+   "target": "node_1b_a7f36a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1d_16b62",
+   "source": "node_1_39820c",
+   "target": "node_16_624c69",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_20_dc45d5",
+   "source": "node_1e_e4855a",
+   "target": "node_1f_c03f35",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_22_e2add9",
+   "source": "node_1e_e4855a",
+   "target": "node_21_c521bf",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_24_c7468f",
+   "source": "node_1e_e4855a",
+   "target": "node_23_1b494e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_25_6cd661",
+   "source": "node_1_39820c",
+   "target": "node_1e_e4855a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_28_cdda24",
+   "source": "node_26_3805f9",
+   "target": "node_27_2d06e8",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_29_f53d43",
+   "source": "node_1_39820c",
+   "target": "node_26_3805f9",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2c_76ecbd",
+   "source": "node_2a_b22746",
+   "target": "node_2b_8498e1",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2e_8eb225",
+   "source": "node_2a_b22746",
+   "target": "node_2d_cdb1c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2f_3fcb75",
+   "source": "node_1_39820c",
+   "target": "node_2a_b22746",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

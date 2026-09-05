@@ -1,0 +1,497 @@
+{
+ "version": 1,
+ "title": "02-神经外科 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_43f59a",
+   "kind": "text",
+   "title": "外科学·神经外科",
+   "x": 0,
+   "y": 460.625,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_9cb39",
+   "kind": "notebook",
+   "title": "一、颅内压增高",
+   "x": 240,
+   "y": 110.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-神经外科#一、颅内压增高]]",
+    "path": "外科学/02-神经外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-神经外科#一、颅内压增高]]"
+  },
+  {
+   "id": "node_3_1bc044",
+   "kind": "text",
+   "title": "三主征：**头痛（晨重）、喷射性呕吐、视盘水肿**",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_5_6f3f92",
+   "kind": "text",
+   "title": "**Cushing 反应**：两慢一高→濒临脑疝",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_7_ba81ed",
+   "kind": "text",
+   "title": "甘露醇脱水；**显著颅高压禁腰穿**",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_a_6fb782",
+   "kind": "notebook",
+   "title": "三、头皮损伤",
+   "x": 240,
+   "y": 330.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-神经外科#三、头皮损伤]]",
+    "path": "外科学/02-神经外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-神经外科#三、头皮损伤]]"
+  },
+  {
+   "id": "node_b_9b3080",
+   "kind": "text",
+   "title": "皮下小硬 / 帽状腱膜下可蔓延全头 / **骨膜下不越颅缝**",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_e_1d9af6",
+   "kind": "notebook",
+   "title": "五、闭合性脑损伤",
+   "x": 240,
+   "y": 550.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-神经外科#五、闭合性脑损伤：脑震荡 vs 脑挫裂伤]]",
+    "path": "外科学/02-神经外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-神经外科#五、闭合性脑损伤：脑震荡 vs 脑挫裂伤]]"
+  },
+  {
+   "id": "node_f_629c2a",
+   "kind": "text",
+   "title": "**脑震荡**：＜30 min+逆行性遗忘+CT 阴性",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_11_939b46",
+   "kind": "text",
+   "title": "**脑挫裂伤**：＞30 min+局灶体征",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_13_41357e",
+   "kind": "text",
+   "title": "DAI：伤重而 CT 轻",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_16_6fa177",
+   "kind": "notebook",
+   "title": "七、GCS 昏迷评分",
+   "x": 240,
+   "y": 770.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-神经外科#七、GCS 昏迷评分（格拉斯哥）]]",
+    "path": "外科学/02-神经外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-神经外科#七、GCS 昏迷评分（格拉斯哥）]]"
+  },
+  {
+   "id": "node_17_6ed6",
+   "kind": "text",
+   "title": "睁 4+语 5+动 6；**≤8 为昏迷需插管**",
+   "x": 480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1a_ce777f",
+   "kind": "notebook",
+   "title": "二、脑疝",
+   "x": -240,
+   "y": 110.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-神经外科#二、脑疝]]",
+    "path": "外科学/02-神经外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-神经外科#二、脑疝]]"
+  },
+  {
+   "id": "node_1b_89d7fd",
+   "kind": "text",
+   "title": "**切迹疝**：意识→瞳孔→生命体征；同侧瞳孔先缩后散",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1d_b82c90",
+   "kind": "text",
+   "title": "**枕大孔疝**：呼吸骤停可首发",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1f_bdf070",
+   "kind": "text",
+   "title": "快速脱水+病因手术",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_22_3270e4",
+   "kind": "notebook",
+   "title": "四、颅骨骨折",
+   "x": -240,
+   "y": 385.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-神经外科#四、颅骨骨折]]",
+    "path": "外科学/02-神经外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-神经外科#四、颅骨骨折]]"
+  },
+  {
+   "id": "node_23_5d3d9e",
+   "kind": "text",
+   "title": "**熊猫眼=前颅窝**、Battle 征=中后颅窝",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_25_11e9cd",
+   "kind": "text",
+   "title": "脑脊液漏：不堵塞不冲洗、禁腰穿",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_28_ebb7a3",
+   "kind": "notebook",
+   "title": "六、颅内血肿",
+   "x": -240,
+   "y": 605.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-神经外科#六、颅内血肿（外伤性）]]",
+    "path": "外科学/02-神经外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-神经外科#六、颅内血肿（外伤性）]]"
+  },
+  {
+   "id": "node_29_5487fd",
+   "kind": "text",
+   "title": "**硬膜外**：脑膜中动脉、梭形不跨颅缝、中间清醒期",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2b_505cc6",
+   "kind": "text",
+   "title": "**硬膜下**：新月形跨颅缝；慢性→钻孔引流",
+   "x": -480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2e_1fe771",
+   "kind": "notebook",
+   "title": "八、处理原则与重症要点",
+   "x": -240,
+   "y": 825.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-神经外科#八、颅脑损伤处理原则与重症要点]]",
+    "path": "外科学/02-神经外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-神经外科#八、颅脑损伤处理原则与重症要点]]"
+  },
+  {
+   "id": "node_2f_b841d0",
+   "kind": "text",
+   "title": "先救命后诊断；单一颅脑伤很少休克",
+   "x": -480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_31_4ce1eb",
+   "kind": "text",
+   "title": "动态三指标：意识、瞳孔、生命体征",
+   "x": -480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_98b8e4",
+   "source": "node_2_9cb39",
+   "target": "node_3_1bc044",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_6_587ef3",
+   "source": "node_2_9cb39",
+   "target": "node_5_6f3f92",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_8_c9535b",
+   "source": "node_2_9cb39",
+   "target": "node_7_ba81ed",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_9_504d28",
+   "source": "node_1_43f59a",
+   "target": "node_2_9cb39",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_c_fbf6e1",
+   "source": "node_a_6fb782",
+   "target": "node_b_9b3080",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_d_82ec9f",
+   "source": "node_1_43f59a",
+   "target": "node_a_6fb782",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_10_e645f1",
+   "source": "node_e_1d9af6",
+   "target": "node_f_629c2a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_12_30a900",
+   "source": "node_e_1d9af6",
+   "target": "node_11_939b46",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_14_b5cea",
+   "source": "node_e_1d9af6",
+   "target": "node_13_41357e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_15_b572f3",
+   "source": "node_1_43f59a",
+   "target": "node_e_1d9af6",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_18_85197f",
+   "source": "node_16_6fa177",
+   "target": "node_17_6ed6",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_19_ecf27e",
+   "source": "node_1_43f59a",
+   "target": "node_16_6fa177",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1c_afd5de",
+   "source": "node_1a_ce777f",
+   "target": "node_1b_89d7fd",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1e_f0b515",
+   "source": "node_1a_ce777f",
+   "target": "node_1d_b82c90",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_20_bcae80",
+   "source": "node_1a_ce777f",
+   "target": "node_1f_bdf070",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_21_abae4f",
+   "source": "node_1_43f59a",
+   "target": "node_1a_ce777f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_24_6e6981",
+   "source": "node_22_3270e4",
+   "target": "node_23_5d3d9e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_26_f2e970",
+   "source": "node_22_3270e4",
+   "target": "node_25_11e9cd",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_27_aa0b7b",
+   "source": "node_1_43f59a",
+   "target": "node_22_3270e4",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2a_9f871c",
+   "source": "node_28_ebb7a3",
+   "target": "node_29_5487fd",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2c_a9d3c2",
+   "source": "node_28_ebb7a3",
+   "target": "node_2b_505cc6",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2d_d91787",
+   "source": "node_1_43f59a",
+   "target": "node_28_ebb7a3",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_30_e66978",
+   "source": "node_2e_1fe771",
+   "target": "node_2f_b841d0",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_32_81d2c7",
+   "source": "node_2e_1fe771",
+   "target": "node_31_4ce1eb",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_33_4f2d47",
+   "source": "node_1_43f59a",
+   "target": "node_2e_1fe771",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

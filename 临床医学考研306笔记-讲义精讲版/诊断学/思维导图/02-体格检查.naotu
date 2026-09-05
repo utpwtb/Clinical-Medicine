@@ -1,0 +1,644 @@
+{
+ "version": 1,
+ "title": "02-体格检查 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_eec259",
+   "kind": "text",
+   "title": "诊断学·体格检查",
+   "x": 0,
+   "y": 644.2857142857143,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_b77350",
+   "kind": "notebook",
+   "title": "第 1 节 基本检查方法与叩诊音",
+   "x": 240,
+   "y": 55.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-体格检查#第 1 节 基本检查方法与叩诊音]]",
+    "path": "诊断学/02-体格检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-体格检查#第 1 节 基本检查方法与叩诊音]]"
+  },
+  {
+   "id": "node_3_4ab770",
+   "kind": "text",
+   "title": "视触叩听＋嗅诊（烂苹果味/氨味/肝腥味/大蒜味）",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_5_b495db",
+   "kind": "text",
+   "title": "叩诊五音-疾病配对（过清音=肺气肿等）",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_8_d5b077",
+   "kind": "notebook",
+   "title": "第 3 节 头颈部检查",
+   "x": 240,
+   "y": 385.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-体格检查#第 3 节 头颈部检查]]",
+    "path": "诊断学/02-体格检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-体格检查#第 3 节 头颈部检查]]"
+  },
+  {
+   "id": "node_9_7b8517",
+   "kind": "text",
+   "title": "瞳孔：针尖样=有机磷/吗啡/脑桥出血",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_b_78e365",
+   "kind": "text",
+   "title": "颈静脉怒张与肝颈静脉回流征（右心衰竭）",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_d_74eff5",
+   "kind": "text",
+   "title": "甲状腺分度与 Graves 连续性血管杂音",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_f_250741",
+   "kind": "text",
+   "title": "气管移位：推向健侧、拉向患侧",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_12_ebff8d",
+   "kind": "notebook",
+   "title": "第 5 节 心脏检查",
+   "x": 240,
+   "y": 880.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-体格检查#第 5 节 心脏检查]]",
+    "path": "诊断学/02-体格检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-体格检查#第 5 节 心脏检查]]"
+  },
+  {
+   "id": "node_13_9970cf",
+   "kind": "text",
+   "title": "心尖冲动移位与负性心尖冲动",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_15_bf0d07",
+   "kind": "text",
+   "title": "三种心型：靴形/梨形/烧瓶形",
+   "x": 480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_17_22f235",
+   "kind": "text",
+   "title": "S1 vs S2、心音强度改变与奔马律",
+   "x": 480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_19_11df12",
+   "kind": "text",
+   "title": "杂音六要素＋各瓣膜区器质性杂音配对",
+   "x": 480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1b_c5ce09",
+   "kind": "text",
+   "title": "房颤三特征",
+   "x": 480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1e_6a39aa",
+   "kind": "notebook",
+   "title": "第 7 节 脊柱、四肢与神经系统检查",
+   "x": 240,
+   "y": 1375.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-体格检查#第 7 节 脊柱、四肢与神经系统检查]]",
+    "path": "诊断学/02-体格检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-体格检查#第 7 节 脊柱、四肢与神经系统检查]]"
+  },
+  {
+   "id": "node_1f_570210",
+   "kind": "text",
+   "title": "肌力 0～5 级、折刀样 vs 铅管样肌张力",
+   "x": 480,
+   "y": 1210,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_21_c9a7d9",
+   "kind": "text",
+   "title": "上 vs 下运动神经元瘫痪鉴别（Babinski 征）",
+   "x": 480,
+   "y": 1320,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_23_44656d",
+   "kind": "text",
+   "title": "病理反射与脑膜刺激征三项",
+   "x": 480,
+   "y": 1430,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_25_a81d",
+   "kind": "text",
+   "title": "杵状指（慢性缺氧）与匙状甲（缺铁）",
+   "x": 480,
+   "y": 1540,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_28_4c6e27",
+   "kind": "notebook",
+   "title": "第 2 节 一般检查",
+   "x": -240,
+   "y": 165.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-体格检查#第 2 节 一般检查]]",
+    "path": "诊断学/02-体格检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-体格检查#第 2 节 一般检查]]"
+  },
+  {
+   "id": "node_29_d664d2",
+   "kind": "text",
+   "title": "面容-疾病配对（甲亢/黏液性/满月面容）",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2b_9475db",
+   "kind": "text",
+   "title": "皮疹五型与玫瑰疹（伤寒）",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2d_a8f1e0",
+   "kind": "text",
+   "title": "蜘蛛痣与肝掌：上腔静脉引流区＋雌激素灭活↓",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2f_dd81b7",
+   "kind": "text",
+   "title": "浅表淋巴结：Virchow 淋巴结（左锁骨上）",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_32_89e06a",
+   "kind": "notebook",
+   "title": "第 4 节 胸部与肺检查",
+   "x": -240,
+   "y": 605.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-体格检查#第 4 节 胸部与肺检查]]",
+    "path": "诊断学/02-体格检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-体格检查#第 4 节 胸部与肺检查]]"
+  },
+  {
+   "id": "node_33_7bfdcc",
+   "kind": "text",
+   "title": "语音震颤：增强=实变与空洞、减弱=气胸胸水肺气肿",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_35_551ac8",
+   "kind": "text",
+   "title": "三种正常呼吸音＋异常支气管呼吸音三情形",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_37_c34b9f",
+   "kind": "text",
+   "title": "桶状胸、Velcro 啰音（肺间质纤维化）",
+   "x": -480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_39_6090d6",
+   "kind": "text",
+   "title": "胸膜摩擦音 vs 心包摩擦音（屏气试验）",
+   "x": -480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3c_526000",
+   "kind": "notebook",
+   "title": "第 6 节 腹部检查",
+   "x": -240,
+   "y": 1045.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-体格检查#第 6 节 腹部检查]]",
+    "path": "诊断学/02-体格检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-体格检查#第 6 节 腹部检查]]"
+  },
+  {
+   "id": "node_3d_de9e37",
+   "kind": "text",
+   "title": "腹壁静脉血流方向判读（门脉高压/上下腔阻塞）",
+   "x": -480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3f_fb140b",
+   "kind": "text",
+   "title": "腹膜刺激征、Murphy 征、Courvoisier 征",
+   "x": -480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_41_3d225c",
+   "kind": "text",
+   "title": "移动性浊音 ＞1000ml、液波震颤 3000～4000ml",
+   "x": -480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_43_620a60",
+   "kind": "text",
+   "title": "肠鸣音异常与脾肿大分度",
+   "x": -480,
+   "y": 1210,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_82456f",
+   "source": "node_2_b77350",
+   "target": "node_3_4ab770",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_6_45ff2c",
+   "source": "node_2_b77350",
+   "target": "node_5_b495db",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_7_6a5d93",
+   "source": "node_1_eec259",
+   "target": "node_2_b77350",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_a_faf14f",
+   "source": "node_8_d5b077",
+   "target": "node_9_7b8517",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_c_3e6526",
+   "source": "node_8_d5b077",
+   "target": "node_b_78e365",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_e_8d1fb5",
+   "source": "node_8_d5b077",
+   "target": "node_d_74eff5",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_10_6232b1",
+   "source": "node_8_d5b077",
+   "target": "node_f_250741",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_11_30cbd7",
+   "source": "node_1_eec259",
+   "target": "node_8_d5b077",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_14_821c13",
+   "source": "node_12_ebff8d",
+   "target": "node_13_9970cf",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_16_e11b86",
+   "source": "node_12_ebff8d",
+   "target": "node_15_bf0d07",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_18_dd30de",
+   "source": "node_12_ebff8d",
+   "target": "node_17_22f235",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1a_46b826",
+   "source": "node_12_ebff8d",
+   "target": "node_19_11df12",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1c_ca3dd8",
+   "source": "node_12_ebff8d",
+   "target": "node_1b_c5ce09",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1d_dabac5",
+   "source": "node_1_eec259",
+   "target": "node_12_ebff8d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_20_ef2ae7",
+   "source": "node_1e_6a39aa",
+   "target": "node_1f_570210",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_22_81fb18",
+   "source": "node_1e_6a39aa",
+   "target": "node_21_c9a7d9",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_24_d20f87",
+   "source": "node_1e_6a39aa",
+   "target": "node_23_44656d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_26_486822",
+   "source": "node_1e_6a39aa",
+   "target": "node_25_a81d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_27_b9de7a",
+   "source": "node_1_eec259",
+   "target": "node_1e_6a39aa",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2a_96418c",
+   "source": "node_28_4c6e27",
+   "target": "node_29_d664d2",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2c_ffb810",
+   "source": "node_28_4c6e27",
+   "target": "node_2b_9475db",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2e_7d5911",
+   "source": "node_28_4c6e27",
+   "target": "node_2d_a8f1e0",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_30_260a59",
+   "source": "node_28_4c6e27",
+   "target": "node_2f_dd81b7",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_31_7250ee",
+   "source": "node_1_eec259",
+   "target": "node_28_4c6e27",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_34_585a0a",
+   "source": "node_32_89e06a",
+   "target": "node_33_7bfdcc",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_36_8d4a75",
+   "source": "node_32_89e06a",
+   "target": "node_35_551ac8",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_38_8b1e3b",
+   "source": "node_32_89e06a",
+   "target": "node_37_c34b9f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3a_749176",
+   "source": "node_32_89e06a",
+   "target": "node_39_6090d6",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3b_eecf67",
+   "source": "node_1_eec259",
+   "target": "node_32_89e06a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3e_304b85",
+   "source": "node_3c_526000",
+   "target": "node_3d_de9e37",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_40_b28f41",
+   "source": "node_3c_526000",
+   "target": "node_3f_fb140b",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_42_926154",
+   "source": "node_3c_526000",
+   "target": "node_41_3d225c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_44_3bcabf",
+   "source": "node_3c_526000",
+   "target": "node_43_620a60",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_45_db23aa",
+   "source": "node_1_eec259",
+   "target": "node_3c_526000",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

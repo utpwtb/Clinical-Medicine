@@ -1,0 +1,908 @@
+{
+ "version": 1,
+ "title": "05-腹部外科 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_eadf50",
+   "kind": "text",
+   "title": "外科学·腹部外科",
+   "x": 0,
+   "y": 828.2352941176471,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_d92c92",
+   "kind": "notebook",
+   "title": "一、腹外疝",
+   "x": 240,
+   "y": 55.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[05-腹部外科#一、腹外疝]]",
+    "path": "外科学/05-腹部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[05-腹部外科#一、腹外疝]]"
+  },
+  {
+   "id": "node_3_1f115b",
+   "kind": "text",
+   "title": "斜vs直疝：回纳后压内环决定性鉴别；股疝最易嵌顿",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_5_222282",
+   "kind": "text",
+   "title": "嵌顿→绞窄；Richter/滑动疝特殊类型",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_8_aae65f",
+   "kind": "notebook",
+   "title": "三、急性弥漫性腹膜炎",
+   "x": 240,
+   "y": 275.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[05-腹部外科#三、急性弥漫性腹膜炎]]",
+    "path": "外科学/05-腹部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[05-腹部外科#三、急性弥漫性腹膜炎]]"
+  },
+  {
+   "id": "node_9_87f842",
+   "kind": "text",
+   "title": "继发性最常见（G⁻+厌氧菌混合）",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_b_8f15ba",
+   "kind": "text",
+   "title": "半卧位三大理由；盆腔脓肿直肠刺激征",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_e_f335cb",
+   "kind": "notebook",
+   "title": "五、胃癌",
+   "x": 240,
+   "y": 495.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[05-腹部外科#五、胃癌]]",
+    "path": "外科学/05-腹部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[05-腹部外科#五、胃癌]]"
+  },
+  {
+   "id": "node_f_c15810",
+   "kind": "text",
+   "title": "早期=浸润限于黏膜及黏膜下层",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_11_714c7d",
+   "kind": "text",
+   "title": "淋巴转移最主要；D2清扫",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_14_b82256",
+   "kind": "notebook",
+   "title": "七、肠系膜血管缺血性疾病",
+   "x": 240,
+   "y": 660.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[05-腹部外科#七、肠系膜血管缺血性疾病]]",
+    "path": "外科学/05-腹部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[05-腹部外科#七、肠系膜血管缺血性疾病]]"
+  },
+  {
+   "id": "node_15_e45b71",
+   "kind": "text",
+   "title": "“症征不符”+房颤栓子→CTA",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_18_d4a02e",
+   "kind": "notebook",
+   "title": "九、结直肠癌",
+   "x": 240,
+   "y": 825.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[05-腹部外科#九、结直肠癌]]",
+    "path": "外科学/05-腹部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[05-腹部外科#九、结直肠癌]]"
+  },
+  {
+   "id": "node_19_e827a1",
+   "kind": "text",
+   "title": "右半=贫血+包块、左半=便血+梗阻",
+   "x": 480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1b_722764",
+   "kind": "text",
+   "title": "Dixon保肛/Miles造口/Hartmann",
+   "x": 480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1e_be6033",
+   "kind": "notebook",
+   "title": "十一、肝脓肿",
+   "x": 240,
+   "y": 990.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[05-腹部外科#十一、肝脓肿]]",
+    "path": "外科学/05-腹部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[05-腹部外科#十一、肝脓肿]]"
+  },
+  {
+   "id": "node_1f_dc8aee",
+   "kind": "text",
+   "title": "多发=细菌（胆道）；单发果酱样=阿米巴",
+   "x": 480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_22_425a60",
+   "kind": "notebook",
+   "title": "十三、门静脉高压症",
+   "x": 240,
+   "y": 1155.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[05-腹部外科#十三、门静脉高压症]]",
+    "path": "外科学/05-腹部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[05-腹部外科#十三、门静脉高压症]]"
+  },
+  {
+   "id": "node_23_c07471",
+   "kind": "text",
+   "title": "侧支循环四组；脾大脾亢+腹水",
+   "x": 480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_25_d70141",
+   "kind": "text",
+   "title": "断流vs分流",
+   "x": 480,
+   "y": 1210,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_28_c40c5d",
+   "kind": "notebook",
+   "title": "十五、急性胰腺炎（外科视角）",
+   "x": 240,
+   "y": 1320.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[05-腹部外科#十五、急性胰腺炎（外科视角）]]",
+    "path": "外科学/05-腹部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[05-腹部外科#十五、急性胰腺炎（外科视角）]]"
+  },
+  {
+   "id": "node_29_c715b2",
+   "kind": "text",
+   "title": "感染性坏死才手术：升阶梯策略",
+   "x": 480,
+   "y": 1320,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2c_a07295",
+   "kind": "notebook",
+   "title": "十七、周围血管疾病",
+   "x": 240,
+   "y": 1430.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[05-腹部外科#十七、周围血管疾病]]",
+    "path": "外科学/05-腹部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[05-腹部外科#十七、周围血管疾病]]"
+  },
+  {
+   "id": "node_2d_3d3f37",
+   "kind": "text",
+   "title": "DVT预防三层次；5P征；Fontaine分期",
+   "x": 480,
+   "y": 1430,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_30_13d5f2",
+   "kind": "notebook",
+   "title": "二、腹部损伤",
+   "x": -240,
+   "y": 55.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[05-腹部外科#二、腹部损伤]]",
+    "path": "外科学/05-腹部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[05-腹部外科#二、腹部损伤]]"
+  },
+  {
+   "id": "node_31_b6aae0",
+   "kind": "text",
+   "title": "实质=内出血休克、空腔=腹膜炎+膈下游离气体",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_33_3c07c5",
+   "kind": "text",
+   "title": "脾延迟破裂1–2周；防OPSI",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_36_51d87c",
+   "kind": "notebook",
+   "title": "四、胃十二指肠溃疡的外科治疗",
+   "x": -240,
+   "y": 330.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[05-腹部外科#四、胃十二指肠溃疡的外科治疗]]",
+    "path": "外科学/05-腹部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[05-腹部外科#四、胃十二指肠溃疡的外科治疗]]"
+  },
+  {
+   "id": "node_37_e49d68",
+   "kind": "text",
+   "title": "毕Ⅰvs毕Ⅱ选择逻辑",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_39_14a0bc",
+   "kind": "text",
+   "title": "术后呕吐物定性（输入袢/输出袢）",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3b_269cd6",
+   "kind": "text",
+   "title": "倾倒综合征两型时间轴",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3e_b1a6b1",
+   "kind": "notebook",
+   "title": "六、肠梗阻",
+   "x": -240,
+   "y": 605.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[05-腹部外科#六、肠梗阻]]",
+    "path": "外科学/05-腹部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[05-腹部外科#六、肠梗阻]]"
+  },
+  {
+   "id": "node_3f_271e3e",
+   "kind": "text",
+   "title": "“痛、吐、胀、闭”四字诀",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_41_36c59d",
+   "kind": "text",
+   "title": "绞窄性识别=急诊手术指征",
+   "x": -480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_44_68586e",
+   "kind": "notebook",
+   "title": "八、急性阑尾炎",
+   "x": -240,
+   "y": 825.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[05-腹部外科#八、急性阑尾炎]]",
+    "path": "外科学/05-腹部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[05-腹部外科#八、急性阑尾炎]]"
+  },
+  {
+   "id": "node_45_54b4a4",
+   "kind": "text",
+   "title": "转移性右下腹痛机制（T10牵涉→麦氏点）",
+   "x": -480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_47_7746d0",
+   "kind": "text",
+   "title": "阑尾周围脓肿：先引流、3个月后二期切",
+   "x": -480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_4a_34f319",
+   "kind": "notebook",
+   "title": "十、肛管直肠良性疾病",
+   "x": -240,
+   "y": 990.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[05-腹部外科#十、肛管直肠良性疾病]]",
+    "path": "外科学/05-腹部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[05-腹部外科#十、肛管直肠良性疾病]]"
+  },
+  {
+   "id": "node_4b_d5385b",
+   "kind": "text",
+   "title": "肛裂三联征；Goodsall规律；内痔分度",
+   "x": -480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_4e_e7a37e",
+   "kind": "notebook",
+   "title": "十二、原发性肝癌",
+   "x": -240,
+   "y": 1155.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[05-腹部外科#十二、原发性肝癌]]",
+    "path": "外科学/05-腹部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[05-腹部外科#十二、原发性肝癌]]"
+  },
+  {
+   "id": "node_4f_c51155",
+   "kind": "text",
+   "title": "AFP≥400×4周或≥200×8周",
+   "x": -480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_51_f2311f",
+   "kind": "text",
+   "title": "消融≤3cm；TACE=肝动脉供血；Milan标准",
+   "x": -480,
+   "y": 1210,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_54_db52ca",
+   "kind": "notebook",
+   "title": "十四、胆道疾病",
+   "x": -240,
+   "y": 1375.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[05-腹部外科#十四、胆道疾病]]",
+    "path": "外科学/05-腹部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[05-腹部外科#十四、胆道疾病]]"
+  },
+  {
+   "id": "node_55_e172b7",
+   "kind": "text",
+   "title": "Charcot三联vs Reynolds五联",
+   "x": -480,
+   "y": 1320,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_57_936071",
+   "kind": "text",
+   "title": "AOSC先减压引流；LC金标准",
+   "x": -480,
+   "y": 1430,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_5a_18267",
+   "kind": "notebook",
+   "title": "十六、胰腺癌",
+   "x": -240,
+   "y": 1540.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[05-腹部外科#十六、胰腺癌]]",
+    "path": "外科学/05-腹部外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[05-腹部外科#十六、胰腺癌]]"
+  },
+  {
+   "id": "node_5b_f15784",
+   "kind": "text",
+   "title": "无痛性进行性黄疸+Courvoisier征；Whipple",
+   "x": -480,
+   "y": 1540,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_74daae",
+   "source": "node_2_d92c92",
+   "target": "node_3_1f115b",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_6_cd29a3",
+   "source": "node_2_d92c92",
+   "target": "node_5_222282",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_7_76f2db",
+   "source": "node_1_eadf50",
+   "target": "node_2_d92c92",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_a_fce685",
+   "source": "node_8_aae65f",
+   "target": "node_9_87f842",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_c_986f90",
+   "source": "node_8_aae65f",
+   "target": "node_b_8f15ba",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_d_513a70",
+   "source": "node_1_eadf50",
+   "target": "node_8_aae65f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_10_e4347d",
+   "source": "node_e_f335cb",
+   "target": "node_f_c15810",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_12_9cd6c8",
+   "source": "node_e_f335cb",
+   "target": "node_11_714c7d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_13_d0a444",
+   "source": "node_1_eadf50",
+   "target": "node_e_f335cb",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_16_813924",
+   "source": "node_14_b82256",
+   "target": "node_15_e45b71",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_17_6d3ee1",
+   "source": "node_1_eadf50",
+   "target": "node_14_b82256",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1a_8c4156",
+   "source": "node_18_d4a02e",
+   "target": "node_19_e827a1",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1c_e5af6e",
+   "source": "node_18_d4a02e",
+   "target": "node_1b_722764",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1d_28be92",
+   "source": "node_1_eadf50",
+   "target": "node_18_d4a02e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_20_798443",
+   "source": "node_1e_be6033",
+   "target": "node_1f_dc8aee",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_21_7337c5",
+   "source": "node_1_eadf50",
+   "target": "node_1e_be6033",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_24_3f4b1a",
+   "source": "node_22_425a60",
+   "target": "node_23_c07471",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_26_a33dc7",
+   "source": "node_22_425a60",
+   "target": "node_25_d70141",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_27_46fde0",
+   "source": "node_1_eadf50",
+   "target": "node_22_425a60",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2a_8573e7",
+   "source": "node_28_c40c5d",
+   "target": "node_29_c715b2",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2b_7c0e8c",
+   "source": "node_1_eadf50",
+   "target": "node_28_c40c5d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2e_464c04",
+   "source": "node_2c_a07295",
+   "target": "node_2d_3d3f37",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2f_709b7d",
+   "source": "node_1_eadf50",
+   "target": "node_2c_a07295",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_32_49257a",
+   "source": "node_30_13d5f2",
+   "target": "node_31_b6aae0",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_34_458f1f",
+   "source": "node_30_13d5f2",
+   "target": "node_33_3c07c5",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_35_55fa1a",
+   "source": "node_1_eadf50",
+   "target": "node_30_13d5f2",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_38_8a476a",
+   "source": "node_36_51d87c",
+   "target": "node_37_e49d68",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3a_236c7b",
+   "source": "node_36_51d87c",
+   "target": "node_39_14a0bc",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3c_3b33f3",
+   "source": "node_36_51d87c",
+   "target": "node_3b_269cd6",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3d_620e99",
+   "source": "node_1_eadf50",
+   "target": "node_36_51d87c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_40_b4d7e2",
+   "source": "node_3e_b1a6b1",
+   "target": "node_3f_271e3e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_42_10714d",
+   "source": "node_3e_b1a6b1",
+   "target": "node_41_36c59d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_43_6a34c8",
+   "source": "node_1_eadf50",
+   "target": "node_3e_b1a6b1",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_46_8ae890",
+   "source": "node_44_68586e",
+   "target": "node_45_54b4a4",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_48_6a702e",
+   "source": "node_44_68586e",
+   "target": "node_47_7746d0",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_49_ff0a5",
+   "source": "node_1_eadf50",
+   "target": "node_44_68586e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4c_6b8e86",
+   "source": "node_4a_34f319",
+   "target": "node_4b_d5385b",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4d_63b4c0",
+   "source": "node_1_eadf50",
+   "target": "node_4a_34f319",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_50_95863a",
+   "source": "node_4e_e7a37e",
+   "target": "node_4f_c51155",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_52_b20dcb",
+   "source": "node_4e_e7a37e",
+   "target": "node_51_f2311f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_53_5000b",
+   "source": "node_1_eadf50",
+   "target": "node_4e_e7a37e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_56_c3fe01",
+   "source": "node_54_db52ca",
+   "target": "node_55_e172b7",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_58_6160a6",
+   "source": "node_54_db52ca",
+   "target": "node_57_936071",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_59_7a1b58",
+   "source": "node_1_eadf50",
+   "target": "node_54_db52ca",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_5c_5a0cdd",
+   "source": "node_5a_18267",
+   "target": "node_5b_f15784",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_5d_4c71e0",
+   "source": "node_1_eadf50",
+   "target": "node_5a_18267",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

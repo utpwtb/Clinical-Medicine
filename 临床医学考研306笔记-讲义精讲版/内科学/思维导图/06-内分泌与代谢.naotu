@@ -1,0 +1,783 @@
+{
+ "version": 1,
+ "title": "06-内分泌与代谢 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_19108b",
+   "kind": "text",
+   "title": "内科学·内分泌与代谢",
+   "x": 0,
+   "y": 615.3125,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_cf35b",
+   "kind": "notebook",
+   "title": "一、Graves 病",
+   "x": 240,
+   "y": 110.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-内分泌与代谢#一、Graves 病（弥漫性毒性甲状腺肿）]]",
+    "path": "内科学/06-内分泌与代谢.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-内分泌与代谢#一、Graves 病（弥漫性毒性甲状腺肿）]]"
+  },
+  {
+   "id": "node_3_a6f2f7",
+   "kind": "text",
+   "title": "TRAb（TSAb）→TH 合成分泌↑；TSH↓、FT₃/FT₄↑、摄碘率增高高峰前移",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_5_8a63f8",
+   "kind": "text",
+   "title": "三疗法对比：ATD（MMI 首选，粒缺最重）/ ¹³¹I（甲减）/ 手术（压迫、疑恶变）",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_7_3c72b",
+   "kind": "text",
+   "title": "危象：高热＞39℃+心率＞140；PTU→碘剂→β 阻滞剂→氢化可的松",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_a_ed2662",
+   "kind": "notebook",
+   "title": "三、甲状腺炎：亚急性 vs 桥本",
+   "x": 240,
+   "y": 385.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-内分泌与代谢#三、甲状腺炎：亚急性 vs 桥本（必背对比表）]]",
+    "path": "内科学/06-内分泌与代谢.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-内分泌与代谢#三、甲状腺炎：亚急性 vs 桥本（必背对比表）]]"
+  },
+  {
+   "id": "node_b_c0e9ab",
+   "kind": "text",
+   "title": "亚甲炎=疼痛+ESR↑+摄碘率与 FT₄“分离”，自限",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_d_3c835d",
+   "kind": "text",
+   "title": "桥本=TPOAb/TGAb+最终甲减，L-T₄ 终身替代",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_10_7c52fa",
+   "kind": "notebook",
+   "title": "五、库欣综合征",
+   "x": 240,
+   "y": 605.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-内分泌与代谢#五、库欣综合征（Cushing 综合征）]]",
+    "path": "内科学/06-内分泌与代谢.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-内分泌与代谢#五、库欣综合征（Cushing 综合征）]]"
+  },
+  {
+   "id": "node_11_7b3a4e",
+   "kind": "text",
+   "title": "病因：Cushing 病（垂体）最常见；定性→定位（ACTH）→分型（大剂量 DXM 抑制）",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_13_dd59ba",
+   "kind": "text",
+   "title": "异位 ACTH：低钾碱中毒+色素沉着突出",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_16_f02ba",
+   "kind": "notebook",
+   "title": "七、嗜铬细胞瘤与副神经节瘤",
+   "x": 240,
+   "y": 770.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-内分泌与代谢#七、嗜铬细胞瘤与副神经节瘤（PPGL）]]",
+    "path": "内科学/06-内分泌与代谢.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-内分泌与代谢#七、嗜铬细胞瘤与副神经节瘤（PPGL）]]"
+  },
+  {
+   "id": "node_17_2a25a8",
+   "kind": "text",
+   "title": "三联征=头痛+心悸+多汗；MNs 定性；治疗“先 α 后 β”，危象用酚妥拉明",
+   "x": 480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1a_fc3d33",
+   "kind": "notebook",
+   "title": "九、垂体瘤（PRL 瘤、GH 瘤）",
+   "x": 240,
+   "y": 880.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-内分泌与代谢#九、垂体瘤（PRL 瘤、GH 瘤）]]",
+    "path": "内科学/06-内分泌与代谢.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-内分泌与代谢#九、垂体瘤（PRL 瘤、GH 瘤）]]"
+  },
+  {
+   "id": "node_1b_63f2ae",
+   "kind": "text",
+   "title": "PRL 瘤首选溴隐亭；GH 瘤=IGF-1↑+葡萄糖抑制试验",
+   "x": 480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1e_c8b8d9",
+   "kind": "notebook",
+   "title": "十一、糖尿病",
+   "x": 240,
+   "y": 1100.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-内分泌与代谢#十一、糖尿病]]",
+    "path": "内科学/06-内分泌与代谢.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-内分泌与代谢#十一、糖尿病]]"
+  },
+  {
+   "id": "node_1f_c8fe3c",
+   "kind": "text",
+   "title": "诊断：FPG≥7.0 / 2h≥11.1 / 随机+症状≥11.1 / HbA1c≥6.5%",
+   "x": 480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_21_490617",
+   "kind": "text",
+   "title": "DKA：补液第一→小剂量胰岛素→补钾→pH＜7.1 才补碱；HHS 渗透压＞320",
+   "x": 480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_23_b253d2",
+   "kind": "text",
+   "title": "药物：二甲双胍一线；SGLT2i 心肾获益；黎明现象 vs Somogyi 测 3 am 血糖",
+   "x": 480,
+   "y": 1210,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_26_fed405",
+   "kind": "notebook",
+   "title": "十三、痛风与高尿酸血症",
+   "x": 240,
+   "y": 1375.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-内分泌与代谢#十三、痛风与高尿酸血症]]",
+    "path": "内科学/06-内分泌与代谢.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-内分泌与代谢#十三、痛风与高尿酸血症]]"
+  },
+  {
+   "id": "node_27_c88a61",
+   "kind": "text",
+   "title": "急性期三药（秋水仙碱/NSAIDs/激素），急性期不加降尿酸药",
+   "x": 480,
+   "y": 1320,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_29_a97065",
+   "kind": "text",
+   "title": "别嘌醇前筛查 HLA-B*5801；目标 ＜360/＜300",
+   "x": 480,
+   "y": 1430,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2c_27a0c3",
+   "kind": "notebook",
+   "title": "十五、补充要点：甲状旁腺疾病与多发性内分泌腺瘤病",
+   "x": 240,
+   "y": 1540.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-内分泌与代谢#十五、补充要点：甲状旁腺疾病与多发性内分泌腺瘤病]]",
+    "path": "内科学/06-内分泌与代谢.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-内分泌与代谢#十五、补充要点：甲状旁腺疾病与多发性内分泌腺瘤病]]"
+  },
+  {
+   "id": "node_2d_309d25",
+   "kind": "text",
+   "title": "甲旁亢“骨石胃神经”；MEN1=3P，MEN2=髓样癌+嗜铬",
+   "x": 480,
+   "y": 1540,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_30_f7fd56",
+   "kind": "notebook",
+   "title": "二、甲状腺功能减退症与黏液性水肿昏迷",
+   "x": -240,
+   "y": 0.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-内分泌与代谢#二、甲状腺功能减退症与黏液性水肿昏迷]]",
+    "path": "内科学/06-内分泌与代谢.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-内分泌与代谢#二、甲状腺功能减退症与黏液性水肿昏迷]]"
+  },
+  {
+   "id": "node_31_ef8c2",
+   "kind": "text",
+   "title": "原发 TSH↑+FT₄↓；黏液性水肿非凹陷；昏迷=T₄ 静脉+氢化可的松+保温",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_34_8acd4e",
+   "kind": "notebook",
+   "title": "四、甲状腺结节与甲状腺癌",
+   "x": -240,
+   "y": 110.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-内分泌与代谢#四、甲状腺结节与甲状腺癌]]",
+    "path": "内科学/06-内分泌与代谢.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-内分泌与代谢#四、甲状腺结节与甲状腺癌]]"
+  },
+  {
+   "id": "node_35_f9aea",
+   "kind": "text",
+   "title": "超声+FNA 确诊；乳头状最常见预后最好，髓样癌=降钙素+RET+MEN2",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_38_ea262",
+   "kind": "notebook",
+   "title": "六、原发性醛固酮增多症",
+   "x": -240,
+   "y": 220.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-内分泌与代谢#六、原发性醛固酮增多症（原醛）]]",
+    "path": "内科学/06-内分泌与代谢.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-内分泌与代谢#六、原发性醛固酮增多症（原醛）]]"
+  },
+  {
+   "id": "node_39_cd620",
+   "kind": "text",
+   "title": "高血压+低钾+碱中毒；ARR↑（醛固酮↑肾素↓）；腺瘤手术/增生螺内酯",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3c_80bacd",
+   "kind": "notebook",
+   "title": "八、原发性肾上腺皮质功能减退症（Addison 病）与肾上腺危象",
+   "x": -240,
+   "y": 330.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-内分泌与代谢#八、原发性肾上腺皮质功能减退症（Addison 病）与肾上腺危象]]",
+    "path": "内科学/06-内分泌与代谢.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-内分泌与代谢#八、原发性肾上腺皮质功能减退症（Addison 病）与肾上腺危象]]"
+  },
+  {
+   "id": "node_3d_eb5cf4",
+   "kind": "text",
+   "title": "色素沉着+低钠高钾；ACTH 兴奋试验；危象=静推氢化可的松+扩容",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_40_284d82",
+   "kind": "notebook",
+   "title": "十、尿崩症",
+   "x": -240,
+   "y": 440.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-内分泌与代谢#十、尿崩症]]",
+    "path": "内科学/06-内分泌与代谢.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-内分泌与代谢#十、尿崩症]]"
+  },
+  {
+   "id": "node_41_e8fa8",
+   "kind": "text",
+   "title": "禁水-加压试验分中枢/肾性；中枢性用 DDAVP",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_44_14822f",
+   "kind": "notebook",
+   "title": "十二、血脂异常",
+   "x": -240,
+   "y": 550.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-内分泌与代谢#十二、血脂异常]]",
+    "path": "内科学/06-内分泌与代谢.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-内分泌与代谢#十二、血脂异常]]"
+  },
+  {
+   "id": "node_45_d9f195",
+   "kind": "text",
+   "title": "LDL-C 首要目标，他汀首选；TG＞5.6 先降 TG 防胰腺炎",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_48_985438",
+   "kind": "notebook",
+   "title": "十四、骨质疏松症",
+   "x": -240,
+   "y": 660.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-内分泌与代谢#十四、骨质疏松症]]",
+    "path": "内科学/06-内分泌与代谢.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-内分泌与代谢#十四、骨质疏松症]]"
+  },
+  {
+   "id": "node_49_1165e2",
+   "kind": "text",
+   "title": "DXA T 值≤−2.5；钙+VD+双膦酸盐（阿仑膦酸钠直立 30 min）",
+   "x": -480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_4c_3c3652",
+   "kind": "notebook",
+   "title": "附：内分泌与代谢速记要点",
+   "x": -240,
+   "y": 770.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-内分泌与代谢#附：内分泌与代谢速记要点]]",
+    "path": "内科学/06-内分泌与代谢.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-内分泌与代谢#附：内分泌与代谢速记要点]]"
+  },
+  {
+   "id": "node_4d_675dd5",
+   "kind": "text",
+   "title": "必背数值与流程汇总",
+   "x": -480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_ffd0f9",
+   "source": "node_2_cf35b",
+   "target": "node_3_a6f2f7",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_6_d605e7",
+   "source": "node_2_cf35b",
+   "target": "node_5_8a63f8",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_8_f81023",
+   "source": "node_2_cf35b",
+   "target": "node_7_3c72b",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_9_17e011",
+   "source": "node_1_19108b",
+   "target": "node_2_cf35b",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_c_d9441f",
+   "source": "node_a_ed2662",
+   "target": "node_b_c0e9ab",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_e_2a935d",
+   "source": "node_a_ed2662",
+   "target": "node_d_3c835d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_f_680ac0",
+   "source": "node_1_19108b",
+   "target": "node_a_ed2662",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_12_36b824",
+   "source": "node_10_7c52fa",
+   "target": "node_11_7b3a4e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_14_66aa93",
+   "source": "node_10_7c52fa",
+   "target": "node_13_dd59ba",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_15_e7067e",
+   "source": "node_1_19108b",
+   "target": "node_10_7c52fa",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_18_610461",
+   "source": "node_16_f02ba",
+   "target": "node_17_2a25a8",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_19_8d41",
+   "source": "node_1_19108b",
+   "target": "node_16_f02ba",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1c_43e458",
+   "source": "node_1a_fc3d33",
+   "target": "node_1b_63f2ae",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1d_ed3049",
+   "source": "node_1_19108b",
+   "target": "node_1a_fc3d33",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_20_747b6d",
+   "source": "node_1e_c8b8d9",
+   "target": "node_1f_c8fe3c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_22_6c4a37",
+   "source": "node_1e_c8b8d9",
+   "target": "node_21_490617",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_24_f512c4",
+   "source": "node_1e_c8b8d9",
+   "target": "node_23_b253d2",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_25_bb0265",
+   "source": "node_1_19108b",
+   "target": "node_1e_c8b8d9",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_28_8e46d5",
+   "source": "node_26_fed405",
+   "target": "node_27_c88a61",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2a_b7e99a",
+   "source": "node_26_fed405",
+   "target": "node_29_a97065",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2b_7c967f",
+   "source": "node_1_19108b",
+   "target": "node_26_fed405",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2e_4bf50b",
+   "source": "node_2c_27a0c3",
+   "target": "node_2d_309d25",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2f_37bb3e",
+   "source": "node_1_19108b",
+   "target": "node_2c_27a0c3",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_32_944528",
+   "source": "node_30_f7fd56",
+   "target": "node_31_ef8c2",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_33_bc5945",
+   "source": "node_1_19108b",
+   "target": "node_30_f7fd56",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_36_bf7b53",
+   "source": "node_34_8acd4e",
+   "target": "node_35_f9aea",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_37_504867",
+   "source": "node_1_19108b",
+   "target": "node_34_8acd4e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3a_958ca9",
+   "source": "node_38_ea262",
+   "target": "node_39_cd620",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3b_7a0ecf",
+   "source": "node_1_19108b",
+   "target": "node_38_ea262",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3e_da4bd9",
+   "source": "node_3c_80bacd",
+   "target": "node_3d_eb5cf4",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3f_87f7e1",
+   "source": "node_1_19108b",
+   "target": "node_3c_80bacd",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_42_f5f59b",
+   "source": "node_40_284d82",
+   "target": "node_41_e8fa8",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_43_82010c",
+   "source": "node_1_19108b",
+   "target": "node_40_284d82",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_46_2f9239",
+   "source": "node_44_14822f",
+   "target": "node_45_d9f195",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_47_118a9d",
+   "source": "node_1_19108b",
+   "target": "node_44_14822f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4a_acdaba",
+   "source": "node_48_985438",
+   "target": "node_49_1165e2",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4b_dca02e",
+   "source": "node_1_19108b",
+   "target": "node_48_985438",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4e_1eb0e3",
+   "source": "node_4c_3c3652",
+   "target": "node_4d_675dd5",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4f_f10c71",
+   "source": "node_1_19108b",
+   "target": "node_4c_3c3652",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

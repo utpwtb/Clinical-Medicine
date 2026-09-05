@@ -1,0 +1,718 @@
+{
+ "version": 1,
+ "title": "01-生理学-上 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_bef59f",
+   "kind": "text",
+   "title": "生理学·上（绪论 → 尿的生成）",
+   "x": 0,
+   "y": 770.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_8ce642",
+   "kind": "notebook",
+   "title": "第一章 绪论",
+   "x": 240,
+   "y": 110.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-生理学-上#第一章 绪论]]",
+    "path": "生理学/01-生理学-上.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-生理学-上#第一章 绪论]]"
+  },
+  {
+   "id": "node_3_54aebd",
+   "kind": "text",
+   "title": "负反馈维持稳态",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_5_b3ee4d",
+   "kind": "text",
+   "title": "神经/体液/自身三种调节",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_7_455ac7",
+   "kind": "text",
+   "title": "正反馈：分娩、排尿、凝血、LH 峰",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_a_3b048a",
+   "kind": "notebook",
+   "title": "第三章 血液",
+   "x": 240,
+   "y": 495.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-生理学-上#第三章 血液]]",
+    "path": "生理学/01-生理学-上.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-生理学-上#第三章 血液]]"
+  },
+  {
+   "id": "node_b_1ee34d",
+   "kind": "text",
+   "title": "晶体 vs 胶体渗透压",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_d_314d34",
+   "kind": "text",
+   "title": "止血三步与内外源性凝血",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_f_1e9b23",
+   "kind": "text",
+   "title": "依赖 VitK：Ⅱ、Ⅶ、Ⅸ、Ⅹ",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_11_892e61",
+   "kind": "text",
+   "title": "ABO/Rh 血型与交叉配血",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_14_b0ae8f",
+   "kind": "notebook",
+   "title": "第五章 呼吸",
+   "x": 240,
+   "y": 935.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-生理学-上#第五章 呼吸]]",
+    "path": "生理学/01-生理学-上.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-生理学-上#第五章 呼吸]]"
+  },
+  {
+   "id": "node_15_2f65fa",
+   "kind": "text",
+   "title": "胸膜腔负压与表面活性物质",
+   "x": 480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_17_3764fb",
+   "kind": "text",
+   "title": "FEV₁/FVC 与肺泡通气量",
+   "x": 480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_19_7bf470",
+   "kind": "text",
+   "title": "氧解离曲线与 P₅₀ 移动",
+   "x": 480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1b_b97e67",
+   "kind": "text",
+   "title": "CO₂ 中枢为主、低 O₂ 仅外周",
+   "x": 480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1e_c29cfc",
+   "kind": "notebook",
+   "title": "第七章 能量代谢与体温",
+   "x": 240,
+   "y": 1320.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-生理学-上#第七章 能量代谢与体温]]",
+    "path": "生理学/01-生理学-上.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-生理学-上#第七章 能量代谢与体温]]"
+  },
+  {
+   "id": "node_1f_864e9a",
+   "kind": "text",
+   "title": "BMR 测定条件与 ±15%",
+   "x": 480,
+   "y": 1210,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_21_48729a",
+   "kind": "text",
+   "title": "散热：≥皮温唯一蒸发",
+   "x": 480,
+   "y": 1320,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_23_19bc14",
+   "kind": "text",
+   "title": "体温中枢=下丘脑 PO/AH",
+   "x": 480,
+   "y": 1430,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_26_4bd6ce",
+   "kind": "notebook",
+   "title": "第二章 细胞的基本功能",
+   "x": -240,
+   "y": 165.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-生理学-上#第二章 细胞的基本功能]]",
+    "path": "生理学/01-生理学-上.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-生理学-上#第二章 细胞的基本功能]]"
+  },
+  {
+   "id": "node_27_3a3c56",
+   "kind": "text",
+   "title": "跨膜转运大表（被动/主动/出胞入胞）",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_29_2defe1",
+   "kind": "text",
+   "title": "Na⁺-K⁺ 泵=继发主动转运总能量",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2b_39f3a",
+   "kind": "text",
+   "title": "静息电位与动作电位",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2d_88bd13",
+   "kind": "text",
+   "title": "神经-肌接头与兴奋-收缩耦联",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_30_ba6ea",
+   "kind": "notebook",
+   "title": "第四章 血液循环",
+   "x": -240,
+   "y": 605.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-生理学-上#第四章 血液循环 ★★★]]",
+    "path": "生理学/01-生理学-上.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-生理学-上#第四章 血液循环 ★★★]]"
+  },
+  {
+   "id": "node_31_f96b64",
+   "kind": "text",
+   "title": "心动周期分期与 S1/S2",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_33_8da8ee",
+   "kind": "text",
+   "title": "心指数、射血分数、Starling",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_35_b289f2",
+   "kind": "text",
+   "title": "平台期→ERP 长→不强直收缩",
+   "x": -480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_37_2053da",
+   "kind": "text",
+   "title": "动脉血压因素与减压反射",
+   "x": -480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3a_c0b6fc",
+   "kind": "notebook",
+   "title": "第六章 消化和吸收",
+   "x": -240,
+   "y": 1045.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-生理学-上#第六章 消化和吸收]]",
+    "path": "生理学/01-生理学-上.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-生理学-上#第六章 消化和吸收]]"
+  },
+  {
+   "id": "node_3b_7daa39",
+   "kind": "text",
+   "title": "胃肠激素配对（胃泌素/促胰液素/CCK）",
+   "x": -480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3d_df6a8f",
+   "kind": "text",
+   "title": "胃液成分与分泌三相",
+   "x": -480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3f_92f5df",
+   "kind": "text",
+   "title": "促胰液素促水碱、CCK 促酶",
+   "x": -480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_41_782a65",
+   "kind": "text",
+   "title": "三大营养物质吸收机制",
+   "x": -480,
+   "y": 1210,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_44_573881",
+   "kind": "notebook",
+   "title": "第八章 尿的生成和排出",
+   "x": -240,
+   "y": 1485.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-生理学-上#第八章 尿的生成和排出 ★★★]]",
+    "path": "生理学/01-生理学-上.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-生理学-上#第八章 尿的生成和排出 ★★★]]"
+  },
+  {
+   "id": "node_45_2f3275",
+   "kind": "text",
+   "title": "有效滤过压与 GFR/FF",
+   "x": -480,
+   "y": 1320,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_47_d2706",
+   "kind": "text",
+   "title": "各段重吸收大表（呋塞米/噻嗪靶点）",
+   "x": -480,
+   "y": 1430,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_49_f0e98b",
+   "kind": "text",
+   "title": "ADH vs 醛固酮",
+   "x": -480,
+   "y": 1540,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_4b_7a4c75",
+   "kind": "text",
+   "title": "浓缩稀释与清除率（菊粉=GFR）",
+   "x": -480,
+   "y": 1650,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_5a1041",
+   "source": "node_2_8ce642",
+   "target": "node_3_54aebd",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_6_7428a6",
+   "source": "node_2_8ce642",
+   "target": "node_5_b3ee4d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_8_4e7ed8",
+   "source": "node_2_8ce642",
+   "target": "node_7_455ac7",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_9_405bfd",
+   "source": "node_1_bef59f",
+   "target": "node_2_8ce642",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_c_b8a617",
+   "source": "node_a_3b048a",
+   "target": "node_b_1ee34d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_e_50c7c0",
+   "source": "node_a_3b048a",
+   "target": "node_d_314d34",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_10_be2d74",
+   "source": "node_a_3b048a",
+   "target": "node_f_1e9b23",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_12_f36cb6",
+   "source": "node_a_3b048a",
+   "target": "node_11_892e61",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_13_c31edb",
+   "source": "node_1_bef59f",
+   "target": "node_a_3b048a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_16_3108d4",
+   "source": "node_14_b0ae8f",
+   "target": "node_15_2f65fa",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_18_bd1531",
+   "source": "node_14_b0ae8f",
+   "target": "node_17_3764fb",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1a_46c8ad",
+   "source": "node_14_b0ae8f",
+   "target": "node_19_7bf470",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1c_96ef2a",
+   "source": "node_14_b0ae8f",
+   "target": "node_1b_b97e67",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1d_fa02ea",
+   "source": "node_1_bef59f",
+   "target": "node_14_b0ae8f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_20_98c747",
+   "source": "node_1e_c29cfc",
+   "target": "node_1f_864e9a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_22_fb02be",
+   "source": "node_1e_c29cfc",
+   "target": "node_21_48729a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_24_d52721",
+   "source": "node_1e_c29cfc",
+   "target": "node_23_19bc14",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_25_31b1b0",
+   "source": "node_1_bef59f",
+   "target": "node_1e_c29cfc",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_28_5c62b3",
+   "source": "node_26_4bd6ce",
+   "target": "node_27_3a3c56",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2a_4d6168",
+   "source": "node_26_4bd6ce",
+   "target": "node_29_2defe1",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2c_b540b3",
+   "source": "node_26_4bd6ce",
+   "target": "node_2b_39f3a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2e_2067bd",
+   "source": "node_26_4bd6ce",
+   "target": "node_2d_88bd13",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2f_463944",
+   "source": "node_1_bef59f",
+   "target": "node_26_4bd6ce",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_32_df56a",
+   "source": "node_30_ba6ea",
+   "target": "node_31_f96b64",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_34_4ac977",
+   "source": "node_30_ba6ea",
+   "target": "node_33_8da8ee",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_36_f1afdb",
+   "source": "node_30_ba6ea",
+   "target": "node_35_b289f2",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_38_a34b6c",
+   "source": "node_30_ba6ea",
+   "target": "node_37_2053da",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_39_de5379",
+   "source": "node_1_bef59f",
+   "target": "node_30_ba6ea",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3c_1a432f",
+   "source": "node_3a_c0b6fc",
+   "target": "node_3b_7daa39",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3e_323d3",
+   "source": "node_3a_c0b6fc",
+   "target": "node_3d_df6a8f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_40_48ca76",
+   "source": "node_3a_c0b6fc",
+   "target": "node_3f_92f5df",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_42_7a8d03",
+   "source": "node_3a_c0b6fc",
+   "target": "node_41_782a65",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_43_70c290",
+   "source": "node_1_bef59f",
+   "target": "node_3a_c0b6fc",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_46_f72ada",
+   "source": "node_44_573881",
+   "target": "node_45_2f3275",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_48_40a26c",
+   "source": "node_44_573881",
+   "target": "node_47_d2706",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4a_dc99e0",
+   "source": "node_44_573881",
+   "target": "node_49_f0e98b",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4c_1d34d0",
+   "source": "node_44_573881",
+   "target": "node_4b_7a4c75",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4d_d2762b",
+   "source": "node_1_bef59f",
+   "target": "node_44_573881",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

@@ -1,0 +1,422 @@
+{
+ "version": 1,
+ "title": "02-生理学-下 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_10ba58",
+   "kind": "text",
+   "title": "生理学·下（感觉器官 → 生殖）",
+   "x": 0,
+   "y": 440.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_6694c3",
+   "kind": "notebook",
+   "title": "第九章 感觉器官的功能",
+   "x": 240,
+   "y": 165.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-生理学-下#第九章 感觉器官的功能]]",
+    "path": "生理学/02-生理学-下.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-生理学-下#第九章 感觉器官的功能]]"
+  },
+  {
+   "id": "node_3_7de31a",
+   "kind": "text",
+   "title": "视近物三联动与对光反射（中脑）",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_5_93b7a8",
+   "kind": "text",
+   "title": "视杆 vs 视锥（中央凹只有视锥）",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_7_afbb41",
+   "kind": "text",
+   "title": "行波学说：高频底部、低频顶部",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_9_26d794",
+   "kind": "text",
+   "title": "半规管=角加速度、囊斑=直线变速",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_c_901641",
+   "kind": "notebook",
+   "title": "第十一章 内分泌",
+   "x": 240,
+   "y": 660.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-生理学-下#第十一章 内分泌 ★★★]]",
+    "path": "生理学/02-生理学-下.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-生理学-下#第十一章 内分泌 ★★★]]"
+  },
+  {
+   "id": "node_d_f2f9e5",
+   "kind": "text",
+   "title": "含氮 vs 类固醇激素机制",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_f_15ce6a",
+   "kind": "text",
+   "title": "下丘脑-垂体-靶腺轴",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_11_3f8971",
+   "kind": "text",
+   "title": "甲状腺激素与呆小症",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_13_8edddf",
+   "kind": "text",
+   "title": "钙磷三激素必背大表",
+   "x": 480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_15_6a8a61",
+   "kind": "text",
+   "title": "糖皮质激素与胰岛素",
+   "x": 480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_18_ca6dfd",
+   "kind": "notebook",
+   "title": "第十章 神经系统的功能",
+   "x": -240,
+   "y": 220.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-生理学-下#第十章 神经系统的功能 ★★★]]",
+    "path": "生理学/02-生理学-下.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-生理学-下#第十章 神经系统的功能 ★★★]]"
+  },
+  {
+   "id": "node_19_9e50aa",
+   "kind": "text",
+   "title": "突触传递与 EPSP/IPSP",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1b_c693da",
+   "kind": "text",
+   "title": "特异 vs 非特异投射（维持觉醒）",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1d_616074",
+   "kind": "text",
+   "title": "牵涉痛=会聚-投射学说",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1f_e893be",
+   "kind": "text",
+   "title": "小脑三分区与基底核通路",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_21_4c1f55",
+   "kind": "text",
+   "title": "自主神经与下丘脑分区",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_24_fd72b0",
+   "kind": "notebook",
+   "title": "第十二章 生殖",
+   "x": -240,
+   "y": 715.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-生理学-下#第十二章 生殖]]",
+    "path": "生理学/02-生理学-下.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-生理学-下#第十二章 生殖]]"
+  },
+  {
+   "id": "node_25_6dc7ca",
+   "kind": "text",
+   "title": "睾酮与 FSH/LH 双重调控",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_27_9191b3",
+   "kind": "text",
+   "title": "雌激素 vs 孕激素",
+   "x": -480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_29_f6b40",
+   "kind": "text",
+   "title": "LH 峰=下次月经前 14 天",
+   "x": -480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2b_f5c9b0",
+   "kind": "text",
+   "title": "HCG 保黄体与验孕",
+   "x": -480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_12f70c",
+   "source": "node_2_6694c3",
+   "target": "node_3_7de31a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_6_a1235a",
+   "source": "node_2_6694c3",
+   "target": "node_5_93b7a8",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_8_db953",
+   "source": "node_2_6694c3",
+   "target": "node_7_afbb41",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_a_2631d0",
+   "source": "node_2_6694c3",
+   "target": "node_9_26d794",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_b_cfa701",
+   "source": "node_1_10ba58",
+   "target": "node_2_6694c3",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_e_4dc82a",
+   "source": "node_c_901641",
+   "target": "node_d_f2f9e5",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_10_fe716b",
+   "source": "node_c_901641",
+   "target": "node_f_15ce6a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_12_1e52d7",
+   "source": "node_c_901641",
+   "target": "node_11_3f8971",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_14_c3b290",
+   "source": "node_c_901641",
+   "target": "node_13_8edddf",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_16_9b37a2",
+   "source": "node_c_901641",
+   "target": "node_15_6a8a61",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_17_989bc4",
+   "source": "node_1_10ba58",
+   "target": "node_c_901641",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1a_39c6a1",
+   "source": "node_18_ca6dfd",
+   "target": "node_19_9e50aa",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1c_85c750",
+   "source": "node_18_ca6dfd",
+   "target": "node_1b_c693da",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1e_7354ea",
+   "source": "node_18_ca6dfd",
+   "target": "node_1d_616074",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_20_715629",
+   "source": "node_18_ca6dfd",
+   "target": "node_1f_e893be",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_22_dc33e1",
+   "source": "node_18_ca6dfd",
+   "target": "node_21_4c1f55",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_23_96a995",
+   "source": "node_1_10ba58",
+   "target": "node_18_ca6dfd",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_26_4e2d66",
+   "source": "node_24_fd72b0",
+   "target": "node_25_6dc7ca",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_28_9efba5",
+   "source": "node_24_fd72b0",
+   "target": "node_27_9191b3",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2a_9c10c5",
+   "source": "node_24_fd72b0",
+   "target": "node_29_f6b40",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2c_bd767e",
+   "source": "node_24_fd72b0",
+   "target": "node_2b_f5c9b0",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2d_19675f",
+   "source": "node_1_10ba58",
+   "target": "node_24_fd72b0",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

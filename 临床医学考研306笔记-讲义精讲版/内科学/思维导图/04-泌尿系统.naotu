@@ -1,0 +1,611 @@
+{
+ "version": 1,
+ "title": "04-泌尿系统 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_7d1543",
+   "kind": "text",
+   "title": "内科学·泌尿系统",
+   "x": 0,
+   "y": 610.5,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_4fc6d",
+   "kind": "notebook",
+   "title": "一、肾小球疾病总论",
+   "x": 240,
+   "y": 110.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-泌尿系统#一、肾小球疾病总论]]",
+    "path": "内科学/04-泌尿系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-泌尿系统#一、肾小球疾病总论]]"
+  },
+  {
+   "id": "node_3_1ca35c",
+   "kind": "text",
+   "title": "临床综合征（必背）：急性/急进性/慢性肾炎综合征与肾病综合征",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_5_5cec4e",
+   "kind": "text",
+   "title": "NS：**＞3.5 g/d + ＜30 g/L** 两条必备；并发症感染最常见、膜性最易肾静脉血栓",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_7_fc3e05",
+   "kind": "text",
+   "title": "蛋白尿分类与血尿来源鉴别（肾小球性 vs 非肾小球性）",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_a_4eb93e",
+   "kind": "notebook",
+   "title": "三、继发性肾小球疾病",
+   "x": 240,
+   "y": 385.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-泌尿系统#三、继发性肾小球疾病]]",
+    "path": "内科学/04-泌尿系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-泌尿系统#三、继发性肾小球疾病]]"
+  },
+  {
+   "id": "node_b_3d4cbf",
+   "kind": "text",
+   "title": "狼疮肾炎：Ⅳ 型最重，羟氯喹全员，激素+CTX/MMF 诱导",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_d_3da9c2",
+   "kind": "text",
+   "title": "糖尿病肾病：K-W 结节，无血尿，与视网膜病变平行",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_10_f26b47",
+   "kind": "notebook",
+   "title": "五、急性间质性肾炎（AIN）",
+   "x": 240,
+   "y": 550.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-泌尿系统#五、急性间质性肾炎（AIN）（要点段落）]]",
+    "path": "内科学/04-泌尿系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-泌尿系统#五、急性间质性肾炎（AIN）（要点段落）]]"
+  },
+  {
+   "id": "node_11_14296c",
+   "kind": "text",
+   "title": "药物过敏最常见——立即停药+激素",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_14_7c69de",
+   "kind": "notebook",
+   "title": "七、急性肾损伤（AKI）",
+   "x": 240,
+   "y": 770.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-泌尿系统#七、急性肾损伤（AKI）]]",
+    "path": "内科学/04-泌尿系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-泌尿系统#七、急性肾损伤（AKI）]]"
+  },
+  {
+   "id": "node_15_d0e6e6",
+   "kind": "text",
+   "title": "KDIGO：Scr 48h 升高≥26.5 μmol/L / ≥1.5 倍 / 尿量＜0.5 ml/（kg·h）×6h",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_17_fa5d31",
+   "kind": "text",
+   "title": "三分类：肾前性 FENa＜1% vs ATN 泥棕色管型 vs 肾后性梗阻",
+   "x": 480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_19_885f6e",
+   "kind": "text",
+   "title": "高钾五步与透析指征（容量/钾/酸/尿毒症）",
+   "x": 480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1c_20de43",
+   "kind": "notebook",
+   "title": "九、补充要点",
+   "x": 240,
+   "y": 990.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-泌尿系统#九、补充要点（遗传性肾病、特殊类型 AKI 与 CKD 随访）]]",
+    "path": "内科学/04-泌尿系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-泌尿系统#九、补充要点（遗传性肾病、特殊类型 AKI 与 CKD 随访）]]"
+  },
+  {
+   "id": "node_1d_a8e56e",
+   "kind": "text",
+   "title": "Alport 三联征、ADPKD；造影剂肾病与横纹肌溶解",
+   "x": 480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_20_8cbfed",
+   "kind": "notebook",
+   "title": "二、各型原发性肾小球病大对比表",
+   "x": -240,
+   "y": 165.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-泌尿系统#二、各型原发性肾小球病大对比表（本系统第一大表，必背）]]",
+    "path": "内科学/04-泌尿系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-泌尿系统#二、各型原发性肾小球病大对比表（本系统第一大表，必背）]]"
+  },
+  {
+   "id": "node_21_2a45c2",
+   "kind": "text",
+   "title": "急性肾炎：链感后 1–3 周，C₃ 前降后升（8 周恢复），自限性",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_23_8715a1",
+   "kind": "text",
+   "title": "RPGN 三型：Ⅰ抗 GBM 线性 / Ⅱ免疫复合物 / Ⅲ寡免疫 ANCA+",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_25_9b49bd",
+   "kind": "text",
+   "title": "NS 病理：微小病变（儿童、激素敏感）/ 膜性（成人、PLA₂R）",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_27_f6e07c",
+   "kind": "text",
+   "title": "IgA 肾病：感染同步血尿，系膜区 IgA，我国最常见",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2a_8a0f4e",
+   "kind": "notebook",
+   "title": "四、尿路感染（UTI）",
+   "x": -240,
+   "y": 495.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-泌尿系统#四、尿路感染（UTI）]]",
+    "path": "内科学/04-泌尿系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-泌尿系统#四、尿路感染（UTI）]]"
+  },
+  {
+   "id": "node_2b_c1590f",
+   "kind": "text",
+   "title": "大肠埃希菌最常见，上行感染为主",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2d_b09b2a",
+   "kind": "text",
+   "title": "白细胞管型=肾盂肾炎；≥10⁵/ml；孕妇无症状菌尿必须治疗",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_30_4fcca3",
+   "kind": "notebook",
+   "title": "六、肾小管酸中毒（RTA）四型",
+   "x": -240,
+   "y": 660.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-泌尿系统#六、肾小管酸中毒（RTA）四型（必背大表）]]",
+    "path": "内科学/04-泌尿系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-泌尿系统#六、肾小管酸中毒（RTA）四型（必背大表）]]"
+  },
+  {
+   "id": "node_31_66245b",
+   "kind": "text",
+   "title": "四型皆高氯性代酸；Ⅰ型低钾+尿 pH＞5.5+结石；Ⅳ型高钾",
+   "x": -480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_34_a65e68",
+   "kind": "notebook",
+   "title": "八、慢性肾脏病（CKD）与肾脏替代治疗",
+   "x": -240,
+   "y": 880.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-泌尿系统#八、慢性肾脏病（CKD）与肾脏替代治疗]]",
+    "path": "内科学/04-泌尿系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-泌尿系统#八、慢性肾脏病（CKD）与肾脏替代治疗]]"
+  },
+  {
+   "id": "node_35_5f987c",
+   "kind": "text",
+   "title": "GFR 分期 G1–G5（G5＜15）；肾性贫血目标 110–130 g/L",
+   "x": -480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_37_e64d1b",
+   "kind": "text",
+   "title": "CKD-MBD：磷↑钙↓PTH↑，限磷+磷结合剂+活性 VD",
+   "x": -480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_39_739498",
+   "kind": "text",
+   "title": "HD（内瘘、失衡综合征）vs PD（腹膜炎）；移植三联免疫抑制",
+   "x": -480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3c_3985c3",
+   "kind": "notebook",
+   "title": "附：泌尿系统速记要点",
+   "x": -240,
+   "y": 1100.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-泌尿系统#附：泌尿系统速记要点]]",
+    "path": "内科学/04-泌尿系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-泌尿系统#附：泌尿系统速记要点]]"
+  },
+  {
+   "id": "node_3d_106400",
+   "kind": "text",
+   "title": "必背数值汇总（NS/AKI/CKD 分期、透析指征）",
+   "x": -480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_edd968",
+   "source": "node_2_4fc6d",
+   "target": "node_3_1ca35c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_6_e0f3ea",
+   "source": "node_2_4fc6d",
+   "target": "node_5_5cec4e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_8_d4e808",
+   "source": "node_2_4fc6d",
+   "target": "node_7_fc3e05",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_9_ce88cb",
+   "source": "node_1_7d1543",
+   "target": "node_2_4fc6d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_c_ed42f",
+   "source": "node_a_4eb93e",
+   "target": "node_b_3d4cbf",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_e_e0c53c",
+   "source": "node_a_4eb93e",
+   "target": "node_d_3da9c2",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_f_913e4d",
+   "source": "node_1_7d1543",
+   "target": "node_a_4eb93e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_12_15ed62",
+   "source": "node_10_f26b47",
+   "target": "node_11_14296c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_13_bb5e4b",
+   "source": "node_1_7d1543",
+   "target": "node_10_f26b47",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_16_11b7e9",
+   "source": "node_14_7c69de",
+   "target": "node_15_d0e6e6",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_18_c2b6d2",
+   "source": "node_14_7c69de",
+   "target": "node_17_fa5d31",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1a_c40db9",
+   "source": "node_14_7c69de",
+   "target": "node_19_885f6e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1b_2031d7",
+   "source": "node_1_7d1543",
+   "target": "node_14_7c69de",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1e_79ac1b",
+   "source": "node_1c_20de43",
+   "target": "node_1d_a8e56e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1f_f264ac",
+   "source": "node_1_7d1543",
+   "target": "node_1c_20de43",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_22_43dac0",
+   "source": "node_20_8cbfed",
+   "target": "node_21_2a45c2",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_24_df57c5",
+   "source": "node_20_8cbfed",
+   "target": "node_23_8715a1",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_26_6c52c4",
+   "source": "node_20_8cbfed",
+   "target": "node_25_9b49bd",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_28_363868",
+   "source": "node_20_8cbfed",
+   "target": "node_27_f6e07c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_29_edcd46",
+   "source": "node_1_7d1543",
+   "target": "node_20_8cbfed",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2c_badcc3",
+   "source": "node_2a_8a0f4e",
+   "target": "node_2b_c1590f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2e_337ea2",
+   "source": "node_2a_8a0f4e",
+   "target": "node_2d_b09b2a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2f_b683d2",
+   "source": "node_1_7d1543",
+   "target": "node_2a_8a0f4e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_32_fec21b",
+   "source": "node_30_4fcca3",
+   "target": "node_31_66245b",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_33_abf3ad",
+   "source": "node_1_7d1543",
+   "target": "node_30_4fcca3",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_36_702753",
+   "source": "node_34_a65e68",
+   "target": "node_35_5f987c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_38_847fd9",
+   "source": "node_34_a65e68",
+   "target": "node_37_e64d1b",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3a_1efa21",
+   "source": "node_34_a65e68",
+   "target": "node_39_739498",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3b_3f76be",
+   "source": "node_1_7d1543",
+   "target": "node_34_a65e68",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3e_568cc6",
+   "source": "node_3c_3985c3",
+   "target": "node_3d_106400",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3f_56280",
+   "source": "node_1_7d1543",
+   "target": "node_3c_3985c3",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

@@ -1,0 +1,600 @@
+{
+ "version": 1,
+ "title": "03-颈部与乳腺外科 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_aab97e",
+   "kind": "text",
+   "title": "外科学·颈部与乳腺外科",
+   "x": 0,
+   "y": 715.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_688c70",
+   "kind": "notebook",
+   "title": "第一部分 颈部疾病",
+   "x": 240,
+   "y": 715.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-颈部与乳腺外科#第一部分 颈部疾病]]",
+    "path": "外科学/03-颈部与乳腺外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-颈部与乳腺外科#第一部分 颈部疾病]]"
+  },
+  {
+   "id": "node_3_5380b9",
+   "kind": "notebook",
+   "title": "一、单纯性甲状腺肿",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-颈部与乳腺外科#一、单纯性甲状腺肿]]",
+    "path": "外科学/03-颈部与乳腺外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-颈部与乳腺外科#一、单纯性甲状腺肿]]"
+  },
+  {
+   "id": "node_5_b27c40",
+   "kind": "text",
+   "title": "“三非”定义；**压迫症状**为手术指征核心",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_7_8dedf9",
+   "kind": "notebook",
+   "title": "二、甲状腺功能亢进的外科治疗",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-颈部与乳腺外科#二、甲状腺功能亢进的外科治疗]]",
+    "path": "外科学/03-颈部与乳腺外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-颈部与乳腺外科#二、甲状腺功能亢进的外科治疗]]"
+  },
+  {
+   "id": "node_9_311c6e",
+   "kind": "text",
+   "title": "术前准备：**BMR=（脉率+脉压）−111**",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_b_aa38d0",
+   "kind": "text",
+   "title": "手术条件：**脉率＜90、BMR＜+20%**",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_d_610faa",
+   "kind": "text",
+   "title": "术后呼吸困难四大原因→**床旁拆线敞开**",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_f_bf85bf",
+   "kind": "text",
+   "title": "危象：碘+PTU+β 阻滞剂+氢化可的松",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_11_2c8d0e",
+   "kind": "notebook",
+   "title": "三、甲状腺炎",
+   "x": 480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-颈部与乳腺外科#三、甲状腺炎]]",
+    "path": "外科学/03-颈部与乳腺外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-颈部与乳腺外科#三、甲状腺炎]]"
+  },
+  {
+   "id": "node_13_91b0e1",
+   "kind": "text",
+   "title": "亚甲炎：痛+**分离现象**+激素有效",
+   "x": 480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_15_67f48a",
+   "kind": "text",
+   "title": "桥本：**TPOAb↑**、最终替代治疗",
+   "x": 480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_17_d56f03",
+   "kind": "notebook",
+   "title": "四、甲状腺结节评估与甲状腺癌",
+   "x": 480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-颈部与乳腺外科#四、甲状腺结节评估与甲状腺癌]]",
+    "path": "外科学/03-颈部与乳腺外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-颈部与乳腺外科#四、甲状腺结节评估与甲状腺癌]]"
+  },
+  {
+   "id": "node_19_4dcabf",
+   "kind": "text",
+   "title": "超声筛选+**FNA 确诊**",
+   "x": 480,
+   "y": 1210,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1b_35ce88",
+   "kind": "text",
+   "title": "乳头状最常见预后最好；**未分化最差**",
+   "x": 480,
+   "y": 1320,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1d_c9277d",
+   "kind": "text",
+   "title": "髓样癌：降钙素+MEN2+**不吸碘**",
+   "x": 480,
+   "y": 1430,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_20_a79ac9",
+   "kind": "notebook",
+   "title": "第二部分 乳腺疾病",
+   "x": -240,
+   "y": 715.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-颈部与乳腺外科#第二部分 乳腺疾病]]",
+    "path": "外科学/03-颈部与乳腺外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-颈部与乳腺外科#第二部分 乳腺疾病]]"
+  },
+  {
+   "id": "node_21_527eec",
+   "kind": "notebook",
+   "title": "五、急性乳腺炎",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-颈部与乳腺外科#五、急性乳腺炎]]",
+    "path": "外科学/03-颈部与乳腺外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-颈部与乳腺外科#五、急性乳腺炎]]"
+  },
+  {
+   "id": "node_23_7118e3",
+   "kind": "text",
+   "title": "初产妇+乳汁淤积+金葡；**排空乳汁**",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_25_acf5e8",
+   "kind": "text",
+   "title": "切口：放射状/乳晕弧形/乳房下皱襞",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_27_82dc4c",
+   "kind": "notebook",
+   "title": "六、乳腺囊性增生病",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-颈部与乳腺外科#六、乳腺囊性增生病（乳腺病）]]",
+    "path": "外科学/03-颈部与乳腺外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-颈部与乳腺外科#六、乳腺囊性增生病（乳腺病）]]"
+  },
+  {
+   "id": "node_29_cb323e",
+   "kind": "text",
+   "title": "**周期性胀痛**（经前加重）；防漏诊癌",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2b_f5b78c",
+   "kind": "notebook",
+   "title": "七、乳腺纤维腺瘤",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-颈部与乳腺外科#七、乳腺纤维腺瘤]]",
+    "path": "外科学/03-颈部与乳腺外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-颈部与乳腺外科#七、乳腺纤维腺瘤]]"
+  },
+  {
+   "id": "node_2d_bc67f8",
+   "kind": "text",
+   "title": "青年、单发无痛、边界清活动好；**手术唯一有效**",
+   "x": -480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2f_a8aa71",
+   "kind": "notebook",
+   "title": "八、导管内乳头状瘤",
+   "x": -480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-颈部与乳腺外科#八、导管内乳头状瘤]]",
+    "path": "外科学/03-颈部与乳腺外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-颈部与乳腺外科#八、导管内乳头状瘤]]"
+  },
+  {
+   "id": "node_31_48a639",
+   "kind": "text",
+   "title": "**单孔血性溢液**；区段切除+病理",
+   "x": -480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_33_a9f253",
+   "kind": "notebook",
+   "title": "九、乳腺癌",
+   "x": -480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-颈部与乳腺外科#九、乳腺癌（本模块核心）]]",
+    "path": "外科学/03-颈部与乳腺外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-颈部与乳腺外科#九、乳腺癌（本模块核心）]]"
+  },
+  {
+   "id": "node_35_9e87e0",
+   "kind": "text",
+   "title": "体征机制：**酒窝=Cooper 韧带、橘皮=淋巴管堵塞**",
+   "x": -480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_37_17e839",
+   "kind": "text",
+   "title": "术式演进：根治→改良根治→**保乳+放疗**",
+   "x": -480,
+   "y": 1210,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_39_f3b63f",
+   "kind": "text",
+   "title": "**前哨淋巴结**阴性免腋清扫",
+   "x": -480,
+   "y": 1320,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3b_3c2059",
+   "kind": "text",
+   "title": "绝经前他莫昔芬、绝经后 AI；HER2→曲妥珠单抗",
+   "x": -480,
+   "y": 1430,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_6703b6",
+   "source": "node_2_688c70",
+   "target": "node_3_5380b9",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_6_4bb00f",
+   "source": "node_2_688c70",
+   "target": "node_5_b27c40",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_8_2095ee",
+   "source": "node_2_688c70",
+   "target": "node_7_8dedf9",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_a_6ba25e",
+   "source": "node_2_688c70",
+   "target": "node_9_311c6e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_c_f0bbac",
+   "source": "node_2_688c70",
+   "target": "node_b_aa38d0",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_e_ad64b5",
+   "source": "node_2_688c70",
+   "target": "node_d_610faa",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_10_e71e43",
+   "source": "node_2_688c70",
+   "target": "node_f_bf85bf",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_12_9d9262",
+   "source": "node_2_688c70",
+   "target": "node_11_2c8d0e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_14_4d0b0d",
+   "source": "node_2_688c70",
+   "target": "node_13_91b0e1",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_16_8c459c",
+   "source": "node_2_688c70",
+   "target": "node_15_67f48a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_18_1a9a",
+   "source": "node_2_688c70",
+   "target": "node_17_d56f03",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1a_49732d",
+   "source": "node_2_688c70",
+   "target": "node_19_4dcabf",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1c_6e0d26",
+   "source": "node_2_688c70",
+   "target": "node_1b_35ce88",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1e_9479e1",
+   "source": "node_2_688c70",
+   "target": "node_1d_c9277d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1f_9b4e2c",
+   "source": "node_1_aab97e",
+   "target": "node_2_688c70",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_22_770977",
+   "source": "node_20_a79ac9",
+   "target": "node_21_527eec",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_24_713162",
+   "source": "node_20_a79ac9",
+   "target": "node_23_7118e3",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_26_36b522",
+   "source": "node_20_a79ac9",
+   "target": "node_25_acf5e8",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_28_7922ba",
+   "source": "node_20_a79ac9",
+   "target": "node_27_82dc4c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2a_e6b3c9",
+   "source": "node_20_a79ac9",
+   "target": "node_29_cb323e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2c_cbc847",
+   "source": "node_20_a79ac9",
+   "target": "node_2b_f5b78c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2e_2b70e5",
+   "source": "node_20_a79ac9",
+   "target": "node_2d_bc67f8",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_30_15b529",
+   "source": "node_20_a79ac9",
+   "target": "node_2f_a8aa71",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_32_83f4a9",
+   "source": "node_20_a79ac9",
+   "target": "node_31_48a639",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_34_a20869",
+   "source": "node_20_a79ac9",
+   "target": "node_33_a9f253",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_36_55cee5",
+   "source": "node_20_a79ac9",
+   "target": "node_35_9e87e0",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_38_d18433",
+   "source": "node_20_a79ac9",
+   "target": "node_37_17e839",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3a_c04a96",
+   "source": "node_20_a79ac9",
+   "target": "node_39_f3b63f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3c_ac3c56",
+   "source": "node_20_a79ac9",
+   "target": "node_3b_3c2059",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3d_4f77a6",
+   "source": "node_1_aab97e",
+   "target": "node_20_a79ac9",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

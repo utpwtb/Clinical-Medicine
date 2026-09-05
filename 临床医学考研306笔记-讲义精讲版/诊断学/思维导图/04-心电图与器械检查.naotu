@@ -1,0 +1,406 @@
+{
+ "version": 1,
+ "title": "04-心电图与器械检查 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_4991ab",
+   "kind": "text",
+   "title": "诊断学·心电图与器械检查",
+   "x": 0,
+   "y": 345.7142857142857,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_ff574e",
+   "kind": "notebook",
+   "title": "第 1 节 导联体系与正常心电图",
+   "x": 240,
+   "y": 55.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-心电图与器械检查#第 1 节 导联体系与正常心电图]]",
+    "path": "诊断学/04-心电图与器械检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-心电图与器械检查#第 1 节 导联体系与正常心电图]]"
+  },
+  {
+   "id": "node_3_3a3c8a",
+   "kind": "text",
+   "title": "必背值：P＜0.12s、P-R 0.12～0.20s、QRS＜0.12s、Q-T 0.32～0.44s",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_5_172319",
+   "kind": "text",
+   "title": "心率＝300÷R-R 大格数；aVR 看右心腔",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_8_193391",
+   "kind": "notebook",
+   "title": "第 3 节 心肌缺血与心肌梗死",
+   "x": 240,
+   "y": 275.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-心电图与器械检查#第 3 节 心肌缺血与心肌梗死]]",
+    "path": "诊断学/04-心电图与器械检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-心电图与器械检查#第 3 节 心肌缺血与心肌梗死]]"
+  },
+  {
+   "id": "node_9_c2a796",
+   "kind": "text",
+   "title": "缺血：ST 压低＋冠状 T；心梗：弓背抬高＋病理性 Q 波＋演变五期",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_b_b43230",
+   "kind": "text",
+   "title": "定位口诀：前间 V1-3→前降支、下壁 Ⅱ/Ⅲ/aVF→右冠",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_e_7194ea",
+   "kind": "notebook",
+   "title": "第 5 节 药物与电解质对心电图的影响",
+   "x": 240,
+   "y": 495.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-心电图与器械检查#第 5 节 药物与电解质对心电图的影响]]",
+    "path": "诊断学/04-心电图与器械检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-心电图与器械检查#第 5 节 药物与电解质对心电图的影响]]"
+  },
+  {
+   "id": "node_f_2a96e1",
+   "kind": "text",
+   "title": "洋地黄：鱼钩样 ST＝效应、室早二联律＝中毒",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_11_4ca9cf",
+   "kind": "text",
+   "title": "高钾 T 波高尖→正弦波；低钾 U 波增高",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_14_bc610",
+   "kind": "notebook",
+   "title": "第 7 节 肺功能检查",
+   "x": 240,
+   "y": 660.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-心电图与器械检查#第 7 节 肺功能检查]]",
+    "path": "诊断学/04-心电图与器械检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-心电图与器械检查#第 7 节 肺功能检查]]"
+  },
+  {
+   "id": "node_15_530a37",
+   "kind": "text",
+   "title": "阻塞 FEV1/FVC＜70%、限制 TLC＜80%；舒张试验 ≥12% 且 ≥200ml",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_18_4b1a26",
+   "kind": "notebook",
+   "title": "第 2 节 心房与心室肥大",
+   "x": -240,
+   "y": 55.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-心电图与器械检查#第 2 节 心房与心室肥大]]",
+    "path": "诊断学/04-心电图与器械检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-心电图与器械检查#第 2 节 心房与心室肥大]]"
+  },
+  {
+   "id": "node_19_5bc440",
+   "kind": "text",
+   "title": "二尖瓣型 P 波＝左房大（二狭）；肺型 P 波＝右房大（肺心病）",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1b_6e417d",
+   "kind": "text",
+   "title": "左室大 Rv5+Sv1＞4.0mV（男）；右室大 Rv1+Sv5＞1.05mV",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1e_87fa84",
+   "kind": "notebook",
+   "title": "第 4 节 心律失常",
+   "x": -240,
+   "y": 330.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-心电图与器械检查#第 4 节 心律失常]]",
+    "path": "诊断学/04-心电图与器械检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-心电图与器械检查#第 4 节 心律失常]]"
+  },
+  {
+   "id": "node_1f_697c39",
+   "kind": "text",
+   "title": "房颤三联：f 波＋RR 绝对不齐＋QRS 多正常",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_21_ae8a78",
+   "kind": "text",
+   "title": "室速三证据：房室分离、心室夺获、室性融合波",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_23_2e1835",
+   "kind": "text",
+   "title": "预激伴房颤禁维拉帕米/洋地黄；三度 AVB 房室分离→起搏",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_26_143745",
+   "kind": "notebook",
+   "title": "第 6 节 运动负荷试验",
+   "x": -240,
+   "y": 550.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[04-心电图与器械检查#第 6 节 运动负荷试验]]",
+    "path": "诊断学/04-心电图与器械检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[04-心电图与器械检查#第 6 节 运动负荷试验]]"
+  },
+  {
+   "id": "node_27_9c07a7",
+   "kind": "text",
+   "title": "阳性：ST 压低 ≥0.1mV 持续 ≥2min",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_bf2c14",
+   "source": "node_2_ff574e",
+   "target": "node_3_3a3c8a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_6_6f18c1",
+   "source": "node_2_ff574e",
+   "target": "node_5_172319",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_7_fa7457",
+   "source": "node_1_4991ab",
+   "target": "node_2_ff574e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_a_a23d4c",
+   "source": "node_8_193391",
+   "target": "node_9_c2a796",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_c_df615a",
+   "source": "node_8_193391",
+   "target": "node_b_b43230",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_d_19bad7",
+   "source": "node_1_4991ab",
+   "target": "node_8_193391",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_10_b1aa0f",
+   "source": "node_e_7194ea",
+   "target": "node_f_2a96e1",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_12_e746cc",
+   "source": "node_e_7194ea",
+   "target": "node_11_4ca9cf",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_13_76916",
+   "source": "node_1_4991ab",
+   "target": "node_e_7194ea",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_16_cbd00e",
+   "source": "node_14_bc610",
+   "target": "node_15_530a37",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_17_e5dd4",
+   "source": "node_1_4991ab",
+   "target": "node_14_bc610",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1a_5ff595",
+   "source": "node_18_4b1a26",
+   "target": "node_19_5bc440",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1c_25440f",
+   "source": "node_18_4b1a26",
+   "target": "node_1b_6e417d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1d_3e83b9",
+   "source": "node_1_4991ab",
+   "target": "node_18_4b1a26",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_20_90e0a9",
+   "source": "node_1e_87fa84",
+   "target": "node_1f_697c39",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_22_cae28e",
+   "source": "node_1e_87fa84",
+   "target": "node_21_ae8a78",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_24_2b840c",
+   "source": "node_1e_87fa84",
+   "target": "node_23_2e1835",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_25_2cd158",
+   "source": "node_1_4991ab",
+   "target": "node_1e_87fa84",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_28_deef58",
+   "source": "node_26_143745",
+   "target": "node_27_9c07a7",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_29_61ee6c",
+   "source": "node_1_4991ab",
+   "target": "node_26_143745",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

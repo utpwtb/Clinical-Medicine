@@ -1,0 +1,457 @@
+{
+ "version": 1,
+ "title": "06-泌尿外科 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_c0e3be",
+   "kind": "text",
+   "title": "外科学·泌尿外科",
+   "x": 0,
+   "y": 400.7142857142857,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_63d62a",
+   "kind": "notebook",
+   "title": "〇、血尿的定位与定性",
+   "x": 240,
+   "y": 55.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-泌尿外科#〇、血尿的定位与定性（贯穿本册的钥匙）]]",
+    "path": "外科学/06-泌尿外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-泌尿外科#〇、血尿的定位与定性（贯穿本册的钥匙）]]"
+  },
+  {
+   "id": "node_3_da7b90",
+   "kind": "text",
+   "title": "初始/终末/全程血尿三段定位",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_5_f41402",
+   "kind": "text",
+   "title": "无痛性全程肉眼血尿=肿瘤报警",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_8_89c8d2",
+   "kind": "notebook",
+   "title": "二、尿路结石",
+   "x": 240,
+   "y": 275.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-泌尿外科#二、尿路结石]]",
+    "path": "外科学/06-泌尿外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-泌尿外科#二、尿路结石]]"
+  },
+  {
+   "id": "node_9_bf5d2f",
+   "kind": "text",
+   "title": "草酸钙最常见；尿酸阴性结石可溶",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_b_8bcf53",
+   "kind": "text",
+   "title": "阶梯：＜6mm保守→ESWL→URS→PCNL",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_e_e5d6f6",
+   "kind": "notebook",
+   "title": "四、泌尿系肿瘤",
+   "x": 240,
+   "y": 550.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-泌尿外科#四、泌尿系肿瘤]]",
+    "path": "外科学/06-泌尿外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-泌尿外科#四、泌尿系肿瘤]]"
+  },
+  {
+   "id": "node_f_387539",
+   "kind": "text",
+   "title": "肾癌副肿瘤综合征、放化疗不敏感",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_11_382c04",
+   "kind": "text",
+   "title": "膀胱癌TURBT+灌注（中高危BCG）",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_13_6f92f2",
+   "kind": "text",
+   "title": "前列腺癌PSA+DRE、成骨转移",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_16_638c25",
+   "kind": "notebook",
+   "title": "六、鞘膜积液与精索静脉曲张",
+   "x": 240,
+   "y": 825.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-泌尿外科#六、鞘膜积液与精索静脉曲张]]",
+    "path": "外科学/06-泌尿外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-泌尿外科#六、鞘膜积液与精索静脉曲张]]"
+  },
+  {
+   "id": "node_17_560c95",
+   "kind": "text",
+   "title": "透光试验；交通性→鞘状突高位结扎",
+   "x": 480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_19_addc3e",
+   "kind": "text",
+   "title": "精索静脉左侧多发三机制",
+   "x": 480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1c_b963f3",
+   "kind": "notebook",
+   "title": "一、泌尿系统损伤",
+   "x": -240,
+   "y": 110.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-泌尿外科#一、泌尿系统损伤]]",
+    "path": "外科学/06-泌尿外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-泌尿外科#一、泌尿系统损伤]]"
+  },
+  {
+   "id": "node_1d_2a405f",
+   "kind": "text",
+   "title": "肾损伤：血尿≠伤情、卧床2–4周",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1f_77a6e1",
+   "kind": "text",
+   "title": "前尿道骑跨伤vs后尿道骨盆骨折",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_21_20ac37",
+   "kind": "text",
+   "title": "膀胱破裂：腹膜内vs腹膜外",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_24_88bc53",
+   "kind": "notebook",
+   "title": "三、泌尿系结核",
+   "x": -240,
+   "y": 385.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-泌尿外科#三、泌尿系结核]]",
+    "path": "外科学/06-泌尿外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-泌尿外科#三、泌尿系结核]]"
+  },
+  {
+   "id": "node_25_6e745",
+   "kind": "text",
+   "title": "肺→血行播散至肾；尿频最早",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_27_64de82",
+   "kind": "text",
+   "title": "虫蚀样破坏、肾自截",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2a_a9ba5a",
+   "kind": "notebook",
+   "title": "五、良性前列腺增生（BPH）",
+   "x": -240,
+   "y": 605.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[06-泌尿外科#五、良性前列腺增生（BPH）]]",
+    "path": "外科学/06-泌尿外科.md",
+    "targetType": "heading"
+   },
+   "link": "[[06-泌尿外科#五、良性前列腺增生（BPH）]]"
+  },
+  {
+   "id": "node_2b_6f028",
+   "kind": "text",
+   "title": "移行带增生；α₁快vs 5α-RI缩体积",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2d_a48b3d",
+   "kind": "text",
+   "title": "TURP金标准、TUR综合征低钠",
+   "x": -480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_e4429e",
+   "source": "node_2_63d62a",
+   "target": "node_3_da7b90",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_6_d5f250",
+   "source": "node_2_63d62a",
+   "target": "node_5_f41402",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_7_6b44fa",
+   "source": "node_1_c0e3be",
+   "target": "node_2_63d62a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_a_bc10fa",
+   "source": "node_8_89c8d2",
+   "target": "node_9_bf5d2f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_c_ccc429",
+   "source": "node_8_89c8d2",
+   "target": "node_b_8bcf53",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_d_9a6ec2",
+   "source": "node_1_c0e3be",
+   "target": "node_8_89c8d2",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_10_7cfc9b",
+   "source": "node_e_e5d6f6",
+   "target": "node_f_387539",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_12_45df16",
+   "source": "node_e_e5d6f6",
+   "target": "node_11_382c04",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_14_7c5308",
+   "source": "node_e_e5d6f6",
+   "target": "node_13_6f92f2",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_15_76e2b",
+   "source": "node_1_c0e3be",
+   "target": "node_e_e5d6f6",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_18_ab3b4d",
+   "source": "node_16_638c25",
+   "target": "node_17_560c95",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1a_cc530e",
+   "source": "node_16_638c25",
+   "target": "node_19_addc3e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1b_67814c",
+   "source": "node_1_c0e3be",
+   "target": "node_16_638c25",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1e_d72b61",
+   "source": "node_1c_b963f3",
+   "target": "node_1d_2a405f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_20_eb6714",
+   "source": "node_1c_b963f3",
+   "target": "node_1f_77a6e1",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_22_fb1098",
+   "source": "node_1c_b963f3",
+   "target": "node_21_20ac37",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_23_9f4c3b",
+   "source": "node_1_c0e3be",
+   "target": "node_1c_b963f3",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_26_e82c7d",
+   "source": "node_24_88bc53",
+   "target": "node_25_6e745",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_28_978648",
+   "source": "node_24_88bc53",
+   "target": "node_27_64de82",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_29_907bfe",
+   "source": "node_1_c0e3be",
+   "target": "node_24_88bc53",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2c_157d94",
+   "source": "node_2a_a9ba5a",
+   "target": "node_2b_6f028",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2e_6db991",
+   "source": "node_2a_a9ba5a",
+   "target": "node_2d_a48b3d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2f_22bd33",
+   "source": "node_1_c0e3be",
+   "target": "node_2a_a9ba5a",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

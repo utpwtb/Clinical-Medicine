@@ -1,0 +1,519 @@
+{
+ "version": 1,
+ "title": "01-病理学-总论 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_f29545",
+   "kind": "text",
+   "title": "病理学·总论",
+   "x": 0,
+   "y": 577.5,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_c342bd",
+   "kind": "notebook",
+   "title": "第一章 细胞和组织的适应与损伤",
+   "x": 240,
+   "y": 165.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-病理学-总论#第一章 细胞和组织的适应与损伤 ★★]]",
+    "path": "病理学/01-病理学-总论.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-病理学-总论#第一章 细胞和组织的适应与损伤 ★★]]"
+  },
+  {
+   "id": "node_3_353196",
+   "kind": "text",
+   "title": "**四种适应**：萎缩、肥大、增生、化生（化生→癌变温床）",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_5_3605bf",
+   "kind": "text",
+   "title": "**变性大表**：细胞水肿、脂肪变、玻璃样变、淀粉样变",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_7_a911d1",
+   "kind": "text",
+   "title": "**五种坏死**：凝固/干酪/液化/脂肪/纤维素样 + 三种坏疽",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_9_2834e4",
+   "kind": "text",
+   "title": "**凋亡**：凋亡小体、无炎症、caspases",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_c_8d4f5d",
+   "kind": "notebook",
+   "title": "第三章 局部血液循环障碍",
+   "x": 240,
+   "y": 605.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-病理学-总论#第三章 局部血液循环障碍 ★★]]",
+    "path": "病理学/01-病理学-总论.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-病理学-总论#第三章 局部血液循环障碍 ★★]]"
+  },
+  {
+   "id": "node_d_133773",
+   "kind": "text",
+   "title": "**淤血**：心衰细胞（左心衰）、槟榔肝（右心衰）",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_f_af5b",
+   "kind": "text",
+   "title": "**血栓四型**：白头/混合体/红尾/透明（DIC）+Virchow 三要素",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_11_735435",
+   "kind": "text",
+   "title": "**栓塞**：肺动脉（体静脉）、脂肪（长骨骨折）、羊水（DIC、猝死）",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_13_980402",
+   "kind": "text",
+   "title": "**梗死**：贫血性白色（心脾肾脑）vs 出血性红色（肺肠）",
+   "x": 480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_16_85b15",
+   "kind": "notebook",
+   "title": "第五章 肿瘤",
+   "x": 240,
+   "y": 1045.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-病理学-总论#第五章 肿瘤 ★★★]]",
+    "path": "病理学/01-病理学-总论.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-病理学-总论#第五章 肿瘤 ★★★]]"
+  },
+  {
+   "id": "node_17_3b4206",
+   "kind": "text",
+   "title": "**异型性**：病理性核分裂=恶性铁证；转移=最可靠依据",
+   "x": 480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_19_b4fb0e",
+   "kind": "text",
+   "title": "**扩散**：淋巴道（癌）｜血道（肉瘤）｜种植（Krukenberg 瘤）",
+   "x": 480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1b_b3f6fe",
+   "kind": "text",
+   "title": "**癌 vs 肉瘤**；癌前→原位癌（未破基底膜）→浸润癌",
+   "x": 480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1d_743b65",
+   "kind": "text",
+   "title": "致癌配对：黄曲霉-肝、EBV-鼻咽、HPV-宫颈",
+   "x": 480,
+   "y": 1210,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_20_3bc1a9",
+   "kind": "notebook",
+   "title": "第二章 损伤的修复",
+   "x": -240,
+   "y": 165.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-病理学-总论#第二章 损伤的修复 ★]]",
+    "path": "病理学/01-病理学-总论.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-病理学-总论#第二章 损伤的修复 ★]]"
+  },
+  {
+   "id": "node_21_ec856f",
+   "kind": "text",
+   "title": "细胞再生三类：不稳定/稳定/永久（心肌、骨骼肌、神经元）",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_23_c9af18",
+   "kind": "text",
+   "title": "**肉芽组织**：毛细血管+成纤维细胞+炎细胞；三大功能含机化",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_25_a003cd",
+   "kind": "text",
+   "title": "一期 vs 二期愈合；骨折愈合四步",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_27_a9434a",
+   "kind": "text",
+   "title": "**肉芽组织 vs 肉芽肿**（一字之差，年年设坑）",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2a_32a447",
+   "kind": "notebook",
+   "title": "第四章 炎症",
+   "x": -240,
+   "y": 605.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-病理学-总论#第四章 炎症 ★★]]",
+    "path": "病理学/01-病理学-总论.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-病理学-总论#第四章 炎症 ★★]]"
+  },
+  {
+   "id": "node_2b_6cd5e8",
+   "kind": "text",
+   "title": "基本病变：**变质、渗出、增生**——渗出最具特征",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2d_8b6870",
+   "kind": "text",
+   "title": "急性炎症四型：浆液/纤维素（假膜、绒毛心）/化脓（蜂窝织炎 vs 脓肿）/出血",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2f_a5cb63",
+   "kind": "text",
+   "title": "**肉芽肿性炎**：结核结节、伤寒小结、树胶肿",
+   "x": -480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_31_e88da7",
+   "kind": "text",
+   "title": "蔓延：菌血症→毒血症→败血症→脓毒败血症",
+   "x": -480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_34_246998",
+   "kind": "notebook",
+   "title": "附：总论速记表",
+   "x": -240,
+   "y": 880.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-病理学-总论#附：总论速记表（考前必背）]]",
+    "path": "病理学/01-病理学-总论.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-病理学-总论#附：总论速记表（考前必背）]]"
+  },
+  {
+   "id": "node_35_1247ea",
+   "kind": "text",
+   "title": "坏死/血栓/炎症/良恶性鉴别等大表汇总（考前必背）",
+   "x": -480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_a021c0",
+   "source": "node_2_c342bd",
+   "target": "node_3_353196",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_6_43bfd9",
+   "source": "node_2_c342bd",
+   "target": "node_5_3605bf",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_8_14c8b3",
+   "source": "node_2_c342bd",
+   "target": "node_7_a911d1",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_a_3d67cd",
+   "source": "node_2_c342bd",
+   "target": "node_9_2834e4",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_b_2c7f0b",
+   "source": "node_1_f29545",
+   "target": "node_2_c342bd",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_e_281285",
+   "source": "node_c_8d4f5d",
+   "target": "node_d_133773",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_10_68949b",
+   "source": "node_c_8d4f5d",
+   "target": "node_f_af5b",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_12_b07aa0",
+   "source": "node_c_8d4f5d",
+   "target": "node_11_735435",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_14_784c2f",
+   "source": "node_c_8d4f5d",
+   "target": "node_13_980402",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_15_4a8ff8",
+   "source": "node_1_f29545",
+   "target": "node_c_8d4f5d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_18_49c13d",
+   "source": "node_16_85b15",
+   "target": "node_17_3b4206",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1a_48603b",
+   "source": "node_16_85b15",
+   "target": "node_19_b4fb0e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1c_dc0f2f",
+   "source": "node_16_85b15",
+   "target": "node_1b_b3f6fe",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1e_1238d6",
+   "source": "node_16_85b15",
+   "target": "node_1d_743b65",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1f_aff875",
+   "source": "node_1_f29545",
+   "target": "node_16_85b15",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_22_43b9da",
+   "source": "node_20_3bc1a9",
+   "target": "node_21_ec856f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_24_ca8f36",
+   "source": "node_20_3bc1a9",
+   "target": "node_23_c9af18",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_26_96fc73",
+   "source": "node_20_3bc1a9",
+   "target": "node_25_a003cd",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_28_cdccc3",
+   "source": "node_20_3bc1a9",
+   "target": "node_27_a9434a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_29_ef04e5",
+   "source": "node_1_f29545",
+   "target": "node_20_3bc1a9",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2c_1d61fa",
+   "source": "node_2a_32a447",
+   "target": "node_2b_6cd5e8",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2e_398d1c",
+   "source": "node_2a_32a447",
+   "target": "node_2d_8b6870",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_30_26242b",
+   "source": "node_2a_32a447",
+   "target": "node_2f_a5cb63",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_32_44007d",
+   "source": "node_2a_32a447",
+   "target": "node_31_e88da7",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_33_d39e19",
+   "source": "node_1_f29545",
+   "target": "node_2a_32a447",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_36_f4470",
+   "source": "node_34_246998",
+   "target": "node_35_1247ea",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_37_2a79ea",
+   "source": "node_1_f29545",
+   "target": "node_34_246998",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

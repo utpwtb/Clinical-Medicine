@@ -1,0 +1,795 @@
+{
+ "version": 1,
+ "title": "03-消化系统 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_ff5e9f",
+   "kind": "text",
+   "title": "内科学·消化系统",
+   "x": 0,
+   "y": 540.8333333333334,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_2369b5",
+   "kind": "notebook",
+   "title": "一、胃食管反流病（GERD）",
+   "x": 240,
+   "y": 0.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-消化系统#一、胃食管反流病（GERD）]]",
+    "path": "内科学/03-消化系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-消化系统#一、胃食管反流病（GERD）]]"
+  },
+  {
+   "id": "node_3_827050",
+   "kind": "text",
+   "title": "TLESR 最重要机制；Barrett=癌前",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_6_c17af0",
+   "kind": "notebook",
+   "title": "三、消化性溃疡（PU）",
+   "x": 240,
+   "y": 165.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-消化系统#三、消化性溃疡（PU）]]",
+    "path": "内科学/03-消化系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-消化系统#三、消化性溃疡（PU）]]"
+  },
+  {
+   "id": "node_7_c0fd1",
+   "kind": "text",
+   "title": "GU 餐后痛须活检；DU 空腹痛不癌变",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_9_1c11f7",
+   "kind": "text",
+   "title": "并发症：出血＞穿孔＞梗阻＞癌变",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_c_28f494",
+   "kind": "notebook",
+   "title": "五、炎症性肠病：UC vs Crohn（本系统第一大表，必背）",
+   "x": 240,
+   "y": 330.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-消化系统#五、炎症性肠病：UC vs Crohn（本系统第一大表，必背）]]",
+    "path": "内科学/03-消化系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-消化系统#五、炎症性肠病：UC vs Crohn（本系统第一大表，必背）]]"
+  },
+  {
+   "id": "node_d_cac5b6",
+   "kind": "text",
+   "title": "连续/黏膜/脓血便 vs 跳跃/全层/瘘管",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_10_98ae43",
+   "kind": "notebook",
+   "title": "七、功能性胃肠病：IBS（要点段落）",
+   "x": 240,
+   "y": 440.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-消化系统#七、功能性胃肠病：IBS（要点段落）]]",
+    "path": "内科学/03-消化系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-消化系统#七、功能性胃肠病：IBS（要点段落）]]"
+  },
+  {
+   "id": "node_11_10435a",
+   "kind": "text",
+   "title": "七、功能性胃肠病：IBS（要点段落）（详见笔记）",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_14_988c24",
+   "kind": "notebook",
+   "title": "九、肝性脑病（HE）",
+   "x": 240,
+   "y": 550.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-消化系统#九、肝性脑病（HE）]]",
+    "path": "内科学/03-消化系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-消化系统#九、肝性脑病（HE）]]"
+  },
+  {
+   "id": "node_15_ff01cf",
+   "kind": "text",
+   "title": "氨中毒学说；乳果糖酸化肠道",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_18_405cac",
+   "kind": "notebook",
+   "title": "十一、急性胰腺炎（AP）",
+   "x": 240,
+   "y": 715.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-消化系统#十一、急性胰腺炎（AP）]]",
+    "path": "内科学/03-消化系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-消化系统#十一、急性胰腺炎（AP）]]"
+  },
+  {
+   "id": "node_19_f89897",
+   "kind": "text",
+   "title": "三标准其二；脂肪酶更特异",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1b_dc5c0e",
+   "kind": "text",
+   "title": "重症=器官衰竭＞48 h；假性囊肿＞4 周",
+   "x": 480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1e_ae270d",
+   "kind": "notebook",
+   "title": "十三、下消化道出血（要点段落）",
+   "x": 240,
+   "y": 880.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-消化系统#十三、下消化道出血（要点段落）]]",
+    "path": "内科学/03-消化系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-消化系统#十三、下消化道出血（要点段落）]]"
+  },
+  {
+   "id": "node_1f_b88139",
+   "kind": "text",
+   "title": "十三、下消化道出血（要点段落）（详见笔记）",
+   "x": 480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_22_e2817e",
+   "kind": "notebook",
+   "title": "十五、药物性肝损伤（DILI，要点段落）",
+   "x": 240,
+   "y": 990.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-消化系统#十五、药物性肝损伤（DILI，要点段落）]]",
+    "path": "内科学/03-消化系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-消化系统#十五、药物性肝损伤（DILI，要点段落）]]"
+  },
+  {
+   "id": "node_23_8976e3",
+   "kind": "text",
+   "title": "十五、药物性肝损伤（DILI，要点段落）（详见笔记）",
+   "x": 480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_26_c4c2e2",
+   "kind": "notebook",
+   "title": "十七、消化道出血风险评估补充（要点）",
+   "x": 240,
+   "y": 1100.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-消化系统#十七、消化道出血风险评估补充（要点）]]",
+    "path": "内科学/03-消化系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-消化系统#十七、消化道出血风险评估补充（要点）]]"
+  },
+  {
+   "id": "node_27_a41612",
+   "kind": "text",
+   "title": "十七、消化道出血风险评估补充（要点）（详见笔记）",
+   "x": 480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2a_4b22d3",
+   "kind": "notebook",
+   "title": "二、慢性胃炎",
+   "x": -240,
+   "y": 0.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-消化系统#二、慢性胃炎]]",
+    "path": "内科学/03-消化系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-消化系统#二、慢性胃炎]]"
+  },
+  {
+   "id": "node_2b_6f4cc6",
+   "kind": "text",
+   "title": "A 型胃体+恶性贫血；B 型胃窦+HP",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2e_d4af",
+   "kind": "notebook",
+   "title": "四、胃癌",
+   "x": -240,
+   "y": 110.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-消化系统#四、胃癌]]",
+    "path": "内科学/03-消化系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-消化系统#四、胃癌]]"
+  },
+  {
+   "id": "node_2f_f42d47",
+   "kind": "text",
+   "title": "早期定义；Virchow 结与 Krukenberg 瘤",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_32_b83cfe",
+   "kind": "notebook",
+   "title": "六、肠结核",
+   "x": -240,
+   "y": 220.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-消化系统#六、肠结核]]",
+    "path": "内科学/03-消化系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-消化系统#六、肠结核]]"
+  },
+  {
+   "id": "node_33_436d76",
+   "kind": "text",
+   "title": "回盲部+跳跃征+干酪样肉芽肿",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_36_c30ff4",
+   "kind": "notebook",
+   "title": "八、肝硬化",
+   "x": -240,
+   "y": 385.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-消化系统#八、肝硬化]]",
+    "path": "内科学/03-消化系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-消化系统#八、肝硬化]]"
+  },
+  {
+   "id": "node_37_2dbc21",
+   "kind": "text",
+   "title": "失代偿四大表现；门脉高压三大征",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_39_e9a1fa",
+   "kind": "text",
+   "title": "Child-Pugh 分级；SBP=PMN≥250",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3c_a013ac",
+   "kind": "notebook",
+   "title": "十、原发性肝癌",
+   "x": -240,
+   "y": 550.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-消化系统#十、原发性肝癌]]",
+    "path": "内科学/03-消化系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-消化系统#十、原发性肝癌]]"
+  },
+  {
+   "id": "node_3d_4c66e0",
+   "kind": "text",
+   "title": "AFP+超声每 6 个月筛查；快进快出",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_40_81f631",
+   "kind": "notebook",
+   "title": "十二、上消化道出血",
+   "x": -240,
+   "y": 660.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-消化系统#十二、上消化道出血]]",
+    "path": "内科学/03-消化系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-消化系统#十二、上消化道出血]]"
+  },
+  {
+   "id": "node_41_9be578",
+   "kind": "text",
+   "title": "PPI 80 mg+8 mg/h；内镜 24 h 内",
+   "x": -480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_44_5fb8d1",
+   "kind": "notebook",
+   "title": "十四、酒精性肝病与代谢相关脂肪性肝病（要点段落）",
+   "x": -240,
+   "y": 770.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-消化系统#十四、酒精性肝病与代谢相关脂肪性肝病（要点段落）]]",
+    "path": "内科学/03-消化系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-消化系统#十四、酒精性肝病与代谢相关脂肪性肝病（要点段落）]]"
+  },
+  {
+   "id": "node_45_c333e8",
+   "kind": "text",
+   "title": "AST/ALT＞2、GGT↑；戒酒为根本",
+   "x": -480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_48_f4188f",
+   "kind": "notebook",
+   "title": "十六、结直肠息肉与结直肠癌筛查（要点段落）",
+   "x": -240,
+   "y": 880.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-消化系统#十六、结直肠息肉与结直肠癌筛查（要点段落）]]",
+    "path": "内科学/03-消化系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-消化系统#十六、结直肠息肉与结直肠癌筛查（要点段落）]]"
+  },
+  {
+   "id": "node_49_c75410",
+   "kind": "text",
+   "title": "十六、结直肠息肉与结直肠癌筛查（要点段落）（详见笔记）",
+   "x": -480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_4c_eb2263",
+   "kind": "notebook",
+   "title": "附：消化系统速记要点",
+   "x": -240,
+   "y": 990.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-消化系统#附：消化系统速记要点]]",
+    "path": "内科学/03-消化系统.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-消化系统#附：消化系统速记要点]]"
+  },
+  {
+   "id": "node_4d_257a",
+   "kind": "text",
+   "title": "附：消化系统速记要点（详见笔记）",
+   "x": -480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_7e570d",
+   "source": "node_2_2369b5",
+   "target": "node_3_827050",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_5_1745d6",
+   "source": "node_1_ff5e9f",
+   "target": "node_2_2369b5",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_8_dc713d",
+   "source": "node_6_c17af0",
+   "target": "node_7_c0fd1",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_a_27209b",
+   "source": "node_6_c17af0",
+   "target": "node_9_1c11f7",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_b_a0a04d",
+   "source": "node_1_ff5e9f",
+   "target": "node_6_c17af0",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_e_ae3404",
+   "source": "node_c_28f494",
+   "target": "node_d_cac5b6",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_f_6c12ac",
+   "source": "node_1_ff5e9f",
+   "target": "node_c_28f494",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_12_62801c",
+   "source": "node_10_98ae43",
+   "target": "node_11_10435a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_13_61b1cd",
+   "source": "node_1_ff5e9f",
+   "target": "node_10_98ae43",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_16_77d21e",
+   "source": "node_14_988c24",
+   "target": "node_15_ff01cf",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_17_877409",
+   "source": "node_1_ff5e9f",
+   "target": "node_14_988c24",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1a_8da036",
+   "source": "node_18_405cac",
+   "target": "node_19_f89897",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1c_f14326",
+   "source": "node_18_405cac",
+   "target": "node_1b_dc5c0e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1d_2f06b",
+   "source": "node_1_ff5e9f",
+   "target": "node_18_405cac",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_20_1d5343",
+   "source": "node_1e_ae270d",
+   "target": "node_1f_b88139",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_21_ae8492",
+   "source": "node_1_ff5e9f",
+   "target": "node_1e_ae270d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_24_c03987",
+   "source": "node_22_e2817e",
+   "target": "node_23_8976e3",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_25_444ea7",
+   "source": "node_1_ff5e9f",
+   "target": "node_22_e2817e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_28_5715bd",
+   "source": "node_26_c4c2e2",
+   "target": "node_27_a41612",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_29_1c8eae",
+   "source": "node_1_ff5e9f",
+   "target": "node_26_c4c2e2",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2c_287d06",
+   "source": "node_2a_4b22d3",
+   "target": "node_2b_6f4cc6",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2d_74273c",
+   "source": "node_1_ff5e9f",
+   "target": "node_2a_4b22d3",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_30_b8db06",
+   "source": "node_2e_d4af",
+   "target": "node_2f_f42d47",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_31_e037e5",
+   "source": "node_1_ff5e9f",
+   "target": "node_2e_d4af",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_34_f8cda8",
+   "source": "node_32_b83cfe",
+   "target": "node_33_436d76",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_35_802669",
+   "source": "node_1_ff5e9f",
+   "target": "node_32_b83cfe",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_38_81f76d",
+   "source": "node_36_c30ff4",
+   "target": "node_37_2dbc21",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3a_1b3dbd",
+   "source": "node_36_c30ff4",
+   "target": "node_39_e9a1fa",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3b_deda4e",
+   "source": "node_1_ff5e9f",
+   "target": "node_36_c30ff4",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3e_d777a4",
+   "source": "node_3c_a013ac",
+   "target": "node_3d_4c66e0",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3f_a39231",
+   "source": "node_1_ff5e9f",
+   "target": "node_3c_a013ac",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_42_32ebd6",
+   "source": "node_40_81f631",
+   "target": "node_41_9be578",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_43_272079",
+   "source": "node_1_ff5e9f",
+   "target": "node_40_81f631",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_46_295b47",
+   "source": "node_44_5fb8d1",
+   "target": "node_45_c333e8",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_47_8a14be",
+   "source": "node_1_ff5e9f",
+   "target": "node_44_5fb8d1",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4a_ec24a3",
+   "source": "node_48_f4188f",
+   "target": "node_49_c75410",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4b_87c542",
+   "source": "node_1_ff5e9f",
+   "target": "node_48_f4188f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4e_99546e",
+   "source": "node_4c_eb2263",
+   "target": "node_4d_257a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4f_52fbe4",
+   "source": "node_1_ff5e9f",
+   "target": "node_4c_eb2263",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

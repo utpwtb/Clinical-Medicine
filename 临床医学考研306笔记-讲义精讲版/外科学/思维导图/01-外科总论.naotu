@@ -1,0 +1,741 @@
+{
+ "version": 1,
+ "title": "01-外科总论 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_bfddc3",
+   "kind": "text",
+   "title": "外科学·外科总论",
+   "x": 0,
+   "y": 788.3333333333334,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_2790ce",
+   "kind": "notebook",
+   "title": "一、无菌术",
+   "x": 240,
+   "y": 110.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-外科总论#一、无菌术]]",
+    "path": "外科学/01-外科总论.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-外科总论#一、无菌术]]"
+  },
+  {
+   "id": "node_3_ecfedb",
+   "kind": "text",
+   "title": "**灭菌**（含芽孢）vs **消毒**（不一定杀灭芽孢）",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_5_3c9ad1",
+   "kind": "text",
+   "title": "蒸汽 **121 ℃/30 min**、预真空 **134 ℃/4 min**",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_7_2999b7",
+   "kind": "text",
+   "title": "感染伤口消毒**由四周向中心**",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_a_cf8ebc",
+   "kind": "notebook",
+   "title": "三、输血",
+   "x": 240,
+   "y": 440.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-外科总论#三、输血]]",
+    "path": "外科学/01-外科总论.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-外科总论#三、输血]]"
+  },
+  {
+   "id": "node_b_2d534d",
+   "kind": "text",
+   "title": "溶血反应最严重：**停输→水化碱化**",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_d_698c20",
+   "kind": "text",
+   "title": "冷沉淀=Ⅷ因子+纤维蛋白原+vWF",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_f_2dea94",
+   "kind": "text",
+   "title": "自体血回收禁忌：**恶性肿瘤、污染**",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_12_550a1b",
+   "kind": "notebook",
+   "title": "五、麻醉与围术期管理",
+   "x": 240,
+   "y": 770.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-外科总论#五、麻醉与围术期管理]]",
+    "path": "外科学/01-外科总论.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-外科总论#五、麻醉与围术期管理]]"
+  },
+  {
+   "id": "node_13_c84a7b",
+   "kind": "text",
+   "title": "酯类（PABA 过敏）vs 酰胺类；布比卡因心脏毒性最强",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_15_696608",
+   "kind": "text",
+   "title": "**硬膜外血肿 8 h 内减压**",
+   "x": 480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_17_ab7f08",
+   "kind": "text",
+   "title": "术后 3 天后发热先查感染",
+   "x": 480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1a_cf8d44",
+   "kind": "notebook",
+   "title": "七、外科感染",
+   "x": 240,
+   "y": 1155.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-外科总论#七、外科感染]]",
+    "path": "外科学/01-外科总论.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-外科总论#七、外科感染]]"
+  },
+  {
+   "id": "node_1b_3f87e3",
+   "kind": "text",
+   "title": "疖/痈/蜂窝织炎/**丹毒**四大对比",
+   "x": 480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1d_28c130",
+   "kind": "text",
+   "title": "**破伤风**：神志清、TAT 尽早中和游离毒素",
+   "x": 480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1f_b386f7",
+   "kind": "text",
+   "title": "气性坏疽：捻发音+青霉素+高压氧",
+   "x": 480,
+   "y": 1210,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_21_61ee41",
+   "kind": "text",
+   "title": "**有脓必排**：抗生素不能替代引流",
+   "x": 480,
+   "y": 1320,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_24_dbccc4",
+   "kind": "notebook",
+   "title": "九、肿瘤总论",
+   "x": 240,
+   "y": 1485.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-外科总论#九、肿瘤总论]]",
+    "path": "外科学/01-外科总论.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-外科总论#九、肿瘤总论]]"
+  },
+  {
+   "id": "node_25_787f24",
+   "kind": "text",
+   "title": "**TNM 分期**；活检切口纳入根治范围",
+   "x": 480,
+   "y": 1430,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_27_331734",
+   "kind": "text",
+   "title": "癌痛**三阶梯**与五项原则",
+   "x": 480,
+   "y": 1540,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2a_75d66e",
+   "kind": "notebook",
+   "title": "二、外科患者的水、电解质与酸碱失衡",
+   "x": -240,
+   "y": 165.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-外科总论#二、外科患者的水、电解质与酸碱失衡]]",
+    "path": "外科学/01-外科总论.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-外科总论#二、外科患者的水、电解质与酸碱失衡]]"
+  },
+  {
+   "id": "node_2b_598336",
+   "kind": "text",
+   "title": "三型脱水：**等渗不渴、低渗易休克、高渗先渴**",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2d_d20eac",
+   "kind": "text",
+   "title": "补钾五原则：**见尿**、≤0.3%、≤10–20 mmol/h",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2f_df0f06",
+   "kind": "text",
+   "title": "高钾：T 波高尖，**钙→转移→排出**（透析 ＞6.5）",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_31_391184",
+   "kind": "text",
+   "title": "四型酸碱失衡；补液**定性—定量—定时**",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_34_3170f4",
+   "kind": "notebook",
+   "title": "四、外科休克",
+   "x": -240,
+   "y": 605.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-外科总论#四、外科休克]]",
+    "path": "外科学/01-外科总论.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-外科总论#四、外科休克]]"
+  },
+  {
+   "id": "node_35_6601dd",
+   "kind": "text",
+   "title": "微循环三期：**缺血→淤血→DIC**",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_37_475287",
+   "kind": "text",
+   "title": "**尿量**最可靠；CVP+血压联合判读",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_39_11c58e",
+   "kind": "text",
+   "title": "冷休克 vs 暖休克；升压**首选去甲肾上腺素**",
+   "x": -480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3b_c5f8bc",
+   "kind": "text",
+   "title": "**允许性低血压**（颅脑损伤例外）",
+   "x": -480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3e_a43825",
+   "kind": "notebook",
+   "title": "六、外科营养",
+   "x": -240,
+   "y": 990.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-外科总论#六、外科营养]]",
+    "path": "外科学/01-外科总论.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-外科总论#六、外科营养]]"
+  },
+  {
+   "id": "node_3f_826869",
+   "kind": "text",
+   "title": "**EN 优先**：肠屏障+防细菌移位",
+   "x": -480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_41_adf4e6",
+   "kind": "text",
+   "title": "再喂养综合征：**低磷**为核心",
+   "x": -480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_43_d7fa2d",
+   "kind": "text",
+   "title": "PN ≥2 周或高渗→**中心静脉**",
+   "x": -480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_46_f071d8",
+   "kind": "notebook",
+   "title": "八、创伤与烧伤",
+   "x": -240,
+   "y": 1375.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-外科总论#八、创伤与烧伤]]",
+    "path": "外科学/01-外科总论.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-外科总论#八、创伤与烧伤]]"
+  },
+  {
+   "id": "node_47_710d4",
+   "kind": "text",
+   "title": "挤压综合征：**解压前先补液**（防高钾猝死）",
+   "x": -480,
+   "y": 1210,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_49_e08596",
+   "kind": "text",
+   "title": "九分法+手掌法估算面积",
+   "x": -480,
+   "y": 1320,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_4b_42deff",
+   "kind": "text",
+   "title": "三度四分法：**剧痛浅Ⅱ°、迟钝深Ⅱ°、无痛Ⅲ°**",
+   "x": -480,
+   "y": 1430,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_4d_94a187",
+   "kind": "text",
+   "title": "烧伤补液：**面积×体重×1.5+2000 ml**，前 8 h 半量",
+   "x": -480,
+   "y": 1540,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_ee0cae",
+   "source": "node_2_2790ce",
+   "target": "node_3_ecfedb",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_6_dd56cc",
+   "source": "node_2_2790ce",
+   "target": "node_5_3c9ad1",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_8_f9e8a3",
+   "source": "node_2_2790ce",
+   "target": "node_7_2999b7",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_9_ccc565",
+   "source": "node_1_bfddc3",
+   "target": "node_2_2790ce",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_c_e1a47e",
+   "source": "node_a_cf8ebc",
+   "target": "node_b_2d534d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_e_65866",
+   "source": "node_a_cf8ebc",
+   "target": "node_d_698c20",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_10_bc8f7d",
+   "source": "node_a_cf8ebc",
+   "target": "node_f_2dea94",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_11_ecab33",
+   "source": "node_1_bfddc3",
+   "target": "node_a_cf8ebc",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_14_ee49f3",
+   "source": "node_12_550a1b",
+   "target": "node_13_c84a7b",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_16_cd5f48",
+   "source": "node_12_550a1b",
+   "target": "node_15_696608",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_18_dd334c",
+   "source": "node_12_550a1b",
+   "target": "node_17_ab7f08",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_19_bc2cbb",
+   "source": "node_1_bfddc3",
+   "target": "node_12_550a1b",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1c_444d61",
+   "source": "node_1a_cf8d44",
+   "target": "node_1b_3f87e3",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1e_c99160",
+   "source": "node_1a_cf8d44",
+   "target": "node_1d_28c130",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_20_1bac27",
+   "source": "node_1a_cf8d44",
+   "target": "node_1f_b386f7",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_22_df4652",
+   "source": "node_1a_cf8d44",
+   "target": "node_21_61ee41",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_23_9e9db",
+   "source": "node_1_bfddc3",
+   "target": "node_1a_cf8d44",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_26_38f16a",
+   "source": "node_24_dbccc4",
+   "target": "node_25_787f24",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_28_d10bd1",
+   "source": "node_24_dbccc4",
+   "target": "node_27_331734",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_29_eb1fa9",
+   "source": "node_1_bfddc3",
+   "target": "node_24_dbccc4",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2c_4e20fd",
+   "source": "node_2a_75d66e",
+   "target": "node_2b_598336",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2e_cb9bc3",
+   "source": "node_2a_75d66e",
+   "target": "node_2d_d20eac",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_30_3a43b2",
+   "source": "node_2a_75d66e",
+   "target": "node_2f_df0f06",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_32_60edf",
+   "source": "node_2a_75d66e",
+   "target": "node_31_391184",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_33_a8f7ef",
+   "source": "node_1_bfddc3",
+   "target": "node_2a_75d66e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_36_5408f9",
+   "source": "node_34_3170f4",
+   "target": "node_35_6601dd",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_38_dd463c",
+   "source": "node_34_3170f4",
+   "target": "node_37_475287",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3a_f7860b",
+   "source": "node_34_3170f4",
+   "target": "node_39_11c58e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3c_4774bc",
+   "source": "node_34_3170f4",
+   "target": "node_3b_c5f8bc",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3d_59e4b6",
+   "source": "node_1_bfddc3",
+   "target": "node_34_3170f4",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_40_665152",
+   "source": "node_3e_a43825",
+   "target": "node_3f_826869",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_42_fb2ca0",
+   "source": "node_3e_a43825",
+   "target": "node_41_adf4e6",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_44_89456f",
+   "source": "node_3e_a43825",
+   "target": "node_43_d7fa2d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_45_54c63c",
+   "source": "node_1_bfddc3",
+   "target": "node_3e_a43825",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_48_1d8709",
+   "source": "node_46_f071d8",
+   "target": "node_47_710d4",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4a_f86c2c",
+   "source": "node_46_f071d8",
+   "target": "node_49_e08596",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4c_2db69e",
+   "source": "node_46_f071d8",
+   "target": "node_4b_42deff",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4e_f668a6",
+   "source": "node_46_f071d8",
+   "target": "node_4d_94a187",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4f_fbc9f8",
+   "source": "node_1_bfddc3",
+   "target": "node_46_f071d8",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

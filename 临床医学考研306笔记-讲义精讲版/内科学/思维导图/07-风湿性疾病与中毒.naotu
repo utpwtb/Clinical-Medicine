@@ -1,0 +1,692 @@
+{
+ "version": 1,
+ "title": "07-风湿性疾病与中毒 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_e3e9de",
+   "kind": "text",
+   "title": "内科学·风湿与中毒",
+   "x": 0,
+   "y": 513.3333333333334,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_91d63f",
+   "kind": "notebook",
+   "title": "一、类风湿关节炎（RA）",
+   "x": 240,
+   "y": 55.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-风湿性疾病与中毒#一、类风湿关节炎（RA）]]",
+    "path": "内科学/07-风湿性疾病与中毒.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-风湿性疾病与中毒#一、类风湿关节炎（RA）]]"
+  },
+  {
+   "id": "node_3_3f07f8",
+   "kind": "text",
+   "title": "对称性小关节炎（不累 DIP）+晨僵＞1h；抗 CCP 特异性最高",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_5_983268",
+   "kind": "text",
+   "title": "MTX 首选锚定；激素/NSAIDs 仅桥接",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_8_14fcdd",
+   "kind": "notebook",
+   "title": "三、干燥综合征（SS）",
+   "x": 240,
+   "y": 220.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-风湿性疾病与中毒#三、干燥综合征（SS）]]",
+    "path": "内科学/07-风湿性疾病与中毒.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-风湿性疾病与中毒#三、干燥综合征（SS）]]"
+  },
+  {
+   "id": "node_9_6b5252",
+   "kind": "text",
+   "title": "口眼干+抗 SSA/SSB+唇腺灶性浸润；Ⅰ型 RTA 与淋巴瘤风险",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_c_90b2b6",
+   "kind": "notebook",
+   "title": "五、血管炎",
+   "x": 240,
+   "y": 330.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-风湿性疾病与中毒#五、血管炎]]",
+    "path": "内科学/07-风湿性疾病与中毒.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-风湿性疾病与中毒#五、血管炎]]"
+  },
+  {
+   "id": "node_d_85d516",
+   "kind": "text",
+   "title": "GPA=c-ANCA/PR3+肺肾；MPA=p-ANCA/MPO；GCA 老年颌跛行立即激素",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_10_42c18a",
+   "kind": "notebook",
+   "title": "七、系统性硬化症（SSc）",
+   "x": 240,
+   "y": 440.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-风湿性疾病与中毒#七、系统性硬化症（SSc）]]",
+    "path": "内科学/07-风湿性疾病与中毒.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-风湿性疾病与中毒#七、系统性硬化症（SSc）]]"
+  },
+  {
+   "id": "node_11_344a54",
+   "kind": "text",
+   "title": "雷诺首发；CREST=ACA；Scl-70=弥漫型；肾危象用 ACEI",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_14_506e5a",
+   "kind": "notebook",
+   "title": "九、有机磷杀虫药中毒（OPI）",
+   "x": 240,
+   "y": 605.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-风湿性疾病与中毒#九、有机磷杀虫药中毒（OPI）]]",
+    "path": "内科学/07-风湿性疾病与中毒.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-风湿性疾病与中毒#九、有机磷杀虫药中毒（OPI）]]"
+  },
+  {
+   "id": "node_15_3d1a85",
+   "kind": "text",
+   "title": "M 样针尖瞳+N 样肌颤；ChE 分级 50–70/30–50/＜30",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_17_655238",
+   "kind": "text",
+   "title": "阿托品化 vs 阿托品中毒；IMS 24–96h vs 迟发神经病 2–4 周",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1a_a53f8a",
+   "kind": "notebook",
+   "title": "十一、镇静催眠药中毒",
+   "x": 240,
+   "y": 770.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-风湿性疾病与中毒#十一、镇静催眠药中毒]]",
+    "path": "内科学/07-风湿性疾病与中毒.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-风湿性疾病与中毒#十一、镇静催眠药中毒]]"
+  },
+  {
+   "id": "node_1b_4ccc9b",
+   "kind": "text",
+   "title": "BZD 氟马西尼；巴比妥碱化利尿+血液灌流；TCA 宽 QRS→碳酸氢钠",
+   "x": 480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1e_edd425",
+   "kind": "notebook",
+   "title": "十三、灭鼠药中毒",
+   "x": 240,
+   "y": 880.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-风湿性疾病与中毒#十三、灭鼠药中毒（概要）]]",
+    "path": "内科学/07-风湿性疾病与中毒.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-风湿性疾病与中毒#十三、灭鼠药中毒（概要）]]"
+  },
+  {
+   "id": "node_1f_c07a30",
+   "kind": "text",
+   "title": "抗凝血类=迟发出血+VitK₁ 长程；氟乙酰胺=乙酰胺",
+   "x": 480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_22_2627f",
+   "kind": "notebook",
+   "title": "附：风湿与中毒速记要点",
+   "x": 240,
+   "y": 990.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-风湿性疾病与中毒#附：风湿与中毒速记要点]]",
+    "path": "内科学/07-风湿性疾病与中毒.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-风湿性疾病与中毒#附：风湿与中毒速记要点]]"
+  },
+  {
+   "id": "node_23_755233",
+   "kind": "text",
+   "title": "抗体—疾病与毒物—解毒剂配对汇总",
+   "x": 480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_26_902059",
+   "kind": "notebook",
+   "title": "二、系统性红斑狼疮（SLE）",
+   "x": -240,
+   "y": 55.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-风湿性疾病与中毒#二、系统性红斑狼疮（SLE）]]",
+    "path": "内科学/07-风湿性疾病与中毒.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-风湿性疾病与中毒#二、系统性红斑狼疮（SLE）]]"
+  },
+  {
+   "id": "node_27_ff002d",
+   "kind": "text",
+   "title": "抗 Sm 最特异、抗 dsDNA=活动+肾炎、ANA 筛查",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_29_12c136",
+   "kind": "text",
+   "title": "狼疮肾炎：肾活检分型指导治疗，Ⅳ 型最重；羟氯喹全员",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2c_8181a8",
+   "kind": "notebook",
+   "title": "四、脊柱关节炎（SpA）与强直性脊柱炎（AS）",
+   "x": -240,
+   "y": 220.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-风湿性疾病与中毒#四、脊柱关节炎（SpA）与强直性脊柱炎（AS）]]",
+    "path": "内科学/07-风湿性疾病与中毒.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-风湿性疾病与中毒#四、脊柱关节炎（SpA）与强直性脊柱炎（AS）]]"
+  },
+  {
+   "id": "node_2d_43e42c",
+   "kind": "text",
+   "title": "炎性背痛+HLA-B27+骶髂关节炎；NSAIDs 首选，MTX 对中轴无效",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_30_5958a4",
+   "kind": "notebook",
+   "title": "六、特发性炎性肌病",
+   "x": -240,
+   "y": 330.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-风湿性疾病与中毒#六、特发性炎性肌病（IIM：多发性肌炎/皮肌炎）]]",
+    "path": "内科学/07-风湿性疾病与中毒.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-风湿性疾病与中毒#六、特发性炎性肌病（IIM：多发性肌炎/皮肌炎）]]"
+  },
+  {
+   "id": "node_31_e18050",
+   "kind": "text",
+   "title": "近端肌无力+CK↑+肌源性 EMG；Gottron 征最特异",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_34_3e896c",
+   "kind": "notebook",
+   "title": "八、中毒总论",
+   "x": -240,
+   "y": 495.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-风湿性疾病与中毒#八、中毒总论]]",
+    "path": "内科学/07-风湿性疾病与中毒.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-风湿性疾病与中毒#八、中毒总论]]"
+  },
+  {
+   "id": "node_35_5e9953",
+   "kind": "text",
+   "title": "洗胃 1h 内最佳；腐蚀性/惊厥/昏迷（未插管）禁忌",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_37_286218",
+   "kind": "text",
+   "title": "解毒剂配对与透析/灌流毒物谱",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3a_8b1055",
+   "kind": "notebook",
+   "title": "十、急性一氧化碳中毒",
+   "x": -240,
+   "y": 660.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-风湿性疾病与中毒#十、急性一氧化碳中毒]]",
+    "path": "内科学/07-风湿性疾病与中毒.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-风湿性疾病与中毒#十、急性一氧化碳中毒]]"
+  },
+  {
+   "id": "node_3b_b41b31",
+   "kind": "text",
+   "title": "COHb 分度；高压氧；假愈期 2–60 天→迟发性脑病",
+   "x": -480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3e_fbddcf",
+   "kind": "notebook",
+   "title": "十二、急性酒精中毒",
+   "x": -240,
+   "y": 770.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-风湿性疾病与中毒#十二、急性酒精中毒]]",
+    "path": "内科学/07-风湿性疾病与中毒.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-风湿性疾病与中毒#十二、急性酒精中毒]]"
+  },
+  {
+   "id": "node_3f_fcbb4e",
+   "kind": "text",
+   "title": "先 VitB₁ 后葡萄糖；＞4 g/L 透析；双硫仑样反应",
+   "x": -480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_42_8768a8",
+   "kind": "notebook",
+   "title": "十四、中暑与热射病",
+   "x": -240,
+   "y": 880.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-风湿性疾病与中毒#十四、中暑与热射病]]",
+    "path": "内科学/07-风湿性疾病与中毒.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-风湿性疾病与中毒#十四、中暑与热射病]]"
+  },
+  {
+   "id": "node_43_200b1",
+   "kind": "text",
+   "title": "热射病=核心体温＞40℃+意识障碍；1h 内降温至 ＜38.5℃",
+   "x": -480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_94340a",
+   "source": "node_2_91d63f",
+   "target": "node_3_3f07f8",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_6_a2c82",
+   "source": "node_2_91d63f",
+   "target": "node_5_983268",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_7_9e8fc9",
+   "source": "node_1_e3e9de",
+   "target": "node_2_91d63f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_a_a8499b",
+   "source": "node_8_14fcdd",
+   "target": "node_9_6b5252",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_b_956b8c",
+   "source": "node_1_e3e9de",
+   "target": "node_8_14fcdd",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_e_50fd9d",
+   "source": "node_c_90b2b6",
+   "target": "node_d_85d516",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_f_ef48e8",
+   "source": "node_1_e3e9de",
+   "target": "node_c_90b2b6",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_12_ab7329",
+   "source": "node_10_42c18a",
+   "target": "node_11_344a54",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_13_b75858",
+   "source": "node_1_e3e9de",
+   "target": "node_10_42c18a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_16_43ff50",
+   "source": "node_14_506e5a",
+   "target": "node_15_3d1a85",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_18_21813d",
+   "source": "node_14_506e5a",
+   "target": "node_17_655238",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_19_abf3e3",
+   "source": "node_1_e3e9de",
+   "target": "node_14_506e5a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1c_750cab",
+   "source": "node_1a_a53f8a",
+   "target": "node_1b_4ccc9b",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1d_50f0fd",
+   "source": "node_1_e3e9de",
+   "target": "node_1a_a53f8a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_20_ef8c48",
+   "source": "node_1e_edd425",
+   "target": "node_1f_c07a30",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_21_12922f",
+   "source": "node_1_e3e9de",
+   "target": "node_1e_edd425",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_24_9f044a",
+   "source": "node_22_2627f",
+   "target": "node_23_755233",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_25_ff9ab5",
+   "source": "node_1_e3e9de",
+   "target": "node_22_2627f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_28_19985f",
+   "source": "node_26_902059",
+   "target": "node_27_ff002d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2a_89a268",
+   "source": "node_26_902059",
+   "target": "node_29_12c136",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2b_369147",
+   "source": "node_1_e3e9de",
+   "target": "node_26_902059",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2e_21e8ac",
+   "source": "node_2c_8181a8",
+   "target": "node_2d_43e42c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2f_eeea16",
+   "source": "node_1_e3e9de",
+   "target": "node_2c_8181a8",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_32_119c4e",
+   "source": "node_30_5958a4",
+   "target": "node_31_e18050",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_33_e117da",
+   "source": "node_1_e3e9de",
+   "target": "node_30_5958a4",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_36_48f4ef",
+   "source": "node_34_3e896c",
+   "target": "node_35_5e9953",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_38_702cdd",
+   "source": "node_34_3e896c",
+   "target": "node_37_286218",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_39_d5704f",
+   "source": "node_1_e3e9de",
+   "target": "node_34_3e896c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3c_4d71c3",
+   "source": "node_3a_8b1055",
+   "target": "node_3b_b41b31",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3d_9c96e9",
+   "source": "node_1_e3e9de",
+   "target": "node_3a_8b1055",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_40_ce9e1a",
+   "source": "node_3e_fbddcf",
+   "target": "node_3f_fcbb4e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_41_a76afd",
+   "source": "node_1_e3e9de",
+   "target": "node_3e_fbddcf",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_44_aaf915",
+   "source": "node_42_8768a8",
+   "target": "node_43_200b1",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_45_d12dbc",
+   "source": "node_1_e3e9de",
+   "target": "node_42_8768a8",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

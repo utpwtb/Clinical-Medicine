@@ -1,0 +1,776 @@
+{
+ "version": 1,
+ "title": "01-生物化学-上 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_1bac5c",
+   "kind": "text",
+   "title": "生物化学·上（结构生化与物质代谢）",
+   "x": 0,
+   "y": 715.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_9424ae",
+   "kind": "notebook",
+   "title": "第一篇 生物大分子的结构与功能",
+   "x": 240,
+   "y": 0.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-生物化学-上#第一篇 生物大分子的结构与功能]]",
+    "path": "生物化学/01-生物化学-上.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-生物化学-上#第一篇 生物大分子的结构与功能]]"
+  },
+  {
+   "id": "node_3_692dc",
+   "kind": "text",
+   "title": "第一篇 生物大分子的结构与功能（详见笔记）",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_6_93676a",
+   "kind": "notebook",
+   "title": "第二章 核酸的结构与功能 ★★",
+   "x": 240,
+   "y": 220.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-生物化学-上#第二章 核酸的结构与功能 ★★]]",
+    "path": "生物化学/01-生物化学-上.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-生物化学-上#第二章 核酸的结构与功能 ★★]]"
+  },
+  {
+   "id": "node_7_ad66a1",
+   "kind": "text",
+   "title": "B-DNA 参数与 Chargaff 规律",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_9_f54ad0",
+   "kind": "text",
+   "title": "三种 RNA 对比（mRNA/tRNA/rRNA）",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_b_658b25",
+   "kind": "text",
+   "title": "Tm 与 G-C 含量、增色效应",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_e_32c5bd",
+   "kind": "notebook",
+   "title": "第二篇 物质代谢与调节 ★★★",
+   "x": 240,
+   "y": 440.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-生物化学-上#第二篇 物质代谢与调节 ★★★]]",
+    "path": "生物化学/01-生物化学-上.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-生物化学-上#第二篇 物质代谢与调节 ★★★]]"
+  },
+  {
+   "id": "node_f_137481",
+   "kind": "text",
+   "title": "第二篇 物质代谢与调节 ★★★（详见笔记）",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_12_d4a057",
+   "kind": "notebook",
+   "title": "第五章 糖代谢 ★★★",
+   "x": 240,
+   "y": 660.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-生物化学-上#第五章 糖代谢 ★★★]]",
+    "path": "生物化学/01-生物化学-上.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-生物化学-上#第五章 糖代谢 ★★★]]"
+  },
+  {
+   "id": "node_13_a092f5",
+   "kind": "text",
+   "title": "糖酵解与 TCA 的关键酶点名",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_15_1a1634",
+   "kind": "text",
+   "title": "1 葡萄糖 30/32 ATP（胞质 NADH 穿梭方式）",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_17_c5c14e",
+   "kind": "text",
+   "title": "肝糖原升血糖、肌糖原不能",
+   "x": 480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1a_af2b99",
+   "kind": "notebook",
+   "title": "第七章 氨基酸代谢 ★★",
+   "x": 240,
+   "y": 990.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-生物化学-上#第七章 氨基酸代谢 ★★]]",
+    "path": "生物化学/01-生物化学-上.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-生物化学-上#第七章 氨基酸代谢 ★★]]"
+  },
+  {
+   "id": "node_1b_99b493",
+   "kind": "text",
+   "title": "联合脱氨基；ALT/AST 组织定位",
+   "x": 480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1d_1efd76",
+   "kind": "text",
+   "title": "鸟氨酸循环：尿素 2 个 N 的来源",
+   "x": 480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1f_fbdd39",
+   "kind": "text",
+   "title": "一碳单位、SAM 与 PKU/白化病",
+   "x": 480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_22_a8381",
+   "kind": "notebook",
+   "title": "第九章 物质代谢的联系与调节 ★★",
+   "x": 240,
+   "y": 1320.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-生物化学-上#第九章 物质代谢的联系与调节 ★★]]",
+    "path": "生物化学/01-生物化学-上.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-生物化学-上#第九章 物质代谢的联系与调节 ★★]]"
+  },
+  {
+   "id": "node_23_58e258",
+   "kind": "text",
+   "title": "三大交汇点：乙酰 CoA 不能净生糖",
+   "x": 480,
+   "y": 1210,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_25_6daa2e",
+   "kind": "text",
+   "title": "胰岛素 vs 胰高血糖素（必背大表）",
+   "x": 480,
+   "y": 1320,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_27_5eddbb",
+   "kind": "text",
+   "title": "长期饥饿：脑用酮体、保蛋白、肾糖异生↑",
+   "x": 480,
+   "y": 1430,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2a_a5c565",
+   "kind": "notebook",
+   "title": "第一章 蛋白质的结构与功能 ★★",
+   "x": -240,
+   "y": 110.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-生物化学-上#第一章 蛋白质的结构与功能 ★★]]",
+    "path": "生物化学/01-生物化学-上.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-生物化学-上#第一章 蛋白质的结构与功能 ★★]]"
+  },
+  {
+   "id": "node_2b_575aed",
+   "kind": "text",
+   "title": "四级结构与维系键（必背大表）",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2d_d97dc9",
+   "kind": "text",
+   "title": "一级结构决定功能：镰变 Hb（Glu→Val）",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2f_d28447",
+   "kind": "text",
+   "title": "变性=空间结构破坏、一级结构不变",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_32_6efb63",
+   "kind": "notebook",
+   "title": "第三章 酶与维生素 ★★",
+   "x": -240,
+   "y": 440.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-生物化学-上#第三章 酶与维生素 ★★]]",
+    "path": "生物化学/01-生物化学-上.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-生物化学-上#第三章 酶与维生素 ★★]]"
+  },
+  {
+   "id": "node_33_f5f62c",
+   "kind": "text",
+   "title": "Km 三句话（半速浓度、亲和力反指标、特征性常数）",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_35_a2b5b4",
+   "kind": "text",
+   "title": "三类可逆抑制对比（必考大表）",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_37_d42629",
+   "kind": "text",
+   "title": "辅酶-维生素配对（必背大表）",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3a_272a6d",
+   "kind": "notebook",
+   "title": "第四章 生物氧化",
+   "x": -240,
+   "y": 715.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-生物化学-上#第四章 生物氧化]]",
+    "path": "生物化学/01-生物化学-上.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-生物化学-上#第四章 生物氧化]]"
+  },
+  {
+   "id": "node_3b_6f7c15",
+   "kind": "text",
+   "title": "两条呼吸链与 P/O（2.5 / 1.5）",
+   "x": -480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3d_bbda02",
+   "kind": "text",
+   "title": "抑制剂：DNP 解偶联、CN⁻/CO 抑制 Ⅳ",
+   "x": -480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_40_a68460",
+   "kind": "notebook",
+   "title": "第六章 脂质代谢 ★★★",
+   "x": -240,
+   "y": 990.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-生物化学-上#第六章 脂质代谢 ★★★]]",
+    "path": "生物化学/01-生物化学-上.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-生物化学-上#第六章 脂质代谢 ★★★]]"
+  },
+  {
+   "id": "node_41_45241e",
+   "kind": "text",
+   "title": "脂肪动员 HSL 与 β 氧化（软脂酸 106 ATP）",
+   "x": -480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_43_cee624",
+   "kind": "text",
+   "title": "酮体：肝内生成、肝外利用",
+   "x": -480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_45_89c5b3",
+   "kind": "text",
+   "title": "四种血浆脂蛋白（必考大表）",
+   "x": -480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_48_7701f7",
+   "kind": "notebook",
+   "title": "第八章 核苷酸代谢 ★",
+   "x": -240,
+   "y": 1265.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-生物化学-上#第八章 核苷酸代谢 ★]]",
+    "path": "生物化学/01-生物化学-上.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-生物化学-上#第八章 核苷酸代谢 ★]]"
+  },
+  {
+   "id": "node_49_6f81cf",
+   "kind": "text",
+   "title": "嘌呤 vs 嘧啶合成与分解对比",
+   "x": -480,
+   "y": 1210,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_4b_bb2488",
+   "kind": "text",
+   "title": "抗代谢物：6-MP、MTX、5-FU",
+   "x": -480,
+   "y": 1320,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_4e_52828d",
+   "kind": "notebook",
+   "title": "附：上册速记表（考前必背）",
+   "x": -240,
+   "y": 1430.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-生物化学-上#附：上册速记表（考前必背）]]",
+    "path": "生物化学/01-生物化学-上.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-生物化学-上#附：上册速记表（考前必背）]]"
+  },
+  {
+   "id": "node_4f_da09df",
+   "kind": "text",
+   "title": "附：上册速记表（考前必背）（详见笔记）",
+   "x": -480,
+   "y": 1430,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_edcb8c",
+   "source": "node_2_9424ae",
+   "target": "node_3_692dc",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_5_4fdc6e",
+   "source": "node_1_1bac5c",
+   "target": "node_2_9424ae",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_8_e87466",
+   "source": "node_6_93676a",
+   "target": "node_7_ad66a1",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_a_60141d",
+   "source": "node_6_93676a",
+   "target": "node_9_f54ad0",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_c_f10437",
+   "source": "node_6_93676a",
+   "target": "node_b_658b25",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_d_b70b34",
+   "source": "node_1_1bac5c",
+   "target": "node_6_93676a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_10_9793b9",
+   "source": "node_e_32c5bd",
+   "target": "node_f_137481",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_11_b0cc1b",
+   "source": "node_1_1bac5c",
+   "target": "node_e_32c5bd",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_14_3e2b60",
+   "source": "node_12_d4a057",
+   "target": "node_13_a092f5",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_16_b27b3d",
+   "source": "node_12_d4a057",
+   "target": "node_15_1a1634",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_18_4d3485",
+   "source": "node_12_d4a057",
+   "target": "node_17_c5c14e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_19_d9acd1",
+   "source": "node_1_1bac5c",
+   "target": "node_12_d4a057",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1c_ce3714",
+   "source": "node_1a_af2b99",
+   "target": "node_1b_99b493",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1e_cbd58b",
+   "source": "node_1a_af2b99",
+   "target": "node_1d_1efd76",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_20_90e0f4",
+   "source": "node_1a_af2b99",
+   "target": "node_1f_fbdd39",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_21_c85aca",
+   "source": "node_1_1bac5c",
+   "target": "node_1a_af2b99",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_24_8861fe",
+   "source": "node_22_a8381",
+   "target": "node_23_58e258",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_26_a95976",
+   "source": "node_22_a8381",
+   "target": "node_25_6daa2e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_28_11a726",
+   "source": "node_22_a8381",
+   "target": "node_27_5eddbb",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_29_8186a5",
+   "source": "node_1_1bac5c",
+   "target": "node_22_a8381",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2c_33d2b",
+   "source": "node_2a_a5c565",
+   "target": "node_2b_575aed",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2e_6b88f8",
+   "source": "node_2a_a5c565",
+   "target": "node_2d_d97dc9",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_30_7d7ddb",
+   "source": "node_2a_a5c565",
+   "target": "node_2f_d28447",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_31_1b0498",
+   "source": "node_1_1bac5c",
+   "target": "node_2a_a5c565",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_34_5cb85a",
+   "source": "node_32_6efb63",
+   "target": "node_33_f5f62c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_36_e43e42",
+   "source": "node_32_6efb63",
+   "target": "node_35_a2b5b4",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_38_75b17a",
+   "source": "node_32_6efb63",
+   "target": "node_37_d42629",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_39_b5122d",
+   "source": "node_1_1bac5c",
+   "target": "node_32_6efb63",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3c_2d174f",
+   "source": "node_3a_272a6d",
+   "target": "node_3b_6f7c15",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3e_859131",
+   "source": "node_3a_272a6d",
+   "target": "node_3d_bbda02",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3f_f72949",
+   "source": "node_1_1bac5c",
+   "target": "node_3a_272a6d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_42_9dac6e",
+   "source": "node_40_a68460",
+   "target": "node_41_45241e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_44_eb6c10",
+   "source": "node_40_a68460",
+   "target": "node_43_cee624",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_46_c64ee6",
+   "source": "node_40_a68460",
+   "target": "node_45_89c5b3",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_47_7bc67e",
+   "source": "node_1_1bac5c",
+   "target": "node_40_a68460",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4a_d36357",
+   "source": "node_48_7701f7",
+   "target": "node_49_6f81cf",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4c_97ac6a",
+   "source": "node_48_7701f7",
+   "target": "node_4b_bb2488",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4d_44b591",
+   "source": "node_1_1bac5c",
+   "target": "node_48_7701f7",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_50_3ed8c5",
+   "source": "node_4e_52828d",
+   "target": "node_4f_da09df",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_51_d4aac9",
+   "source": "node_1_1bac5c",
+   "target": "node_4e_52828d",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

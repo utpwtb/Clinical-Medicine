@@ -1,0 +1,869 @@
+{
+  "version": 1,
+  "title": "01-呼吸系统 Mindmap",
+  "layoutMode": "tree-mirror",
+  "viewport": {
+    "x": 400,
+    "y": 800,
+    "zoom": 1
+  },
+  "nodes": [
+    {
+      "id": "node_1_a3b179",
+      "kind": "text",
+      "title": "内科学·呼吸系统",
+      "x": 0,
+      "y": 0,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_2_1c8031",
+      "kind": "notebook",
+      "title": "一、慢性阻塞性肺疾病（COPD）",
+      "x": -232.71428571428572,
+      "y": -634.4,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[01-呼吸系统#一、慢性阻塞性肺疾病（COPD）]]",
+        "path": "内科学/01-呼吸系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[01-呼吸系统#一、慢性阻塞性肺疾病（COPD）]]"
+    },
+    {
+      "id": "node_3_6671a",
+      "kind": "text",
+      "title": "支扩后 FEV₁/FVC＜70%（持续不可逆）",
+      "x": -526.8571428571429,
+      "y": -690.5999999999999,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_5_466852",
+      "kind": "text",
+      "title": "LTOT 指征 + 每日吸氧 ＞15 h",
+      "x": -494.85714285714283,
+      "y": -578.1999999999999,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_8_23b8c1",
+      "kind": "notebook",
+      "title": "三、支气管扩张症",
+      "x": -232.71428571428572,
+      "y": -463.99999999999994,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[01-呼吸系统#三、支气管扩张症]]",
+        "path": "内科学/01-呼吸系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[01-呼吸系统#三、支气管扩张症]]"
+    },
+    {
+      "id": "node_9_bc8960",
+      "kind": "text",
+      "title": "HRCT 印戒征；干性支扩在上叶",
+      "x": -499.42857142857144,
+      "y": -463.99999999999994,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_c_bd9c66",
+      "kind": "notebook",
+      "title": "五、肺脓肿",
+      "x": -232.71428571428572,
+      "y": -347.99999999999994,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[01-呼吸系统#五、肺脓肿]]",
+        "path": "内科学/01-呼吸系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[01-呼吸系统#五、肺脓肿]]"
+    },
+    {
+      "id": "node_d_e465e1",
+      "kind": "text",
+      "title": "五、肺脓肿（详见笔记）",
+      "x": -467.42857142857144,
+      "y": -347.99999999999994,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_10_972a84",
+      "kind": "notebook",
+      "title": "七、原发性支气管肺癌",
+      "x": -232.71428571428572,
+      "y": -231.99999999999994,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[01-呼吸系统#七、原发性支气管肺癌]]",
+        "path": "内科学/01-呼吸系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[01-呼吸系统#七、原发性支气管肺癌]]"
+    },
+    {
+      "id": "node_11_6c0311",
+      "kind": "text",
+      "title": "四型组织学对比 + 副肿瘤综合征",
+      "x": -502.85714285714283,
+      "y": -231.99999999999994,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_14_17fc69",
+      "kind": "notebook",
+      "title": "九、肺动脉高压与慢性肺源性心脏病",
+      "x": -232.71428571428572,
+      "y": -115.99999999999994,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[01-呼吸系统#九、肺动脉高压与慢性肺源性心脏病]]",
+        "path": "内科学/01-呼吸系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[01-呼吸系统#九、肺动脉高压与慢性肺源性心脏病]]"
+    },
+    {
+      "id": "node_15_37f8a8",
+      "kind": "text",
+      "title": "肺心病“三慎”与肺性脑病",
+      "x": -478.8571428571429,
+      "y": -115.99999999999993,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_18_9a1de6",
+      "kind": "notebook",
+      "title": "十一、胸腔积液",
+      "x": -232.71428571428572,
+      "y": 5.684341886080802e-14,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[01-呼吸系统#十一、胸腔积液]]",
+        "path": "内科学/01-呼吸系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[01-呼吸系统#十一、胸腔积液]]"
+    },
+    {
+      "id": "node_19_6cb0f",
+      "kind": "text",
+      "title": "Light 标准；ADA vs CEA",
+      "x": -484.57142857142856,
+      "y": 5.684341886080802e-14,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_1c_b74d0f",
+      "kind": "notebook",
+      "title": "十三、急性呼吸窘迫综合征（ARDS）",
+      "x": -232.71428571428572,
+      "y": 116.00000000000006,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[01-呼吸系统#十三、急性呼吸窘迫综合征（ARDS）]]",
+        "path": "内科学/01-呼吸系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[01-呼吸系统#十三、急性呼吸窘迫综合征（ARDS）]]"
+    },
+    {
+      "id": "node_1d_a65ed3",
+      "kind": "text",
+      "title": "柏林定义；小潮气量 6 ml/kg",
+      "x": -490.2857142857143,
+      "y": 116.00000000000006,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_20_6b65a6",
+      "kind": "notebook",
+      "title": "十五、慢性支气管炎（要点段落）",
+      "x": -232.71428571428572,
+      "y": 232.00000000000006,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[01-呼吸系统#十五、慢性支气管炎（要点段落）]]",
+        "path": "内科学/01-呼吸系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[01-呼吸系统#十五、慢性支气管炎（要点段落）]]"
+    },
+    {
+      "id": "node_21_386ecb",
+      "kind": "text",
+      "title": "咳嗽咳痰每年 3 个月、连续 2 年",
+      "x": -500.5714285714286,
+      "y": 232.00000000000006,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_24_473781",
+      "kind": "notebook",
+      "title": "十七、咯血的病因鉴别（小结表）",
+      "x": -232.71428571428572,
+      "y": 348.00000000000006,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[01-呼吸系统#十七、咯血的病因鉴别（小结表）]]",
+        "path": "内科学/01-呼吸系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[01-呼吸系统#十七、咯血的病因鉴别（小结表）]]"
+    },
+    {
+      "id": "node_25_cf36d5",
+      "kind": "text",
+      "title": "十七、咯血的病因鉴别（小结表）（详见笔记）",
+      "x": -540.5714285714287,
+      "y": 348.00000000000006,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_28_c24133",
+      "kind": "notebook",
+      "title": "附：呼吸系统速记要点",
+      "x": -232.71428571428572,
+      "y": 464.00000000000006,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[01-呼吸系统#附：呼吸系统速记要点]]",
+        "path": "内科学/01-呼吸系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[01-呼吸系统#附：呼吸系统速记要点]]"
+    },
+    {
+      "id": "node_29_ce4a2b",
+      "kind": "text",
+      "title": "附：呼吸系统速记要点（详见笔记）",
+      "x": -507.42857142857144,
+      "y": 464.00000000000006,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_2c_6c3075",
+      "kind": "notebook",
+      "title": "二、支气管哮喘",
+      "x": -232.71428571428572,
+      "y": 634.4,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[01-呼吸系统#二、支气管哮喘]]",
+        "path": "内科学/01-呼吸系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[01-呼吸系统#二、支气管哮喘]]"
+    },
+    {
+      "id": "node_2d_571aa8",
+      "kind": "text",
+      "title": "可逆气流受限 + 气道高反应性",
+      "x": -494.85714285714283,
+      "y": 578.2,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_2f_27cd81",
+      "kind": "text",
+      "title": "舒张试验 ≥12% 且 ≥200 ml",
+      "x": -484.57142857142856,
+      "y": 690.6,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_32_c37459",
+      "kind": "notebook",
+      "title": "四、肺部感染性疾病（肺炎）",
+      "x": 232.71428571428572,
+      "y": -514.8000000000001,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[01-呼吸系统#四、肺部感染性疾病（肺炎）]]",
+        "path": "内科学/01-呼吸系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[01-呼吸系统#四、肺部感染性疾病（肺炎）]]"
+    },
+    {
+      "id": "node_33_562b0f",
+      "kind": "text",
+      "title": "各型肺炎鉴别大表（铁锈/胶冻/脓血痰）",
+      "x": 528,
+      "y": -571,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_35_17be31",
+      "kind": "text",
+      "title": "CAP 与 HAP 病原谱",
+      "x": 462.8571428571429,
+      "y": -458.6000000000001,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_38_5be612",
+      "kind": "notebook",
+      "title": "六、肺结核",
+      "x": 232.71428571428572,
+      "y": -290,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[01-呼吸系统#六、肺结核]]",
+        "path": "内科学/01-呼吸系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[01-呼吸系统#六、肺结核]]"
+    },
+    {
+      "id": "node_39_d8f564",
+      "kind": "text",
+      "title": "2HRZE/4HR 与药物副作用配对",
+      "x": 504,
+      "y": -346.2,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_3b_9a8dca",
+      "kind": "text",
+      "title": "咯血窒息抢救流程",
+      "x": 453.7142857142857,
+      "y": -233.8,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_3e_b1f91",
+      "kind": "notebook",
+      "title": "八、肺血栓栓塞症（PTE）",
+      "x": 232.71428571428572,
+      "y": -119.60000000000002,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[01-呼吸系统#八、肺血栓栓塞症（PTE）]]",
+        "path": "内科学/01-呼吸系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[01-呼吸系统#八、肺血栓栓塞症（PTE）]]"
+    },
+    {
+      "id": "node_3f_bacfb3",
+      "kind": "text",
+      "title": "D-二聚体排除、CTPA 确诊",
+      "x": 485.7142857142857,
+      "y": -119.60000000000001,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_42_1ff49b",
+      "kind": "notebook",
+      "title": "十、间质性肺疾病：特发性肺纤维化与结节病",
+      "x": 232.71428571428572,
+      "y": -3.6000000000000227,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[01-呼吸系统#十、间质性肺疾病：特发性肺纤维化与结节病]]",
+        "path": "内科学/01-呼吸系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[01-呼吸系统#十、间质性肺疾病：特发性肺纤维化与结节病]]"
+    },
+    {
+      "id": "node_43_f91e1d",
+      "kind": "text",
+      "title": "IPF 蜂窝肺；结节病非干酪肉芽肿",
+      "x": 509.7142857142857,
+      "y": -3.6000000000000227,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_46_142c3f",
+      "kind": "notebook",
+      "title": "十二、气胸",
+      "x": 232.71428571428572,
+      "y": 112.39999999999998,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[01-呼吸系统#十二、气胸]]",
+        "path": "内科学/01-呼吸系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[01-呼吸系统#十二、气胸]]"
+    },
+    {
+      "id": "node_47_8d5288",
+      "kind": "text",
+      "title": "张力性气胸立即第 2 肋间排气",
+      "x": 494.8571428571429,
+      "y": 112.39999999999998,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_4a_a0ee89",
+      "kind": "notebook",
+      "title": "十四、呼吸衰竭与氧疗",
+      "x": 232.71428571428572,
+      "y": 282.79999999999995,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[01-呼吸系统#十四、呼吸衰竭与氧疗]]",
+        "path": "内科学/01-呼吸系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[01-呼吸系统#十四、呼吸衰竭与氧疗]]"
+    },
+    {
+      "id": "node_4b_9e574f",
+      "kind": "text",
+      "title": "Ⅰ 型换气 / Ⅱ 型通气",
+      "x": 460.57142857142856,
+      "y": 226.59999999999994,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_4d_dc98d2",
+      "kind": "text",
+      "title": "COPD 低流量给氧双机制",
+      "x": 478.8571428571429,
+      "y": 338.99999999999994,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_50_3139d3",
+      "kind": "notebook",
+      "title": "十六、睡眠呼吸暂停低通气综合征（OSAHS，要点段落）",
+      "x": 232.71428571428572,
+      "y": 453.2,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[01-呼吸系统#十六、睡眠呼吸暂停低通气综合征（OSAHS，要点段落）]]",
+        "path": "内科学/01-呼吸系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[01-呼吸系统#十六、睡眠呼吸暂停低通气综合征（OSAHS，要点段落）]]"
+    },
+    {
+      "id": "node_51_b45ed1",
+      "kind": "text",
+      "title": "十六、睡眠呼吸暂停低通气综合征（OSAHS，要点段落）（详见笔记）",
+      "x": 621.7142857142858,
+      "y": 453.2,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_54_a9488d",
+      "kind": "notebook",
+      "title": "十八、肺功能检查判读要点",
+      "x": 232.71428571428572,
+      "y": 569.2,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[01-呼吸系统#十八、肺功能检查判读要点]]",
+        "path": "内科学/01-呼吸系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[01-呼吸系统#十八、肺功能检查判读要点]]"
+    },
+    {
+      "id": "node_55_3a578a",
+      "kind": "text",
+      "title": "阻塞性 vs 限制性通气障碍",
+      "x": 483.42857142857144,
+      "y": 569.2,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_4_bdd640",
+      "source": "node_2_1c8031",
+      "target": "node_3_6671a",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_6_3eb13b",
+      "source": "node_2_1c8031",
+      "target": "node_5_466852",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_7_392456",
+      "source": "node_1_a3b179",
+      "target": "node_2_1c8031",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_a_1a3d1f",
+      "source": "node_8_23b8c1",
+      "target": "node_9_bc8960",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_b_ad3c2d",
+      "source": "node_1_a3b179",
+      "target": "node_8_23b8c1",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_e_8b9d24",
+      "source": "node_c_bd9c66",
+      "target": "node_d_e465e1",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_f_16419f",
+      "source": "node_1_a3b179",
+      "target": "node_c_bd9c66",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_12_822e8",
+      "source": "node_10_972a84",
+      "target": "node_11_6c0311",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_13_7a0ca",
+      "source": "node_1_a3b179",
+      "target": "node_10_972a84",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_16_3b8faa",
+      "source": "node_14_17fc69",
+      "target": "node_15_37f8a8",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_17_815ef6",
+      "source": "node_1_a3b179",
+      "target": "node_14_17fc69",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_1a_8fadc1",
+      "source": "node_18_9a1de6",
+      "target": "node_19_6cb0f",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_1b_32e706",
+      "source": "node_1_a3b179",
+      "target": "node_18_9a1de6",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_1e_b38a08",
+      "source": "node_1c_b74d0f",
+      "target": "node_1d_a65ed3",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_1f_8b8148",
+      "source": "node_1_a3b179",
+      "target": "node_1c_b74d0f",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_22_72ff5d",
+      "source": "node_20_6b65a6",
+      "target": "node_21_386ecb",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_23_96da1d",
+      "source": "node_1_a3b179",
+      "target": "node_20_6b65a6",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_26_de8a77",
+      "source": "node_24_473781",
+      "target": "node_25_cf36d5",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_27_1a9e7",
+      "source": "node_1_a3b179",
+      "target": "node_24_473781",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_2a_28df6e",
+      "source": "node_28_c24133",
+      "target": "node_29_ce4a2b",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_2b_b2b943",
+      "source": "node_1_a3b179",
+      "target": "node_28_c24133",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_2e_472293",
+      "source": "node_2c_6c3075",
+      "target": "node_2d_571aa8",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_30_371ecd",
+      "source": "node_2c_6c3075",
+      "target": "node_2f_27cd81",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_31_f50bea",
+      "source": "node_1_a3b179",
+      "target": "node_2c_6c3075",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_34_1a2a73",
+      "source": "node_32_c37459",
+      "target": "node_33_562b0f",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_36_6142ea",
+      "source": "node_32_c37459",
+      "target": "node_35_17be31",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_37_18c267",
+      "source": "node_1_a3b179",
+      "target": "node_32_c37459",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_3a_580d7b",
+      "source": "node_38_5be612",
+      "target": "node_39_d8f564",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_3c_43b7a3",
+      "source": "node_38_5be612",
+      "target": "node_3b_9a8dca",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_3d_ce9ff5",
+      "source": "node_1_a3b179",
+      "target": "node_38_5be612",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_40_759cde",
+      "source": "node_3e_b1f91",
+      "target": "node_3f_bacfb3",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_41_89463e",
+      "source": "node_1_a3b179",
+      "target": "node_3e_b1f91",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_44_ec1b8c",
+      "source": "node_42_1ff49b",
+      "target": "node_43_f91e1d",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_45_60e7a1",
+      "source": "node_1_a3b179",
+      "target": "node_42_1ff49b",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_48_4b0dbb",
+      "source": "node_46_142c3f",
+      "target": "node_47_8d5288",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_49_d453dd",
+      "source": "node_1_a3b179",
+      "target": "node_46_142c3f",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_4c_e2acf7",
+      "source": "node_4a_a0ee89",
+      "target": "node_4b_9e574f",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_4e_5c941c",
+      "source": "node_4a_a0ee89",
+      "target": "node_4d_dc98d2",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_4f_93cd59",
+      "source": "node_1_a3b179",
+      "target": "node_4a_a0ee89",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_52_11ce5d",
+      "source": "node_50_3139d3",
+      "target": "node_51_b45ed1",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_53_bbb25",
+      "source": "node_1_a3b179",
+      "target": "node_50_3139d3",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_56_c5e7ce",
+      "source": "node_54_a9488d",
+      "target": "node_55_3a578a",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_57_4a1554",
+      "source": "node_1_a3b179",
+      "target": "node_54_a9488d",
+      "relation": "mindmap",
+      "type": "curve"
+    }
+  ]
+}

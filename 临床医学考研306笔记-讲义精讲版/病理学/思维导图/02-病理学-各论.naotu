@@ -1,0 +1,730 @@
+{
+ "version": 1,
+ "title": "02-病理学-各论 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_cae9b4",
+   "kind": "text",
+   "title": "病理学·各论",
+   "x": 0,
+   "y": 759.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_4ebfa5",
+   "kind": "notebook",
+   "title": "第六章 心血管系统疾病",
+   "x": 240,
+   "y": 110.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-病理学-各论#第六章 心血管系统疾病 ★★]]",
+    "path": "病理学/02-病理学-各论.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-病理学-各论#第六章 心血管系统疾病 ★★]]"
+  },
+  {
+   "id": "node_3_9854ce",
+   "kind": "text",
+   "title": "AS：脂纹最早；LDL↑最重要；左前降支区心梗最常见",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_5_d30169",
+   "kind": "text",
+   "title": "高血压：细动脉玻璃样变→原发性颗粒性固缩肾；豆纹动脉脑出血",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_7_ebd346",
+   "kind": "text",
+   "title": "风湿病 Aschoff 小体；瓣膜病三心型（梨形/球形/靴形）",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_a_1fd5a4",
+   "kind": "notebook",
+   "title": "第八章 消化系统疾病",
+   "x": 240,
+   "y": 495.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-病理学-各论#第八章 消化系统疾病 ★★]]",
+    "path": "病理学/02-病理学-各论.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-病理学-各论#第八章 消化系统疾病 ★★]]"
+  },
+  {
+   "id": "node_b_77fc97",
+   "kind": "text",
+   "title": "胃炎 A 型（胃体·恶性贫血）/B 型（胃窦·胃癌）；溃疡四层",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_d_4dd8eb",
+   "kind": "text",
+   "title": "肝炎坏死-分型配对：点状/碎片桥接/大块",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_f_670acc",
+   "kind": "text",
+   "title": "肝硬化：假小叶→门脉高压四大表现",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_11_45b1ed",
+   "kind": "text",
+   "title": "消化道癌：早期胃癌定义、Virchow/Krukenberg、AFP-肝癌",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_14_7e695d",
+   "kind": "notebook",
+   "title": "第十章 免疫性疾病",
+   "x": 240,
+   "y": 825.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-病理学-各论#第十章 免疫性疾病 ★]]",
+    "path": "病理学/02-病理学-各论.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-病理学-各论#第十章 免疫性疾病 ★]]"
+  },
+  {
+   "id": "node_15_7010f7",
+   "kind": "text",
+   "title": "SLE：抗 dsDNA/抗 Sm 特异；满堂亮+白金耳",
+   "x": 480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_17_9918ee",
+   "kind": "text",
+   "title": "RA 血管翳；AIDS：Kaposi 肉瘤、卡氏肺孢子菌肺炎",
+   "x": 480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1a_6e996e",
+   "kind": "notebook",
+   "title": "第十二章 生殖系统与乳腺疾病",
+   "x": 240,
+   "y": 1100.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-病理学-各论#第十二章 生殖系统与乳腺疾病 ★]]",
+    "path": "病理学/02-病理学-各论.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-病理学-各论#第十二章 生殖系统与乳腺疾病 ★]]"
+  },
+  {
+   "id": "node_1b_bc0a6a",
+   "kind": "text",
+   "title": "宫颈癌：HPV E6 灭活 p53、E7 灭活 Rb；CIN→浸润癌",
+   "x": 480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1d_9a8cfa",
+   "kind": "text",
+   "title": "绒癌：无绒毛、无间质血管、血道转移早、化疗敏感",
+   "x": 480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1f_69f14",
+   "kind": "text",
+   "title": "乳腺癌：腋窝淋巴道第一站；橘皮样外观；三阴性=化疗",
+   "x": 480,
+   "y": 1210,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_22_f63fce",
+   "kind": "notebook",
+   "title": "第十四章 神经系统疾病",
+   "x": 240,
+   "y": 1375.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-病理学-各论#第十四章 神经系统疾病 ★]]",
+    "path": "病理学/02-病理学-各论.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-病理学-各论#第十四章 神经系统疾病 ★]]"
+  },
+  {
+   "id": "node_23_ac9ed1",
+   "kind": "text",
+   "title": "乙脑（实质、筛网状软化灶）vs 流脑（蛛网膜下腔化脓）",
+   "x": 480,
+   "y": 1320,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_25_dc4ad5",
+   "kind": "text",
+   "title": "AD=老年斑+神经原纤维缠结；PD=Lewy 小体（黑质）",
+   "x": 480,
+   "y": 1430,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_28_f366ba",
+   "kind": "notebook",
+   "title": "第七章 呼吸系统疾病",
+   "x": -240,
+   "y": 110.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-病理学-各论#第七章 呼吸系统疾病 ★★]]",
+    "path": "病理学/02-病理学-各论.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-病理学-各论#第七章 呼吸系统疾病 ★★]]"
+  },
+  {
+   "id": "node_29_54f92",
+   "kind": "text",
+   "title": "COPD：α₁-AT 缺乏=全腺泡型；吸烟=腺泡中央型",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2b_c3c756",
+   "kind": "text",
+   "title": "肺炎四型对比：大叶/小叶/病毒性（包涵体）/支原体",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2d_d248a9",
+   "kind": "text",
+   "title": "矽肺早期在肺门淋巴结、并发肺结核；小细胞肺癌恶性最高；鼻咽癌 EBV、放疗敏感",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_30_a4c9f",
+   "kind": "notebook",
+   "title": "第九章 淋巴造血系统疾病",
+   "x": -240,
+   "y": 440.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-病理学-各论#第九章 淋巴造血系统疾病 ★]]",
+    "path": "病理学/02-病理学-各论.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-病理学-各论#第九章 淋巴造血系统疾病 ★]]"
+  },
+  {
+   "id": "node_31_c35b1c",
+   "kind": "text",
+   "title": "HL：R-S 细胞 CD15⁺/CD30⁺；连续性播散",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_33_2cd94c",
+   "kind": "text",
+   "title": "NHL：星空现象-Burkitt-t（8；14）；MALT-H. pylori",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_35_84dad0",
+   "kind": "text",
+   "title": "白血病：M3=t（15；17）-ATRA-DIC；CML=Ph 染色体 t（9；22）",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_38_ea83bf",
+   "kind": "notebook",
+   "title": "第十一章 泌尿系统疾病",
+   "x": -240,
+   "y": 770.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-病理学-各论#第十一章 泌尿系统疾病 ★★★]]",
+    "path": "病理学/02-病理学-各论.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-病理学-各论#第十一章 泌尿系统疾病 ★★★]]"
+  },
+  {
+   "id": "node_39_473544",
+   "kind": "text",
+   "title": "特征点名：大红肾/新月体/钉突/双轨征/系膜区 IgA",
+   "x": -480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3b_ff37d1",
+   "kind": "text",
+   "title": "儿童肾病=微小病变（足突融合）、成人肾病=膜性（钉突）",
+   "x": -480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3d_6f9628",
+   "kind": "text",
+   "title": "慢性肾盂肾炎（不对称）vs 慢性肾小球肾炎（颗粒固缩肾）；膀胱癌无痛性血尿",
+   "x": -480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_40_7de1bd",
+   "kind": "notebook",
+   "title": "第十三章 内分泌系统疾病",
+   "x": -240,
+   "y": 1045.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-病理学-各论#第十三章 内分泌系统疾病 ★]]",
+    "path": "病理学/02-病理学-各论.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-病理学-各论#第十三章 内分泌系统疾病 ★]]"
+  },
+  {
+   "id": "node_41_f81401",
+   "kind": "text",
+   "title": "甲状腺癌：乳头状最常见预后最好；髓样癌=降钙素+淀粉样间质",
+   "x": -480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_43_785299",
+   "kind": "text",
+   "title": "糖尿病：细动脉玻璃样变、K-W 结节、胰岛淀粉样变",
+   "x": -480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_46_5553b2",
+   "kind": "notebook",
+   "title": "第十五章 传染病与寄生虫病",
+   "x": -240,
+   "y": 1320.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-病理学-各论#第十五章 传染病与寄生虫病 ★★★]]",
+    "path": "病理学/02-病理学-各论.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-病理学-各论#第十五章 传染病与寄生虫病 ★★★]]"
+  },
+  {
+   "id": "node_47_5230df",
+   "kind": "text",
+   "title": "结核：原发综合征；继发=肺尖+支气管播散+内源性",
+   "x": -480,
+   "y": 1210,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_49_1ac70e",
+   "kind": "text",
+   "title": "**四大肠道溃疡**：平行（伤寒）/环形（结核）/地图样（菌痢）/烧瓶状（阿米巴）",
+   "x": -480,
+   "y": 1320,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_4b_292bd1",
+   "kind": "text",
+   "title": "梅毒树胶肿坏死不彻底；血吸虫干线型肝硬化（窦前性、巨脾）",
+   "x": -480,
+   "y": 1430,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_bfbbb1",
+   "source": "node_2_4ebfa5",
+   "target": "node_3_9854ce",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_6_91b78d",
+   "source": "node_2_4ebfa5",
+   "target": "node_5_d30169",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_8_49e262",
+   "source": "node_2_4ebfa5",
+   "target": "node_7_ebd346",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_9_706c5c",
+   "source": "node_1_cae9b4",
+   "target": "node_2_4ebfa5",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_c_b04d33",
+   "source": "node_a_1fd5a4",
+   "target": "node_b_77fc97",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_e_b321bf",
+   "source": "node_a_1fd5a4",
+   "target": "node_d_4dd8eb",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_10_f1533a",
+   "source": "node_a_1fd5a4",
+   "target": "node_f_670acc",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_12_801ef1",
+   "source": "node_a_1fd5a4",
+   "target": "node_11_45b1ed",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_13_8a3c3b",
+   "source": "node_1_cae9b4",
+   "target": "node_a_1fd5a4",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_16_1497d6",
+   "source": "node_14_7e695d",
+   "target": "node_15_7010f7",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_18_a3450",
+   "source": "node_14_7e695d",
+   "target": "node_17_9918ee",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_19_e3b137",
+   "source": "node_1_cae9b4",
+   "target": "node_14_7e695d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1c_5283aa",
+   "source": "node_1a_6e996e",
+   "target": "node_1b_bc0a6a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1e_40181c",
+   "source": "node_1a_6e996e",
+   "target": "node_1d_9a8cfa",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_20_176132",
+   "source": "node_1a_6e996e",
+   "target": "node_1f_69f14",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_21_3a9aca",
+   "source": "node_1_cae9b4",
+   "target": "node_1a_6e996e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_24_d60162",
+   "source": "node_22_f63fce",
+   "target": "node_23_ac9ed1",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_26_93403f",
+   "source": "node_22_f63fce",
+   "target": "node_25_dc4ad5",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_27_964db0",
+   "source": "node_1_cae9b4",
+   "target": "node_22_f63fce",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2a_ffe3fa",
+   "source": "node_28_f366ba",
+   "target": "node_29_54f92",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2c_ac1aa5",
+   "source": "node_28_f366ba",
+   "target": "node_2b_c3c756",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2e_44feac",
+   "source": "node_28_f366ba",
+   "target": "node_2d_d248a9",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2f_9384ec",
+   "source": "node_1_cae9b4",
+   "target": "node_28_f366ba",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_32_c19ad5",
+   "source": "node_30_a4c9f",
+   "target": "node_31_c35b1c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_34_7872bd",
+   "source": "node_30_a4c9f",
+   "target": "node_33_2cd94c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_36_a6c953",
+   "source": "node_30_a4c9f",
+   "target": "node_35_84dad0",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_37_7135f2",
+   "source": "node_1_cae9b4",
+   "target": "node_30_a4c9f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3a_2e7612",
+   "source": "node_38_ea83bf",
+   "target": "node_39_473544",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3c_95d829",
+   "source": "node_38_ea83bf",
+   "target": "node_3b_ff37d1",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3e_a28140",
+   "source": "node_38_ea83bf",
+   "target": "node_3d_6f9628",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3f_d0725b",
+   "source": "node_1_cae9b4",
+   "target": "node_38_ea83bf",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_42_175ba9",
+   "source": "node_40_7de1bd",
+   "target": "node_41_f81401",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_44_5913f9",
+   "source": "node_40_7de1bd",
+   "target": "node_43_785299",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_45_688980",
+   "source": "node_1_cae9b4",
+   "target": "node_40_7de1bd",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_48_ab8dde",
+   "source": "node_46_5553b2",
+   "target": "node_47_5230df",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4a_db9465",
+   "source": "node_46_5553b2",
+   "target": "node_49_1ac70e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4c_546e03",
+   "source": "node_46_5553b2",
+   "target": "node_4b_292bd1",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4d_696192",
+   "source": "node_1_cae9b4",
+   "target": "node_46_5553b2",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

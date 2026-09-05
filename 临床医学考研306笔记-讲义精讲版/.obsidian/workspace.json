@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "b5b48787ccee9b3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "be76f89006a92b68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acc3ac85b67e9cc9",
+            "type": "leaf",
+            "state": {
+              "type": "semantic-zoom-mindmap-view",
+              "state": {
+                "file": "内科学/思维导图/05-血液系统.naotu"
+              },
+              "icon": "lucide-file",
+              "title": "05-血液系统"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c69470ced894116f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aa6e9418340225b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "内科学/02-循环系统.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02-循环系统"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d05d3fd6f2cf11dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f805d19758ad06c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65c45d9e63fb0d55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ea3e7237f8d26db6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "bf70db06a29df6d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "48aa5ebe30cb7882",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f7cdbec8f79b609",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cc7fc660946646a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "病理学/01-病理学-总论.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "721032ab5f05d4bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "病理学/01-病理学-总论.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "51f8f0904b39886b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2c1637363cce56ff",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "42e16e21cd4d88f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "病理学/01-病理学-总论.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "simple-mind-map:新建思维导图": false,
+      "mindcanvas:创建语义缩放脑图": false
+    }
+  },
+  "active": "acc3ac85b67e9cc9",
+  "lastOpenFiles": [
+    "内科学/05-血液系统.md",
+    "内科学/思维导图/05-血液系统.naotu",
+    "内科学/思维导图/02-循环系统.naotu",
+    "内科学/02-循环系统.md",
+    "内科学/思维导图/01-呼吸系统.naotu",
+    "内科学/01-呼吸系统.md",
+    "生物化学/02-生物化学-下.md",
+    "_gen_naotu_all.py.tmp.31852.43f038585b32",
+    "诊断学/思维导图/04-心电图与器械检查.naotu",
+    "诊断学/思维导图/03-实验室检查.naotu",
+    "诊断学/思维导图/02-体格检查.naotu",
+    "诊断学/思维导图/01-症状学.naotu",
+    "诊断学/思维导图",
+    "病理学/思维导图/02-病理学-各论.naotu",
+    "生物化学/01-生物化学-上.md",
+    "生理学/02-生理学-下.md",
+    "生理学/01-生理学-上.md",
+    "生理学/90-生理学地图.md",
+    "_demo_backup_生理学01.md",
+    "医学人文/00-使用说明.md",
+    "病理学/02-病理学-各论.md",
+    "病理学/01-病理学-总论.md",
+    "README.md",
+    "_heading_inventory.md",
+    "_enhancement_spec.md",
+    "内科学/07-风湿性疾病与中毒.md",
+    "_crosslinks.md"
+  ]
+}

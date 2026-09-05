@@ -1,0 +1,651 @@
+{
+ "version": 1,
+ "title": "02-生物化学-下 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_ef4361",
+   "kind": "text",
+   "title": "生物化学·下（遗传信息的传递）",
+   "x": 0,
+   "y": 635.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_162f8a",
+   "kind": "notebook",
+   "title": "第三篇 遗传信息的传递 ★★★",
+   "x": 240,
+   "y": 0.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-生物化学-下#第三篇 遗传信息的传递 ★★★]]",
+    "path": "生物化学/02-生物化学-下.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-生物化学-下#第三篇 遗传信息的传递 ★★★]]"
+  },
+  {
+   "id": "node_3_4767d7",
+   "kind": "text",
+   "title": "第三篇 遗传信息的传递 ★★★（详见笔记）",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_6_3e6dd5",
+   "kind": "notebook",
+   "title": "第十一章 RNA 的生物合成（转录）★",
+   "x": 240,
+   "y": 220.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-生物化学-下#第十一章 RNA 的生物合成（转录）★]]",
+    "path": "生物化学/02-生物化学-下.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-生物化学-下#第十一章 RNA 的生物合成（转录）★]]"
+  },
+  {
+   "id": "node_7_c01f36",
+   "kind": "text",
+   "title": "不对称转录、不需引物",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_9_91e1aa",
+   "kind": "text",
+   "title": "原核 σ 因子；真核 pol Ⅰ/Ⅱ/Ⅲ 分工",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_b_ab0e66",
+   "kind": "text",
+   "title": "mRNA 加工：加帽、加尾、剪接",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_e_758e2",
+   "kind": "notebook",
+   "title": "第十三章 基因表达调控 ★",
+   "x": 240,
+   "y": 495.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-生物化学-下#第十三章 基因表达调控 ★]]",
+    "path": "生物化学/02-生物化学-下.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-生物化学-下#第十三章 基因表达调控 ★]]"
+  },
+  {
+   "id": "node_f_7e8ade",
+   "kind": "text",
+   "title": "乳糖操纵子：负调节+CAP 正调节",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_11_533420",
+   "kind": "text",
+   "title": "甲基化=沉默、乙酰化=活化",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_14_364d7c",
+   "kind": "notebook",
+   "title": "第十五章 基因诊断与基因治疗",
+   "x": 240,
+   "y": 660.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-生物化学-下#第十五章 基因诊断与基因治疗]]",
+    "path": "生物化学/02-生物化学-下.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-生物化学-下#第十五章 基因诊断与基因治疗]]"
+  },
+  {
+   "id": "node_15_5ad5cf",
+   "kind": "text",
+   "title": "PCR、分子杂交、基因芯片；基因增补最常用",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_18_572072",
+   "kind": "notebook",
+   "title": "第十七章 复制、转录、翻译三大过程总对比 ★★★",
+   "x": 240,
+   "y": 825.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-生物化学-下#第十七章 复制、转录、翻译三大过程总对比 ★★★]]",
+    "path": "生物化学/02-生物化学-下.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-生物化学-下#第十七章 复制、转录、翻译三大过程总对比 ★★★]]"
+  },
+  {
+   "id": "node_19_4797b2",
+   "kind": "text",
+   "title": "只有复制需引物、只有 DNA-pol 有校读",
+   "x": 480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1b_989d9d",
+   "kind": "text",
+   "title": "利福平打原核、α-鹅膏蕈碱打真核 pol Ⅱ",
+   "x": 480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1e_46b989",
+   "kind": "notebook",
+   "title": "附：下册速记表（考前必背）",
+   "x": 240,
+   "y": 990.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-生物化学-下#附：下册速记表（考前必背）]]",
+    "path": "生物化学/02-生物化学-下.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-生物化学-下#附：下册速记表（考前必背）]]"
+  },
+  {
+   "id": "node_1f_8e4852",
+   "kind": "text",
+   "title": "附：下册速记表（考前必背）（详见笔记）",
+   "x": 480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_22_f2b43a",
+   "kind": "notebook",
+   "title": "第十章 DNA 的生物合成（复制）",
+   "x": -240,
+   "y": 165.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-生物化学-下#第十章 DNA 的生物合成（复制）]]",
+    "path": "生物化学/02-生物化学-下.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-生物化学-下#第十章 DNA 的生物合成（复制）]]"
+  },
+  {
+   "id": "node_23_30e912",
+   "kind": "text",
+   "title": "三规律：半保留、双向、半不连续（冈崎片段）",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_25_3dc982",
+   "kind": "text",
+   "title": "原核 pol Ⅲ/pol Ⅰ；真核 δ/ε/α/γ",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_27_680bac",
+   "kind": "text",
+   "title": "端粒酶与逆转录（HIV）",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_29_8e2007",
+   "kind": "text",
+   "title": "损伤修复：紫外线→嘧啶二聚体；XP=NER 缺陷",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2c_b0cbc6",
+   "kind": "notebook",
+   "title": "第十二章 蛋白质的生物合成（翻译）★",
+   "x": -240,
+   "y": 550.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-生物化学-下#第十二章 蛋白质的生物合成（翻译）★]]",
+    "path": "生物化学/02-生物化学-下.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-生物化学-下#第十二章 蛋白质的生物合成（翻译）★]]"
+  },
+  {
+   "id": "node_2d_79e13c",
+   "kind": "text",
+   "title": "遗传密码五特点（简并性）",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2f_b63b4d",
+   "kind": "text",
+   "title": "延长三步“进成转”，耗 GTP",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_31_72bb91",
+   "kind": "text",
+   "title": "抗生素与毒素作用点（必背大表）",
+   "x": -480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_34_17d258",
+   "kind": "notebook",
+   "title": "第十四章 癌基因、抑癌基因与生长因子 ★★",
+   "x": -240,
+   "y": 825.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-生物化学-下#第十四章 癌基因、抑癌基因与生长因子 ★★]]",
+    "path": "生物化学/02-生物化学-下.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-生物化学-下#第十四章 癌基因、抑癌基因与生长因子 ★★]]"
+  },
+  {
+   "id": "node_35_4b5305",
+   "kind": "text",
+   "title": "癌基因显性激活 vs 抑癌隐性失活（两次打击）",
+   "x": -480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_37_6786d5",
+   "kind": "text",
+   "title": "配对：ras/HER2/myc/BCR-ABL/p53/Rb",
+   "x": -480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3a_4e6384",
+   "kind": "notebook",
+   "title": "第十六章 常用分子技术（306 高频小点）",
+   "x": -240,
+   "y": 1045.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-生物化学-下#第十六章 常用分子技术（306 高频小点）]]",
+    "path": "生物化学/02-生物化学-下.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-生物化学-下#第十六章 常用分子技术（306 高频小点）]]"
+  },
+  {
+   "id": "node_3b_a9f948",
+   "kind": "text",
+   "title": "Southern-DNA / Northern-RNA / Western-蛋白",
+   "x": -480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3d_5e781f",
+   "kind": "text",
+   "title": "PCR 三步循环、Taq 酶",
+   "x": -480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_40_87ea7f",
+   "kind": "notebook",
+   "title": "第十八章 易混概念辨析（考前清雷）",
+   "x": -240,
+   "y": 1210.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-生物化学-下#第十八章 易混概念辨析（考前清雷）]]",
+    "path": "生物化学/02-生物化学-下.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-生物化学-下#第十八章 易混概念辨析（考前清雷）]]"
+  },
+  {
+   "id": "node_41_58007c",
+   "kind": "text",
+   "title": "模板链 vs 编码链；增强子 vs 启动子",
+   "x": -480,
+   "y": 1210,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_e1b294",
+   "source": "node_2_162f8a",
+   "target": "node_3_4767d7",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_5_7367c2",
+   "source": "node_1_ef4361",
+   "target": "node_2_162f8a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_8_76f722",
+   "source": "node_6_3e6dd5",
+   "target": "node_7_c01f36",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_a_9c3eb2",
+   "source": "node_6_3e6dd5",
+   "target": "node_9_91e1aa",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_c_610571",
+   "source": "node_6_3e6dd5",
+   "target": "node_b_ab0e66",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_d_561e16",
+   "source": "node_1_ef4361",
+   "target": "node_6_3e6dd5",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_10_d9d80b",
+   "source": "node_e_758e2",
+   "target": "node_f_7e8ade",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_12_2e8d0e",
+   "source": "node_e_758e2",
+   "target": "node_11_533420",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_13_7cd012",
+   "source": "node_1_ef4361",
+   "target": "node_e_758e2",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_16_cc3ebd",
+   "source": "node_14_364d7c",
+   "target": "node_15_5ad5cf",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_17_422362",
+   "source": "node_1_ef4361",
+   "target": "node_14_364d7c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1a_e15ca6",
+   "source": "node_18_572072",
+   "target": "node_19_4797b2",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1c_b380c7",
+   "source": "node_18_572072",
+   "target": "node_1b_989d9d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1d_e14eb7",
+   "source": "node_1_ef4361",
+   "target": "node_18_572072",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_20_29943",
+   "source": "node_1e_46b989",
+   "target": "node_1f_8e4852",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_21_8441ae",
+   "source": "node_1_ef4361",
+   "target": "node_1e_46b989",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_24_15eabb",
+   "source": "node_22_f2b43a",
+   "target": "node_23_30e912",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_26_b856d0",
+   "source": "node_22_f2b43a",
+   "target": "node_25_3dc982",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_28_7d1370",
+   "source": "node_22_f2b43a",
+   "target": "node_27_680bac",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2a_c21714",
+   "source": "node_22_f2b43a",
+   "target": "node_29_8e2007",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2b_3d85de",
+   "source": "node_1_ef4361",
+   "target": "node_22_f2b43a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2e_a559e4",
+   "source": "node_2c_b0cbc6",
+   "target": "node_2d_79e13c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_30_7da677",
+   "source": "node_2c_b0cbc6",
+   "target": "node_2f_b63b4d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_32_cafda6",
+   "source": "node_2c_b0cbc6",
+   "target": "node_31_72bb91",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_33_46a0d",
+   "source": "node_1_ef4361",
+   "target": "node_2c_b0cbc6",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_36_38ba8a",
+   "source": "node_34_17d258",
+   "target": "node_35_4b5305",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_38_b118f6",
+   "source": "node_34_17d258",
+   "target": "node_37_6786d5",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_39_3e493f",
+   "source": "node_1_ef4361",
+   "target": "node_34_17d258",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3c_94e0d3",
+   "source": "node_3a_4e6384",
+   "target": "node_3b_a9f948",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3e_792799",
+   "source": "node_3a_4e6384",
+   "target": "node_3d_5e781f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3f_8db067",
+   "source": "node_1_ef4361",
+   "target": "node_3a_4e6384",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_42_6cedd1",
+   "source": "node_40_87ea7f",
+   "target": "node_41_58007c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_43_ff233d",
+   "source": "node_1_ef4361",
+   "target": "node_40_87ea7f",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

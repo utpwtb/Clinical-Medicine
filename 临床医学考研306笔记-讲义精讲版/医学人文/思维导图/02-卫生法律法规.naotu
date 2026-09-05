@@ -1,0 +1,538 @@
+{
+ "version": 1,
+ "title": "02-卫生法律法规 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_c56811",
+   "kind": "text",
+   "title": "医学人文·卫生法律法规",
+   "x": 0,
+   "y": 348.3333333333333,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_217d65",
+   "kind": "notebook",
+   "title": "一、复习地图与学习方法",
+   "x": 240,
+   "y": 0.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-卫生法律法规#一、复习地图与学习方法]]",
+    "path": "医学人文/02-卫生法律法规.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-卫生法律法规#一、复习地图与学习方法]]"
+  },
+  {
+   "id": "node_3_a319dc",
+   "kind": "text",
+   "title": "数字型＋程序型；优先级排序",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_6_295d6f",
+   "kind": "notebook",
+   "title": "三、《医疗机构管理条例》",
+   "x": 240,
+   "y": 110.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-卫生法律法规#三、《医疗机构管理条例》]]",
+    "path": "医学人文/02-卫生法律法规.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-卫生法律法规#三、《医疗机构管理条例》]]"
+  },
+  {
+   "id": "node_7_bdc14f",
+   "kind": "text",
+   "title": "两凭执业；签字三顺位",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_a_b4a69f",
+   "kind": "notebook",
+   "title": "五、《传染病防治法》",
+   "x": 240,
+   "y": 275.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-卫生法律法规#五、《传染病防治法》（★★★最高频）]]",
+    "path": "医学人文/02-卫生法律法规.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-卫生法律法规#五、《传染病防治法》（★★★最高频）]]"
+  },
+  {
+   "id": "node_b_6d7ce3",
+   "kind": "text",
+   "title": "甲 2 乙 27 丙 11；乙类甲管",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_d_279b6",
+   "kind": "text",
+   "title": "报告时限 2h/24h；强制隔离",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_10_f1eedb",
+   "kind": "notebook",
+   "title": "七、《母婴保健法》",
+   "x": 240,
+   "y": 440.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-卫生法律法规#七、《母婴保健法》]]",
+    "path": "医学人文/02-卫生法律法规.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-卫生法律法规#七、《母婴保健法》]]"
+  },
+  {
+   "id": "node_11_e21342",
+   "kind": "text",
+   "title": "产前诊断指征（≥35 岁）",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_14_26286b",
+   "kind": "notebook",
+   "title": "九、《献血法》",
+   "x": 240,
+   "y": 550.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-卫生法律法规#九、《献血法》]]",
+    "path": "医学人文/02-卫生法律法规.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-卫生法律法规#九、《献血法》]]"
+  },
+  {
+   "id": "node_15_8babce",
+   "kind": "text",
+   "title": "18~55 岁；200~400ml；间隔≥6 月",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_18_5e84f0",
+   "kind": "notebook",
+   "title": "十一、《人体器官捐献和移植条例》",
+   "x": 240,
+   "y": 660.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-卫生法律法规#十一、《人体器官捐献和移植条例》（2024年5月1日起施行）]]",
+    "path": "医学人文/02-卫生法律法规.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-卫生法律法规#十一、《人体器官捐献和移植条例》（2024年5月1日起施行）]]"
+  },
+  {
+   "id": "node_19_951f58",
+   "kind": "text",
+   "title": "禁止买卖；活体≥18 岁限定关系",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1c_6e0680",
+   "kind": "notebook",
+   "title": "二、《医师法》",
+   "x": -240,
+   "y": 0.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-卫生法律法规#二、《医师法》（现行有效，2022年3月1日起施行）]]",
+    "path": "医学人文/02-卫生法律法规.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-卫生法律法规#二、《医师法》（现行有效，2022年3月1日起施行）]]"
+  },
+  {
+   "id": "node_1d_20a045",
+   "kind": "text",
+   "title": "考试 2 级 4 类；处罚阶梯：警告→暂停→吊销",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_20_5d59cd",
+   "kind": "notebook",
+   "title": "四、医疗纠纷与医疗损害",
+   "x": -240,
+   "y": 165.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-卫生法律法规#四、医疗纠纷预防处理、医疗事故分级与《民法典》医疗损害责任]]",
+    "path": "医学人文/02-卫生法律法规.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-卫生法律法规#四、医疗纠纷预防处理、医疗事故分级与《民法典》医疗损害责任]]"
+  },
+  {
+   "id": "node_21_e623a6",
+   "kind": "text",
+   "title": "事故四级；推定过错三情形",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_23_cbceab",
+   "kind": "text",
+   "title": "尸检 48h/冻存 7 日；纠纷四途径",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_26_a368c",
+   "kind": "notebook",
+   "title": "六、《疫苗管理法》",
+   "x": -240,
+   "y": 330.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-卫生法律法规#六、《疫苗管理法》]]",
+    "path": "医学人文/02-卫生法律法规.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-卫生法律法规#六、《疫苗管理法》]]"
+  },
+  {
+   "id": "node_27_e61fec",
+   "kind": "text",
+   "title": "免疫规划 vs 非免疫规划；三查七对一验证",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2a_ae9bec",
+   "kind": "notebook",
+   "title": "八、《精神卫生法》",
+   "x": -240,
+   "y": 440.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-卫生法律法规#八、《精神卫生法》]]",
+    "path": "医学人文/02-卫生法律法规.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-卫生法律法规#八、《精神卫生法》]]"
+  },
+  {
+   "id": "node_2b_3fe12e",
+   "kind": "text",
+   "title": "自愿住院原则；非自愿双条件",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2e_5a8aae",
+   "kind": "notebook",
+   "title": "十、《药品管理法》与处方管理",
+   "x": -240,
+   "y": 550.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-卫生法律法规#十、《药品管理法》与处方管理]]",
+    "path": "医学人文/02-卫生法律法规.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-卫生法律法规#十、《药品管理法》与处方管理]]"
+  },
+  {
+   "id": "node_2f_c7b5b2",
+   "kind": "text",
+   "title": "处方五色；限量三档；保存 1/2/3 年",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_32_dfed2c",
+   "kind": "notebook",
+   "title": "十二、综合情境演练表",
+   "x": -240,
+   "y": 660.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[02-卫生法律法规#十二、综合情境演练表（情境均为自编示例）]]",
+    "path": "医学人文/02-卫生法律法规.md",
+    "targetType": "heading"
+   },
+   "link": "[[02-卫生法律法规#十二、综合情境演练表（情境均为自编示例）]]"
+  },
+  {
+   "id": "node_33_680859",
+   "kind": "text",
+   "title": "15 个高频情境",
+   "x": -480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_fad409",
+   "source": "node_2_217d65",
+   "target": "node_3_a319dc",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_5_430f80",
+   "source": "node_1_c56811",
+   "target": "node_2_217d65",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_8_711c21",
+   "source": "node_6_295d6f",
+   "target": "node_7_bdc14f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_9_8d3aed",
+   "source": "node_1_c56811",
+   "target": "node_6_295d6f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_c_8f9797",
+   "source": "node_a_b4a69f",
+   "target": "node_b_6d7ce3",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_e_1ca3c4",
+   "source": "node_a_b4a69f",
+   "target": "node_d_279b6",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_f_13432e",
+   "source": "node_1_c56811",
+   "target": "node_a_b4a69f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_12_b0e6a9",
+   "source": "node_10_f1eedb",
+   "target": "node_11_e21342",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_13_e767dc",
+   "source": "node_1_c56811",
+   "target": "node_10_f1eedb",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_16_93923",
+   "source": "node_14_26286b",
+   "target": "node_15_8babce",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_17_d5a804",
+   "source": "node_1_c56811",
+   "target": "node_14_26286b",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1a_8d7248",
+   "source": "node_18_5e84f0",
+   "target": "node_19_951f58",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1b_25e979",
+   "source": "node_1_c56811",
+   "target": "node_18_5e84f0",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1e_ab54b",
+   "source": "node_1c_6e0680",
+   "target": "node_1d_20a045",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1f_4eea04",
+   "source": "node_1_c56811",
+   "target": "node_1c_6e0680",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_22_eededb",
+   "source": "node_20_5d59cd",
+   "target": "node_21_e623a6",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_24_f8e1da",
+   "source": "node_20_5d59cd",
+   "target": "node_23_cbceab",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_25_dc5701",
+   "source": "node_1_c56811",
+   "target": "node_20_5d59cd",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_28_5b9962",
+   "source": "node_26_a368c",
+   "target": "node_27_e61fec",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_29_35c793",
+   "source": "node_1_c56811",
+   "target": "node_26_a368c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2c_aabc25",
+   "source": "node_2a_ae9bec",
+   "target": "node_2b_3fe12e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2d_1a50ae",
+   "source": "node_1_c56811",
+   "target": "node_2a_ae9bec",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_30_8f5486",
+   "source": "node_2e_5a8aae",
+   "target": "node_2f_c7b5b2",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_31_e256a6",
+   "source": "node_1_c56811",
+   "target": "node_2e_5a8aae",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_34_f94d62",
+   "source": "node_32_dfed2c",
+   "target": "node_33_680859",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_35_9ee3ac",
+   "source": "node_1_c56811",
+   "target": "node_32_dfed2c",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

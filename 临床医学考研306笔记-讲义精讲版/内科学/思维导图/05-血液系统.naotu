@@ -1,0 +1,789 @@
+{
+  "version": 1,
+  "title": "05-血液系统 Mindmap",
+  "layoutMode": "tree-mirror",
+  "viewport": {
+    "x": 400,
+    "y": 300,
+    "zoom": 1
+  },
+  "nodes": [
+    {
+      "id": "node_1_969b66",
+      "kind": "text",
+      "title": "内科学·血液系统",
+      "x": 0,
+      "y": 0,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_2_8dcdcd",
+      "kind": "notebook",
+      "title": "一、贫血总论",
+      "x": -232.71428571428572,
+      "y": -533.2,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[05-血液系统#一、贫血总论]]",
+        "path": "内科学/05-血液系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[05-血液系统#一、贫血总论]]"
+    },
+    {
+      "id": "node_3_3ae8cc",
+      "kind": "text",
+      "title": "诊断标准：男＜120 / 女＜110 / 孕＜100 g/L",
+      "x": -540.5714285714287,
+      "y": -589.4,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_5_38602a",
+      "kind": "text",
+      "title": "MCV/MCHC 形态学分类是一切贫血分析的第一步",
+      "x": -564.5714285714287,
+      "y": -477.00000000000006,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_8_b53510",
+      "kind": "notebook",
+      "title": "三、巨幼细胞贫血",
+      "x": -232.71428571428572,
+      "y": -362.8,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[05-血液系统#三、巨幼细胞贫血]]",
+        "path": "内科学/05-血液系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[05-血液系统#三、巨幼细胞贫血]]"
+    },
+    {
+      "id": "node_9_a18ff6",
+      "kind": "text",
+      "title": "叶酸/B12 缺乏→DNA 合成障碍（核幼浆老）；先补 B12 再补叶酸",
+      "x": -612.5714285714287,
+      "y": -362.8,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_c_114125",
+      "kind": "notebook",
+      "title": "五、溶血性贫血",
+      "x": -232.71428571428572,
+      "y": -192.4,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[05-血液系统#五、溶血性贫血]]",
+        "path": "内科学/05-血液系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[05-血液系统#五、溶血性贫血]]"
+    },
+    {
+      "id": "node_d_e7c99b",
+      "kind": "text",
+      "title": "证据四联：Ret↑+间接胆红素↑+LDH↑+结合珠蛋白↓",
+      "x": -570.2857142857142,
+      "y": -248.60000000000002,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_f_dc1110",
+      "kind": "text",
+      "title": "Coombs+=AIHA；CD55/CD59↓=PNH；Hb 电泳=海洋性贫血",
+      "x": -604.5714285714287,
+      "y": -136.20000000000002,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_12_839fbc",
+      "kind": "notebook",
+      "title": "七、急性白血病",
+      "x": -232.71428571428572,
+      "y": 32.400000000000006,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[05-血液系统#七、急性白血病]]",
+        "path": "内科学/05-血液系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[05-血液系统#七、急性白血病]]"
+    },
+    {
+      "id": "node_13_3ceddf",
+      "kind": "text",
+      "title": "四大表现：贫血、出血（M3/DIC 最重）、感染、浸润（胸骨压痛）",
+      "x": -604.5714285714287,
+      "y": -23.8,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_15_ab4220",
+      "kind": "text",
+      "title": "M3：t（15；17）→ATRA+砷剂，治愈率高；CNSL——鞘内 MTX",
+      "x": -597.7142857142858,
+      "y": 88.60000000000001,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_18_8a0b3c",
+      "kind": "notebook",
+      "title": "九、淋巴瘤",
+      "x": -232.71428571428572,
+      "y": 221.20000000000002,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[05-血液系统#九、淋巴瘤]]",
+        "path": "内科学/05-血液系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[05-血液系统#九、淋巴瘤]]"
+    },
+    {
+      "id": "node_19_21df30",
+      "kind": "text",
+      "title": "HL=R-S 细胞+连续播散+ABVD；NHL=跳跃播散，DLBCL 用 R-CHOP",
+      "x": -624,
+      "y": 221.20000000000002,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_1c_e1e3db",
+      "kind": "notebook",
+      "title": "十一、骨髓增生异常综合征（MDS）",
+      "x": -232.71428571428572,
+      "y": 355.6,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[05-血液系统#十一、骨髓增生异常综合征（MDS）]]",
+        "path": "内科学/05-血液系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[05-血液系统#十一、骨髓增生异常综合征（MDS）]]"
+    },
+    {
+      "id": "node_1d_922fe1",
+      "kind": "text",
+      "title": "病态造血+原始细胞增多；5q-→来那度胺；高危阿扎胞苷/移植",
+      "x": -602.2857142857142,
+      "y": 355.6,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_20_3e3511",
+      "kind": "notebook",
+      "title": "十三、DIC",
+      "x": -232.71428571428572,
+      "y": 471.6,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[05-血液系统#十三、DIC（弥散性血管内凝血）]]",
+        "path": "内科学/05-血液系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[05-血液系统#十三、DIC（弥散性血管内凝血）]]"
+    },
+    {
+      "id": "node_21_c8dcd1",
+      "kind": "text",
+      "title": "PLT↓+FIB↓+PT/APTT↑+D-二聚体↑；治本→替代→抗凝→抗纤溶",
+      "x": -619.4285714285716,
+      "y": 471.6,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_24_683514",
+      "kind": "notebook",
+      "title": "十五、输血与输血反应",
+      "x": -232.71428571428572,
+      "y": 587.6,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[05-血液系统#十五、输血与输血反应]]",
+        "path": "内科学/05-血液系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[05-血液系统#十五、输血与输血反应]]"
+    },
+    {
+      "id": "node_25_30beb4",
+      "kind": "text",
+      "title": "溶血性反应最严重（立即停输）；发热反应最常见",
+      "x": -555.4285714285714,
+      "y": 587.6,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_28_a8b317",
+      "kind": "notebook",
+      "title": "附：血液系统速记要点",
+      "x": 232.71428571428572,
+      "y": -591.2,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[05-血液系统#附：血液系统速记要点]]",
+        "path": "内科学/05-血液系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[05-血液系统#附：血液系统速记要点]]"
+    },
+    {
+      "id": "node_29_6e595e",
+      "kind": "text",
+      "title": "高频数值与“指标—疾病”配对汇总",
+      "x": 507.42857142857144,
+      "y": -591.2,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_2c_693dff",
+      "kind": "notebook",
+      "title": "二、缺铁性贫血（IDA）",
+      "x": 232.71428571428572,
+      "y": -456.80000000000007,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[05-血液系统#二、缺铁性贫血（IDA）]]",
+        "path": "内科学/05-血液系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[05-血液系统#二、缺铁性贫血（IDA）]]"
+    },
+    {
+      "id": "node_2d_778eed",
+      "kind": "text",
+      "title": "铁蛋白↓最早最敏感、TIBC↑；网织红 5–10 天达高峰、Hb 正常后继补 3–6 月",
+      "x": 622.8571428571429,
+      "y": -456.80000000000007,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_30_dde29",
+      "kind": "notebook",
+      "title": "四、再生障碍性贫血（AA）",
+      "x": 232.71428571428572,
+      "y": -268,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[05-血液系统#四、再生障碍性贫血（AA）]]",
+        "path": "内科学/05-血液系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[05-血液系统#四、再生障碍性贫血（AA）]]"
+    },
+    {
+      "id": "node_31_ac619e",
+      "kind": "text",
+      "title": "全血细胞减少+Ret 绝对值↓+骨髓增生低下、巨核缺如",
+      "x": 577.1428571428571,
+      "y": -324.2,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_33_fbf240",
+      "kind": "text",
+      "title": "SAA：年轻有供者→allo-HSCT；否则 ATG+环孢素",
+      "x": 570.2857142857142,
+      "y": -211.79999999999998,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_36_f844f",
+      "kind": "notebook",
+      "title": "六、白细胞减少与粒细胞缺乏症",
+      "x": 232.71428571428572,
+      "y": -97.60000000000002,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[05-血液系统#六、白细胞减少与粒细胞缺乏症]]",
+        "path": "内科学/05-血液系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[05-血液系统#六、白细胞减少与粒细胞缺乏症]]"
+    },
+    {
+      "id": "node_37_671230",
+      "kind": "text",
+      "title": "粒缺：中性粒＜0.5×10⁹/L——保护性隔离+G-CSF+经验性抗感染",
+      "x": 614.8571428571429,
+      "y": -97.60000000000002,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_3a_ccf3a1",
+      "kind": "notebook",
+      "title": "八、慢性髓系白血病（CML）",
+      "x": 232.71428571428572,
+      "y": 18.399999999999977,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[05-血液系统#八、慢性髓系白血病（CML）]]",
+        "path": "内科学/05-血液系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[05-血液系统#八、慢性髓系白血病（CML）]]"
+    },
+    {
+      "id": "node_3b_dc9692",
+      "kind": "text",
+      "title": "Ph t（9；22） BCR-ABL+NAP↓+嗜碱↑+巨脾；伊马替尼首选",
+      "x": 600,
+      "y": 18.399999999999977,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_3e_310c0c",
+      "kind": "notebook",
+      "title": "十、多发性骨髓瘤（MM）",
+      "x": 232.71428571428572,
+      "y": 134.39999999999998,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[05-血液系统#十、多发性骨髓瘤（MM）]]",
+        "path": "内科学/05-血液系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[05-血液系统#十、多发性骨髓瘤（MM）]]"
+    },
+    {
+      "id": "node_3f_30b187",
+      "kind": "text",
+      "title": "CRAB+穿凿样骨破坏+本周蛋白（M 蛋白）",
+      "x": 534.8571428571429,
+      "y": 134.39999999999998,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_42_23e2fc",
+      "kind": "notebook",
+      "title": "十二、出血性疾病总论",
+      "x": 232.71428571428572,
+      "y": 304.79999999999995,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[05-血液系统#十二、出血性疾病总论]]",
+        "path": "内科学/05-血液系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[05-血液系统#十二、出血性疾病总论]]"
+    },
+    {
+      "id": "node_43_6c006f",
+      "kind": "text",
+      "title": "血管/血小板异常=浅表即时出血 vs 凝血异常=深部迟发出血",
+      "x": 601.1428571428571,
+      "y": 248.59999999999994,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_45_474ebc",
+      "kind": "text",
+      "title": "ITP 激素一线；TTP 五联征、血浆置换救命、禁输血小板",
+      "x": 586.2857142857142,
+      "y": 360.99999999999994,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_48_dfde4f",
+      "kind": "notebook",
+      "title": "十四、抗凝与抗血小板药物概览",
+      "x": 232.71428571428572,
+      "y": 475.2,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[05-血液系统#十四、抗凝与抗血小板药物概览]]",
+        "path": "内科学/05-血液系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[05-血液系统#十四、抗凝与抗血小板药物概览]]"
+    },
+    {
+      "id": "node_49_ec5b22",
+      "kind": "text",
+      "title": "华法林 INR 2–3 拮抗 VitK₁；肝素 APTT 拮抗鱼精蛋白",
+      "x": 590.8571428571429,
+      "y": 475.2,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_4c_ceda8b",
+      "kind": "notebook",
+      "title": "十六、造血干细胞移植概要",
+      "x": 232.71428571428572,
+      "y": 591.2,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[05-血液系统#十六、造血干细胞移植概要（补充）]]",
+        "path": "内科学/05-血液系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[05-血液系统#十六、造血干细胞移植概要（补充）]]"
+    },
+    {
+      "id": "node_4d_dc815f",
+      "kind": "text",
+      "title": "异基因可能根治（GVL）但 GVHD；自体无 GVHD",
+      "x": 558.8571428571429,
+      "y": 591.2,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_4_96a402",
+      "source": "node_2_8dcdcd",
+      "target": "node_3_3ae8cc",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_6_1d742",
+      "source": "node_2_8dcdcd",
+      "target": "node_5_38602a",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_7_122c9a",
+      "source": "node_1_969b66",
+      "target": "node_2_8dcdcd",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_a_f1259",
+      "source": "node_8_b53510",
+      "target": "node_9_a18ff6",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_b_3a9bed",
+      "source": "node_1_969b66",
+      "target": "node_8_b53510",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_e_80aad",
+      "source": "node_c_114125",
+      "target": "node_d_e7c99b",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_10_5496f6",
+      "source": "node_c_114125",
+      "target": "node_f_dc1110",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_11_1223b5",
+      "source": "node_1_969b66",
+      "target": "node_c_114125",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_14_474a49",
+      "source": "node_12_839fbc",
+      "target": "node_13_3ceddf",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_16_7c441f",
+      "source": "node_12_839fbc",
+      "target": "node_15_ab4220",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_17_36d839",
+      "source": "node_1_969b66",
+      "target": "node_12_839fbc",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_1a_b92da2",
+      "source": "node_18_8a0b3c",
+      "target": "node_19_21df30",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_1b_ef7ddc",
+      "source": "node_1_969b66",
+      "target": "node_18_8a0b3c",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_1e_93829b",
+      "source": "node_1c_e1e3db",
+      "target": "node_1d_922fe1",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_1f_7900f7",
+      "source": "node_1_969b66",
+      "target": "node_1c_e1e3db",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_22_7914c1",
+      "source": "node_20_3e3511",
+      "target": "node_21_c8dcd1",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_23_ceb81f",
+      "source": "node_1_969b66",
+      "target": "node_20_3e3511",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_26_1825bc",
+      "source": "node_24_683514",
+      "target": "node_25_30beb4",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_27_18d075",
+      "source": "node_1_969b66",
+      "target": "node_24_683514",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_2a_5ab33e",
+      "source": "node_28_a8b317",
+      "target": "node_29_6e595e",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_2b_6c6fa6",
+      "source": "node_1_969b66",
+      "target": "node_28_a8b317",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_2e_dd2467",
+      "source": "node_2c_693dff",
+      "target": "node_2d_778eed",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_2f_baa4b7",
+      "source": "node_1_969b66",
+      "target": "node_2c_693dff",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_32_a748db",
+      "source": "node_30_dde29",
+      "target": "node_31_ac619e",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_34_a56c09",
+      "source": "node_30_dde29",
+      "target": "node_33_fbf240",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_35_1931e9",
+      "source": "node_1_969b66",
+      "target": "node_30_dde29",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_38_ba6c34",
+      "source": "node_36_f844f",
+      "target": "node_37_671230",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_39_56dc89",
+      "source": "node_1_969b66",
+      "target": "node_36_f844f",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_3c_1bf90e",
+      "source": "node_3a_ccf3a1",
+      "target": "node_3b_dc9692",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_3d_3fa7f1",
+      "source": "node_1_969b66",
+      "target": "node_3a_ccf3a1",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_40_894a05",
+      "source": "node_3e_310c0c",
+      "target": "node_3f_30b187",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_41_72d856",
+      "source": "node_1_969b66",
+      "target": "node_3e_310c0c",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_44_2ef912",
+      "source": "node_42_23e2fc",
+      "target": "node_43_6c006f",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_46_766ecb",
+      "source": "node_42_23e2fc",
+      "target": "node_45_474ebc",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_47_3ff350",
+      "source": "node_1_969b66",
+      "target": "node_42_23e2fc",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_4a_134c6c",
+      "source": "node_48_dfde4f",
+      "target": "node_49_ec5b22",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_4b_717104",
+      "source": "node_1_969b66",
+      "target": "node_48_dfde4f",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_4e_db20a5",
+      "source": "node_4c_ceda8b",
+      "target": "node_4d_dc815f",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_4f_8ce21e",
+      "source": "node_1_969b66",
+      "target": "node_4c_ceda8b",
+      "relation": "mindmap",
+      "type": "curve"
+    }
+  ]
+}

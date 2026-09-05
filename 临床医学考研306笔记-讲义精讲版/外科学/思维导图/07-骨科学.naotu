@@ -1,0 +1,703 @@
+{
+ "version": 1,
+ "title": "07-骨科学 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_dde9f8",
+   "kind": "text",
+   "title": "外科学·骨科学",
+   "x": 0,
+   "y": 577.5,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_7631de",
+   "kind": "notebook",
+   "title": "一、骨折总论",
+   "x": 240,
+   "y": 55.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-骨科学#一、骨折总论]]",
+    "path": "外科学/07-骨科学.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-骨科学#一、骨折总论]]"
+  },
+  {
+   "id": "node_3_2e85cb",
+   "kind": "text",
+   "title": "三大专有体征；骨筋膜室综合征 5P 时序",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_5_42999a",
+   "kind": "text",
+   "title": "血供差三部位；功能复位数字",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_8_362f5e",
+   "kind": "notebook",
+   "title": "三、下肢骨折",
+   "x": 240,
+   "y": 275.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-骨科学#三、下肢骨折]]",
+    "path": "外科学/07-骨科学.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-骨科学#三、下肢骨折]]"
+  },
+  {
+   "id": "node_9_74672c",
+   "kind": "text",
+   "title": "股骨颈头下型→缺血坏死；外旋 45°–60°",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_b_56666f",
+   "kind": "text",
+   "title": "转子间外旋 90°；胫腓骨骨筋膜室高发",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_e_610e6a",
+   "kind": "notebook",
+   "title": "五、骨盆骨折",
+   "x": 240,
+   "y": 440.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-骨科学#五、骨盆骨折]]",
+    "path": "外科学/07-骨科学.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-骨科学#五、骨盆骨折]]"
+  },
+  {
+   "id": "node_f_473bd3",
+   "kind": "text",
+   "title": "腹膜后大出血→失血性休克",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_12_d4f8fd",
+   "kind": "notebook",
+   "title": "七、周围神经损伤",
+   "x": 240,
+   "y": 550.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-骨科学#七、周围神经损伤]]",
+    "path": "外科学/07-骨科学.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-骨科学#七、周围神经损伤]]"
+  },
+  {
+   "id": "node_13_6bebac",
+   "kind": "text",
+   "title": "五大神经“损伤点—畸形—感觉区”",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_16_14f7ce",
+   "kind": "notebook",
+   "title": "九、腰腿痛",
+   "x": 240,
+   "y": 715.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-骨科学#九、腰腿痛：腰椎间盘突出症与腰椎管狭窄]]",
+    "path": "外科学/07-骨科学.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-骨科学#九、腰腿痛：腰椎间盘突出症与腰椎管狭窄]]"
+  },
+  {
+   "id": "node_17_786607",
+   "kind": "text",
+   "title": "L4–5/L5–S1 神经根定位表",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_19_bfc00d",
+   "kind": "text",
+   "title": "马尾综合征＝急诊手术指征",
+   "x": 480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1c_fff9f5",
+   "kind": "notebook",
+   "title": "十一、骨与关节化脓性感染",
+   "x": 240,
+   "y": 880.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-骨科学#十一、骨与关节化脓性感染]]",
+    "path": "外科学/07-骨科学.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-骨科学#十一、骨与关节化脓性感染]]"
+  },
+  {
+   "id": "node_1d_f3b102",
+   "kind": "text",
+   "title": "干骺端机制；X 线 14 天不显影",
+   "x": 480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_20_a66fd7",
+   "kind": "notebook",
+   "title": "十三、非化脓性关节炎",
+   "x": 240,
+   "y": 990.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-骨科学#十三、非化脓性关节炎（重点 OA，配鉴别表）]]",
+    "path": "外科学/07-骨科学.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-骨科学#十三、非化脓性关节炎（重点 OA，配鉴别表）]]"
+  },
+  {
+   "id": "node_21_1190f9",
+   "kind": "text",
+   "title": "OA 晨僵＜30min；四大关节炎鉴别表",
+   "x": 480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_24_a6d964",
+   "kind": "notebook",
+   "title": "二、上肢骨折",
+   "x": -240,
+   "y": 55.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-骨科学#二、上肢骨折]]",
+    "path": "外科学/07-骨科学.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-骨科学#二、上肢骨折]]"
+  },
+  {
+   "id": "node_25_a4e5b",
+   "kind": "text",
+   "title": "髁上伸直型：肱动脉伤＋肘内翻",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_27_7f194",
+   "kind": "text",
+   "title": "Colles 银叉＋枪刺；肘后三角",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2a_33094d",
+   "kind": "notebook",
+   "title": "四、脊柱与脊髓损伤",
+   "x": -240,
+   "y": 275.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-骨科学#四、脊柱与脊髓损伤]]",
+    "path": "外科学/07-骨科学.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-骨科学#四、脊柱与脊髓损伤]]"
+  },
+  {
+   "id": "node_2b_d6d7b3",
+   "kind": "text",
+   "title": "Denis 三柱：中柱破坏=不稳定",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2d_9f0fda",
+   "kind": "text",
+   "title": "脊髓半切：同侧运动深感觉＋对侧痛温",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_30_205004",
+   "kind": "notebook",
+   "title": "六、关节脱位",
+   "x": -240,
+   "y": 495.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-骨科学#六、关节脱位]]",
+    "path": "外科学/07-骨科学.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-骨科学#六、关节脱位]]"
+  },
+  {
+   "id": "node_31_793b4c",
+   "kind": "text",
+   "title": "方肩＋Dugas；肘后三角破坏",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_33_1d48a0",
+   "kind": "text",
+   "title": "髋后脱位屈内收内旋短缩",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_36_37cc86",
+   "kind": "notebook",
+   "title": "八、运动系统慢性损伤",
+   "x": -240,
+   "y": 660.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-骨科学#八、运动系统慢性损伤]]",
+    "path": "外科学/07-骨科学.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-骨科学#八、运动系统慢性损伤]]"
+  },
+  {
+   "id": "node_37_770c77",
+   "kind": "text",
+   "title": "冻结肩主动＋被动受限；股骨头坏死 MRI 最早",
+   "x": -480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3a_c4536f",
+   "kind": "notebook",
+   "title": "十、颈椎病",
+   "x": -240,
+   "y": 770.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-骨科学#十、颈椎病（四型对比，必背大表）]]",
+    "path": "外科学/07-骨科学.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-骨科学#十、颈椎病（四型对比，必背大表）]]"
+  },
+  {
+   "id": "node_3b_5e6fea",
+   "kind": "text",
+   "title": "四型对比；脊髓型禁推拿、应手术",
+   "x": -480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3e_9b7492",
+   "kind": "notebook",
+   "title": "十二、骨与关节结核",
+   "x": -240,
+   "y": 880.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-骨科学#十二、骨与关节结核]]",
+    "path": "外科学/07-骨科学.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-骨科学#十二、骨与关节结核]]"
+  },
+  {
+   "id": "node_3f_f6b751",
+   "kind": "text",
+   "title": "椎间隙变窄 vs 肿瘤间隙正常",
+   "x": -480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_42_1d5206",
+   "kind": "notebook",
+   "title": "十四、骨肿瘤",
+   "x": -240,
+   "y": 1045.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[07-骨科学#十四、骨肿瘤]]",
+    "path": "外科学/07-骨科学.md",
+    "targetType": "heading"
+   },
+   "link": "[[07-骨科学#十四、骨肿瘤]]"
+  },
+  {
+   "id": "node_43_c71d5e",
+   "kind": "text",
+   "title": "部位＋年龄＋X 线征三角配对",
+   "x": -480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_45_29ec8e",
+   "kind": "text",
+   "title": "骨肉瘤新辅助化疗→保肢",
+   "x": -480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_cdf74",
+   "source": "node_2_7631de",
+   "target": "node_3_2e85cb",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_6_610cf3",
+   "source": "node_2_7631de",
+   "target": "node_5_42999a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_7_53cd62",
+   "source": "node_1_dde9f8",
+   "target": "node_2_7631de",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_a_53ac2a",
+   "source": "node_8_362f5e",
+   "target": "node_9_74672c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_c_c2dff3",
+   "source": "node_8_362f5e",
+   "target": "node_b_56666f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_d_e13016",
+   "source": "node_1_dde9f8",
+   "target": "node_8_362f5e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_10_c083b7",
+   "source": "node_e_610e6a",
+   "target": "node_f_473bd3",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_11_f3821c",
+   "source": "node_1_dde9f8",
+   "target": "node_e_610e6a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_14_4094dd",
+   "source": "node_12_d4f8fd",
+   "target": "node_13_6bebac",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_15_d5bcb8",
+   "source": "node_1_dde9f8",
+   "target": "node_12_d4f8fd",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_18_4f64d",
+   "source": "node_16_14f7ce",
+   "target": "node_17_786607",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1a_8a175d",
+   "source": "node_16_14f7ce",
+   "target": "node_19_bfc00d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1b_d557b",
+   "source": "node_1_dde9f8",
+   "target": "node_16_14f7ce",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1e_599700",
+   "source": "node_1c_fff9f5",
+   "target": "node_1d_f3b102",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1f_39669f",
+   "source": "node_1_dde9f8",
+   "target": "node_1c_fff9f5",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_22_c7fee3",
+   "source": "node_20_a66fd7",
+   "target": "node_21_1190f9",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_23_f510ab",
+   "source": "node_1_dde9f8",
+   "target": "node_20_a66fd7",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_26_c1156d",
+   "source": "node_24_a6d964",
+   "target": "node_25_a4e5b",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_28_f319c1",
+   "source": "node_24_a6d964",
+   "target": "node_27_7f194",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_29_3f4df5",
+   "source": "node_1_dde9f8",
+   "target": "node_24_a6d964",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2c_5379f",
+   "source": "node_2a_33094d",
+   "target": "node_2b_d6d7b3",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2e_270287",
+   "source": "node_2a_33094d",
+   "target": "node_2d_9f0fda",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2f_3d1148",
+   "source": "node_1_dde9f8",
+   "target": "node_2a_33094d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_32_ab61a7",
+   "source": "node_30_205004",
+   "target": "node_31_793b4c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_34_90604f",
+   "source": "node_30_205004",
+   "target": "node_33_1d48a0",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_35_f2a034",
+   "source": "node_1_dde9f8",
+   "target": "node_30_205004",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_38_b31022",
+   "source": "node_36_37cc86",
+   "target": "node_37_770c77",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_39_41992f",
+   "source": "node_1_dde9f8",
+   "target": "node_36_37cc86",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3c_2af43a",
+   "source": "node_3a_c4536f",
+   "target": "node_3b_5e6fea",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3d_9b1bc8",
+   "source": "node_1_dde9f8",
+   "target": "node_3a_c4536f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_40_bf780e",
+   "source": "node_3e_9b7492",
+   "target": "node_3f_f6b751",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_41_b7e642",
+   "source": "node_1_dde9f8",
+   "target": "node_3e_9b7492",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_44_d1bdb8",
+   "source": "node_42_1d5206",
+   "target": "node_43_c71d5e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_46_f6f7f0",
+   "source": "node_42_1d5206",
+   "target": "node_45_29ec8e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_47_4fa03f",
+   "source": "node_1_dde9f8",
+   "target": "node_42_1d5206",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

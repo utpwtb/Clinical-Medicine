@@ -1,0 +1,424 @@
+{
+ "version": 1,
+ "title": "01-职业素养与医学伦理 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_8dfa6a",
+   "kind": "text",
+   "title": "医学人文·职业素养与医学伦理",
+   "x": 0,
+   "y": 220.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_4ca415",
+   "kind": "notebook",
+   "title": "第一章 医学职业精神",
+   "x": 240,
+   "y": 0.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-职业素养与医学伦理#第一章 医学职业精神]]",
+    "path": "医学人文/01-职业素养与医学伦理.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-职业素养与医学伦理#第一章 医学职业精神]]"
+  },
+  {
+   "id": "node_3_ee8790",
+   "kind": "text",
+   "title": "三支柱：专业/人文/社会",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_6_f05db7",
+   "kind": "notebook",
+   "title": "第三章 医患关系",
+   "x": 240,
+   "y": 110.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-职业素养与医学伦理#第三章 医患关系]]",
+    "path": "医学人文/01-职业素养与医学伦理.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-职业素养与医学伦理#第三章 医患关系]]"
+  },
+  {
+   "id": "node_7_e0cced",
+   "kind": "text",
+   "title": "信托关系；萨斯-荷伦德三模式",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_a_1d8cbb",
+   "kind": "notebook",
+   "title": "第五章 医学伦理基本原则",
+   "x": 240,
+   "y": 220.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-职业素养与医学伦理#第五章 医学伦理基本原则（四原则大表）]]",
+    "path": "医学人文/01-职业素养与医学伦理.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-职业素养与医学伦理#第五章 医学伦理基本原则（四原则大表）]]"
+  },
+  {
+   "id": "node_b_e3c436",
+   "kind": "text",
+   "title": "四原则；两害相权；允许原则",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_e_8da010",
+   "kind": "notebook",
+   "title": "第七章 临终关怀、安乐死与脑死亡",
+   "x": 240,
+   "y": 330.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-职业素养与医学伦理#第七章 临终关怀、安乐死与脑死亡]]",
+    "path": "医学人文/01-职业素养与医学伦理.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-职业素养与医学伦理#第七章 临终关怀、安乐死与脑死亡]]"
+  },
+  {
+   "id": "node_f_27cb6f",
+   "kind": "text",
+   "title": "安乐死未合法化；脑死亡≠植物状态",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_12_9ad620",
+   "kind": "notebook",
+   "title": "第九章 临床研究伦理",
+   "x": 240,
+   "y": 440.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-职业素养与医学伦理#第九章 临床研究（人体试验）伦理]]",
+    "path": "医学人文/01-职业素养与医学伦理.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-职业素养与医学伦理#第九章 临床研究（人体试验）伦理]]"
+  },
+  {
+   "id": "node_13_35ebd3",
+   "kind": "text",
+   "title": "赫尔辛基宣言；随时退出权",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_16_341ef4",
+   "kind": "notebook",
+   "title": "第二章 医师基本职业素质",
+   "x": -240,
+   "y": 0.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-职业素养与医学伦理#第二章 医师基本职业素质]]",
+    "path": "医学人文/01-职业素养与医学伦理.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-职业素养与医学伦理#第二章 医师基本职业素质]]"
+  },
+  {
+   "id": "node_17_afffcf",
+   "kind": "text",
+   "title": "七项素质；“先抢救后结算”",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1a_439472",
+   "kind": "notebook",
+   "title": "第四章 医患沟通",
+   "x": -240,
+   "y": 110.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-职业素养与医学伦理#第四章 医患沟通]]",
+    "path": "医学人文/01-职业素养与医学伦理.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-职业素养与医学伦理#第四章 医患沟通]]"
+  },
+  {
+   "id": "node_1b_81627c",
+   "kind": "text",
+   "title": "SPIKES 六步；家属要求隐瞒病情",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1e_e7c421",
+   "kind": "notebook",
+   "title": "第六章 知情同意",
+   "x": -240,
+   "y": 220.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-职业素养与医学伦理#第六章 知情同意（306最高频考点）]]",
+    "path": "医学人文/01-职业素养与医学伦理.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-职业素养与医学伦理#第六章 知情同意（306最高频考点）]]"
+  },
+  {
+   "id": "node_1f_e87d1c",
+   "kind": "text",
+   "title": "患者本人第一；四要素；紧急救治程序",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_22_17a0df",
+   "kind": "notebook",
+   "title": "第八章 器官捐献与移植伦理",
+   "x": -240,
+   "y": 330.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-职业素养与医学伦理#第八章 器官捐献与移植伦理]]",
+    "path": "医学人文/01-职业素养与医学伦理.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-职业素养与医学伦理#第八章 器官捐献与移植伦理]]"
+  },
+  {
+   "id": "node_23_a26077",
+   "kind": "text",
+   "title": "禁止买卖；活体捐献严格限制",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_26_46d483",
+   "kind": "notebook",
+   "title": "第十章 情境题解题方法",
+   "x": -240,
+   "y": 440.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[01-职业素养与医学伦理#第十章 情境题解题方法与高频情境速查]]",
+    "path": "医学人文/01-职业素养与医学伦理.md",
+    "targetType": "heading"
+   },
+   "link": "[[01-职业素养与医学伦理#第十章 情境题解题方法与高频情境速查]]"
+  },
+  {
+   "id": "node_27_b4945",
+   "kind": "text",
+   "title": "定性→找依据→选最佳",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_a9d3d7",
+   "source": "node_2_4ca415",
+   "target": "node_3_ee8790",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_5_1a84a5",
+   "source": "node_1_8dfa6a",
+   "target": "node_2_4ca415",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_8_2260e7",
+   "source": "node_6_f05db7",
+   "target": "node_7_e0cced",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_9_43b409",
+   "source": "node_1_8dfa6a",
+   "target": "node_6_f05db7",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_c_1b66b5",
+   "source": "node_a_1d8cbb",
+   "target": "node_b_e3c436",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_d_be0f05",
+   "source": "node_1_8dfa6a",
+   "target": "node_a_1d8cbb",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_10_45b89c",
+   "source": "node_e_8da010",
+   "target": "node_f_27cb6f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_11_48212d",
+   "source": "node_1_8dfa6a",
+   "target": "node_e_8da010",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_14_b7b56e",
+   "source": "node_12_9ad620",
+   "target": "node_13_35ebd3",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_15_57c700",
+   "source": "node_1_8dfa6a",
+   "target": "node_12_9ad620",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_18_a25d6b",
+   "source": "node_16_341ef4",
+   "target": "node_17_afffcf",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_19_da587e",
+   "source": "node_1_8dfa6a",
+   "target": "node_16_341ef4",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1c_7d106c",
+   "source": "node_1a_439472",
+   "target": "node_1b_81627c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1d_40497b",
+   "source": "node_1_8dfa6a",
+   "target": "node_1a_439472",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_20_d89a40",
+   "source": "node_1e_e7c421",
+   "target": "node_1f_e87d1c",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_21_d0128",
+   "source": "node_1_8dfa6a",
+   "target": "node_1e_e7c421",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_24_6c6f76",
+   "source": "node_22_17a0df",
+   "target": "node_23_a26077",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_25_d45028",
+   "source": "node_1_8dfa6a",
+   "target": "node_22_17a0df",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_28_e85e",
+   "source": "node_26_46d483",
+   "target": "node_27_b4945",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_29_5563f6",
+   "source": "node_1_8dfa6a",
+   "target": "node_26_46d483",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}

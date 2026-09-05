@@ -1,0 +1,852 @@
+{
+  "version": 1,
+  "title": "02-循环系统 Mindmap",
+  "layoutMode": "tree-mirror",
+  "viewport": {
+    "x": 530.1666666666666,
+    "y": 394.14388020833326,
+    "zoom": 0.6944444444444445
+  },
+  "nodes": [
+    {
+      "id": "node_1_fc377a",
+      "kind": "text",
+      "title": "内科学·循环系统",
+      "x": 0,
+      "y": 0,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_2_146d3f",
+      "kind": "notebook",
+      "title": "一、心力衰竭",
+      "x": -232.71428571428572,
+      "y": -518.4,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-collapsed",
+      "notebook": {
+        "link": "[[02-循环系统#一、心力衰竭]]",
+        "path": "内科学/02-循环系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[02-循环系统#一、心力衰竭]]"
+    },
+    {
+      "id": "node_3_daf61a",
+      "kind": "text",
+      "title": "新四联（ARNI/ACEI + β 阻滞剂 + MRA + SGLT2i）",
+      "x": -580.5714285714287,
+      "y": -574.5999999999999,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_5_ddd1df",
+      "kind": "text",
+      "title": "洋地黄：快房颤最佳；中毒=室早二联律",
+      "x": -523.4285714285714,
+      "y": -462.2,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_8_472947",
+      "kind": "notebook",
+      "title": "三、高血压",
+      "x": -232.71428571428572,
+      "y": -293.5999999999999,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-collapsed",
+      "notebook": {
+        "link": "[[02-循环系统#三、高血压]]",
+        "path": "内科学/02-循环系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[02-循环系统#三、高血压]]"
+    },
+    {
+      "id": "node_9_7412b2",
+      "kind": "text",
+      "title": "五大类降压药适应证/禁忌证大表",
+      "x": -506.2857142857143,
+      "y": -349.7999999999999,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_b_d58842",
+      "kind": "text",
+      "title": "继发性高血压鉴别（原醛、嗜铬、肾血管）",
+      "x": -528,
+      "y": -237.39999999999992,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_e_5ec42e",
+      "kind": "notebook",
+      "title": "五、心脏瓣膜病（四病对比表，必背）",
+      "x": -232.71428571428572,
+      "y": -123.19999999999993,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-collapsed",
+      "notebook": {
+        "link": "[[02-循环系统#五、心脏瓣膜病（四病对比表，必背）]]",
+        "path": "内科学/02-循环系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[02-循环系统#五、心脏瓣膜病（四病对比表，必背）]]"
+    },
+    {
+      "id": "node_f_5af305",
+      "kind": "text",
+      "title": "梨形/球形/靴形心与特征性杂音",
+      "x": -502.85714285714283,
+      "y": -123.19999999999992,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_12_4458a8",
+      "kind": "notebook",
+      "title": "七、感染性心内膜炎（IE）",
+      "x": -232.71428571428572,
+      "y": -7.199999999999932,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-collapsed",
+      "notebook": {
+        "link": "[[02-循环系统#七、感染性心内膜炎（IE）]]",
+        "path": "内科学/02-循环系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[02-循环系统#七、感染性心内膜炎（IE）]]"
+    },
+    {
+      "id": "node_13_b3aa7e",
+      "kind": "text",
+      "title": "Duke 标准；血培养先于抗生素",
+      "x": -496,
+      "y": -7.199999999999935,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_16_a5e5a5",
+      "kind": "notebook",
+      "title": "九、病毒性心肌炎",
+      "x": -232.71428571428572,
+      "y": 108.80000000000007,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-collapsed",
+      "notebook": {
+        "link": "[[02-循环系统#九、病毒性心肌炎]]",
+        "path": "内科学/02-循环系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[02-循环系统#九、病毒性心肌炎]]"
+    },
+    {
+      "id": "node_17_12476f",
+      "kind": "text",
+      "title": "九、病毒性心肌炎（详见笔记）",
+      "x": -491.42857142857144,
+      "y": 108.80000000000007,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_1a_2bcfbe",
+      "kind": "notebook",
+      "title": "十一、心肌梗死心电图分期演变与冠心病二级预防（补充）",
+      "x": -232.71428571428572,
+      "y": 224.80000000000007,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-collapsed",
+      "notebook": {
+        "link": "[[02-循环系统#十一、心肌梗死心电图分期演变与冠心病二级预防（补充）]]",
+        "path": "内科学/02-循环系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[02-循环系统#十一、心肌梗死心电图分期演变与冠心病二级预防（补充）]]"
+    },
+    {
+      "id": "node_1b_88bd64",
+      "kind": "text",
+      "title": "十一、心肌梗死心电图分期演变与冠心病二级预防（补充）（详见笔记）",
+      "x": -628.5714285714287,
+      "y": 224.80000000000007,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_1e_29d4be",
+      "kind": "notebook",
+      "title": "十三、心源性休克（要点段落）",
+      "x": -232.71428571428572,
+      "y": 340.80000000000007,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-collapsed",
+      "notebook": {
+        "link": "[[02-循环系统#十三、心源性休克（要点段落）]]",
+        "path": "内科学/02-循环系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[02-循环系统#十三、心源性休克（要点段落）]]"
+    },
+    {
+      "id": "node_1f_7656af",
+      "kind": "text",
+      "title": "十三、心源性休克（要点段落）（详见笔记）",
+      "x": -532.5714285714287,
+      "y": 340.80000000000007,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_22_fd5166",
+      "kind": "notebook",
+      "title": "十五、心肺复苏补充与心脏性猝死",
+      "x": -232.71428571428572,
+      "y": 456.80000000000007,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-collapsed",
+      "notebook": {
+        "link": "[[02-循环系统#十五、心肺复苏补充与心脏性猝死]]",
+        "path": "内科学/02-循环系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[02-循环系统#十五、心肺复苏补充与心脏性猝死]]"
+    },
+    {
+      "id": "node_23_ece66f",
+      "kind": "text",
+      "title": "CPR：100–120 次/分、5–6 cm、30:2",
+      "x": -518.8571428571429,
+      "y": 456.80000000000007,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_26_8e9442",
+      "kind": "notebook",
+      "title": "十七、常见循环综合征鉴别（补充大表）",
+      "x": -232.71428571428572,
+      "y": 572.8000000000001,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-collapsed",
+      "notebook": {
+        "link": "[[02-循环系统#十七、常见循环综合征鉴别（补充大表）]]",
+        "path": "内科学/02-循环系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[02-循环系统#十七、常见循环综合征鉴别（补充大表）]]"
+    },
+    {
+      "id": "node_27_3838b3",
+      "kind": "text",
+      "title": "心源性哮喘 vs 支气管哮喘",
+      "x": -483.42857142857144,
+      "y": 572.8000000000001,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_2a_d7c524",
+      "kind": "notebook",
+      "title": "附：循环系统速记要点",
+      "x": 232.71428571428572,
+      "y": -630.8,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[02-循环系统#附：循环系统速记要点]]",
+        "path": "内科学/02-循环系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[02-循环系统#附：循环系统速记要点]]"
+    },
+    {
+      "id": "node_2b_c4b032",
+      "kind": "text",
+      "title": "附：循环系统速记要点（详见笔记）",
+      "x": 507.42857142857144,
+      "y": -630.8,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_2e_3aa2e4",
+      "kind": "notebook",
+      "title": "二、心律失常",
+      "x": 232.71428571428572,
+      "y": -460.4,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[02-循环系统#二、心律失常]]",
+        "path": "内科学/02-循环系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[02-循环系统#二、心律失常]]"
+    },
+    {
+      "id": "node_2f_d261a7",
+      "kind": "text",
+      "title": "房颤：CHA₂DS₂-VASc 抗凝 + 复律“3 周-4 周”",
+      "x": 561.1428571428571,
+      "y": -516.5999999999999,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_31_ce177b",
+      "kind": "text",
+      "title": "预激+房颤禁洋地黄/维拉帕米",
+      "x": 494.85714285714283,
+      "y": -404.2,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_34_448aaa",
+      "kind": "notebook",
+      "title": "四、冠状动脉粥样硬化性心脏病",
+      "x": 232.71428571428572,
+      "y": -235.59999999999994,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-collapsed",
+      "notebook": {
+        "link": "[[02-循环系统#四、冠状动脉粥样硬化性心脏病]]",
+        "path": "内科学/02-循环系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[02-循环系统#四、冠状动脉粥样硬化性心脏病]]"
+    },
+    {
+      "id": "node_35_10f1bc",
+      "kind": "text",
+      "title": "ACS：UA/NSTEMI 禁溶栓；STEMI 120 min 内 PCI",
+      "x": 582.8571428571429,
+      "y": -291.79999999999995,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_37_e9c349",
+      "kind": "text",
+      "title": "下壁心梗三联与右室梗死补液",
+      "x": 493.7142857142857,
+      "y": -179.39999999999995,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_3a_e059a0",
+      "kind": "notebook",
+      "title": "六、风湿热与 Jones 标准",
+      "x": 232.71428571428572,
+      "y": -65.19999999999993,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded",
+      "notebook": {
+        "link": "[[02-循环系统#六、风湿热与 Jones 标准]]",
+        "path": "内科学/02-循环系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[02-循环系统#六、风湿热与 Jones 标准]]"
+    },
+    {
+      "id": "node_3b_b7c93a",
+      "kind": "text",
+      "title": "2 主或 1 主 2 次 + 链感证据",
+      "x": 488,
+      "y": -65.19999999999993,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_3e_a7cad4",
+      "kind": "notebook",
+      "title": "八、心肌病",
+      "x": 232.71428571428572,
+      "y": 50.80000000000007,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-collapsed",
+      "notebook": {
+        "link": "[[02-循环系统#八、心肌病]]",
+        "path": "内科学/02-循环系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[02-循环系统#八、心肌病]]"
+    },
+    {
+      "id": "node_3f_7fcd9e",
+      "kind": "text",
+      "title": "HCM 禁硝酸酯/强心/利尿；Valsalva 杂音增强",
+      "x": 558.8571428571429,
+      "y": 50.80000000000007,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_42_ea1fca",
+      "kind": "notebook",
+      "title": "十、心包疾病",
+      "x": 232.71428571428572,
+      "y": 166.80000000000007,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-collapsed",
+      "notebook": {
+        "link": "[[02-循环系统#十、心包疾病]]",
+        "path": "内科学/02-循环系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[02-循环系统#十、心包疾病]]"
+    },
+    {
+      "id": "node_43_a491f0",
+      "kind": "text",
+      "title": "Beck 三联征→穿刺；缩窄→心包钙化→切除",
+      "x": 533.7142857142858,
+      "y": 166.80000000000007,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_46_43cf2f",
+      "kind": "notebook",
+      "title": "十二、主动脉夹层与主动脉瘤（专段，必背）",
+      "x": 232.71428571428572,
+      "y": 282.80000000000007,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-collapsed",
+      "notebook": {
+        "link": "[[02-循环系统#十二、主动脉夹层与主动脉瘤（专段，必背）]]",
+        "path": "内科学/02-循环系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[02-循环系统#十二、主动脉夹层与主动脉瘤（专段，必背）]]"
+    },
+    {
+      "id": "node_47_23bed0",
+      "kind": "text",
+      "title": "Stanford 分型；先 β 后扩血管",
+      "x": 499.42857142857144,
+      "y": 282.80000000000007,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_4a_8fb5d2",
+      "kind": "notebook",
+      "title": "十四、周围血管疾病（要点段落）",
+      "x": 232.71428571428572,
+      "y": 398.80000000000007,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-collapsed",
+      "notebook": {
+        "link": "[[02-循环系统#十四、周围血管疾病（要点段落）]]",
+        "path": "内科学/02-循环系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[02-循环系统#十四、周围血管疾病（要点段落）]]"
+    },
+    {
+      "id": "node_4b_89fa6a",
+      "kind": "text",
+      "title": "十四、周围血管疾病（要点段落）（详见笔记）",
+      "x": 540.5714285714287,
+      "y": 398.80000000000007,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_4e_95a76d",
+      "kind": "notebook",
+      "title": "十六、心衰液体管理与难治性心衰（补充要点）",
+      "x": 232.71428571428572,
+      "y": 514.8000000000001,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-collapsed",
+      "notebook": {
+        "link": "[[02-循环系统#十六、心衰液体管理与难治性心衰（补充要点）]]",
+        "path": "内科学/02-循环系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[02-循环系统#十六、心衰液体管理与难治性心衰（补充要点）]]"
+    },
+    {
+      "id": "node_4f_6dadd6",
+      "kind": "text",
+      "title": "十六、心衰液体管理与难治性心衰（补充要点）（详见笔记）",
+      "x": 588.5714285714287,
+      "y": 514.8000000000001,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    },
+    {
+      "id": "node_52_663f1c",
+      "kind": "notebook",
+      "title": "十八、起搏器与植入式装置指征汇总（补充）",
+      "x": 232.71428571428572,
+      "y": 630.8000000000001,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-collapsed",
+      "notebook": {
+        "link": "[[02-循环系统#十八、起搏器与植入式装置指征汇总（补充）]]",
+        "path": "内科学/02-循环系统.md",
+        "targetType": "heading"
+      },
+      "link": "[[02-循环系统#十八、起搏器与植入式装置指征汇总（补充）]]"
+    },
+    {
+      "id": "node_53_5cabcc",
+      "kind": "text",
+      "title": "十八、起搏器与植入式装置指征汇总（补充）（详见笔记）",
+      "x": 580.5714285714287,
+      "y": 630.8000000000001,
+      "width": 180,
+      "height": 56,
+      "treeControl": "manual-expanded"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_4_3b982e",
+      "source": "node_2_146d3f",
+      "target": "node_3_daf61a",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_6_19db3a",
+      "source": "node_2_146d3f",
+      "target": "node_5_ddd1df",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_7_614ff3",
+      "source": "node_1_fc377a",
+      "target": "node_2_146d3f",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_a_a2bc37",
+      "source": "node_8_472947",
+      "target": "node_9_7412b2",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_c_5d65a4",
+      "source": "node_8_472947",
+      "target": "node_b_d58842",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_d_29a3b2",
+      "source": "node_1_fc377a",
+      "target": "node_8_472947",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_10_35a240",
+      "source": "node_e_5ec42e",
+      "target": "node_f_5af305",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_11_ab9099",
+      "source": "node_1_fc377a",
+      "target": "node_e_5ec42e",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_14_efc898",
+      "source": "node_12_4458a8",
+      "target": "node_13_b3aa7e",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_15_aefcfa",
+      "source": "node_1_fc377a",
+      "target": "node_12_4458a8",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_18_9bf002",
+      "source": "node_16_a5e5a5",
+      "target": "node_17_12476f",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_19_a28def",
+      "source": "node_1_fc377a",
+      "target": "node_16_a5e5a5",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_1c_baa80d",
+      "source": "node_1a_2bcfbe",
+      "target": "node_1b_88bd64",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_1d_3eabed",
+      "source": "node_1_fc377a",
+      "target": "node_1a_2bcfbe",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_20_6123fd",
+      "source": "node_1e_29d4be",
+      "target": "node_1f_7656af",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_21_451b4c",
+      "source": "node_1_fc377a",
+      "target": "node_1e_29d4be",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_24_a3d706",
+      "source": "node_22_fd5166",
+      "target": "node_23_ece66f",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_25_b02b61",
+      "source": "node_1_fc377a",
+      "target": "node_22_fd5166",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_28_af42e1",
+      "source": "node_26_8e9442",
+      "target": "node_27_3838b3",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_29_530431",
+      "source": "node_1_fc377a",
+      "target": "node_26_8e9442",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_2c_c6a7ee",
+      "source": "node_2a_d7c524",
+      "target": "node_2b_c4b032",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_2d_e51f3",
+      "source": "node_1_fc377a",
+      "target": "node_2a_d7c524",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_30_837b8",
+      "source": "node_2e_3aa2e4",
+      "target": "node_2f_d261a7",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_32_50c187",
+      "source": "node_2e_3aa2e4",
+      "target": "node_31_ce177b",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_33_66b2bc",
+      "source": "node_1_fc377a",
+      "target": "node_2e_3aa2e4",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_36_3602f8",
+      "source": "node_34_448aaa",
+      "target": "node_35_10f1bc",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_38_f16287",
+      "source": "node_34_448aaa",
+      "target": "node_37_e9c349",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_39_9132b6",
+      "source": "node_1_fc377a",
+      "target": "node_34_448aaa",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_3c_508eba",
+      "source": "node_3a_e059a0",
+      "target": "node_3b_b7c93a",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_3d_366eb1",
+      "source": "node_1_fc377a",
+      "target": "node_3a_e059a0",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_40_654821",
+      "source": "node_3e_a7cad4",
+      "target": "node_3f_7fcd9e",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_41_e27a98",
+      "source": "node_1_fc377a",
+      "target": "node_3e_a7cad4",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_44_757750",
+      "source": "node_42_ea1fca",
+      "target": "node_43_a491f0",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_45_24933b",
+      "source": "node_1_fc377a",
+      "target": "node_42_ea1fca",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_48_3f22fa",
+      "source": "node_46_43cf2f",
+      "target": "node_47_23bed0",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_49_beb799",
+      "source": "node_1_fc377a",
+      "target": "node_46_43cf2f",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_4c_434308",
+      "source": "node_4a_8fb5d2",
+      "target": "node_4b_89fa6a",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_4d_bf3c4c",
+      "source": "node_1_fc377a",
+      "target": "node_4a_8fb5d2",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_50_e5d7b8",
+      "source": "node_4e_95a76d",
+      "target": "node_4f_6dadd6",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_51_956269",
+      "source": "node_1_fc377a",
+      "target": "node_4e_95a76d",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_54_382567",
+      "source": "node_52_663f1c",
+      "target": "node_53_5cabcc",
+      "relation": "mindmap",
+      "type": "curve"
+    },
+    {
+      "id": "edge_55_ff50bd",
+      "source": "node_1_fc377a",
+      "target": "node_52_663f1c",
+      "relation": "mindmap",
+      "type": "curve"
+    }
+  ]
+}

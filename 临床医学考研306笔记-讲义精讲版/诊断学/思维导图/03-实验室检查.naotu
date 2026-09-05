@@ -1,0 +1,760 @@
+{
+ "version": 1,
+ "title": "03-实验室检查 Mindmap",
+ "layoutMode": "tree-mirror",
+ "viewport": {
+  "x": 400,
+  "y": 300,
+  "zoom": 1
+ },
+ "nodes": [
+  {
+   "id": "node_1_c68a15",
+   "kind": "text",
+   "title": "诊断学·实验室检查",
+   "x": 0,
+   "y": 645.3333333333334,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2_69288e",
+   "kind": "notebook",
+   "title": "第 1 节 血常规",
+   "x": 240,
+   "y": 55.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-实验室检查#第 1 节 血常规]]",
+    "path": "诊断学/03-实验室检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-实验室检查#第 1 节 血常规]]"
+  },
+  {
+   "id": "node_3_b2c78",
+   "kind": "text",
+   "title": "白细胞五类增减病因配对（中性↑化脓感染、嗜酸↑过敏与寄生虫）",
+   "x": 480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_5_bea4ff",
+   "kind": "text",
+   "title": "贫血形态学分类 MCV/MCHC——一切贫血分析的第一步；网织红为疗效最早指标",
+   "x": 480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_8_e9d68f",
+   "kind": "notebook",
+   "title": "第 3 节 止血与血栓检查",
+   "x": 240,
+   "y": 275.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-实验室检查#第 3 节 止血与血栓检查]]",
+    "path": "诊断学/03-实验室检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-实验室检查#第 3 节 止血与血栓检查]]"
+  },
+  {
+   "id": "node_9_cfb87e",
+   "kind": "text",
+   "title": "PT＝外源＋共同（华法林、VitK 缺乏）；APTT＝内源＋共同（血友病、肝素）",
+   "x": 480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_b_62d60e",
+   "kind": "text",
+   "title": "D-二聚体阴性排除血栓；DIC＝血小板↓＋PT/APTT↑＋Fib↓＋D-二聚体↑",
+   "x": 480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_e_cada4f",
+   "kind": "notebook",
+   "title": "第 5 节 肝功能检查",
+   "x": 240,
+   "y": 495.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-实验室检查#第 5 节 肝功能检查]]",
+    "path": "诊断学/03-实验室检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-实验室检查#第 5 节 肝功能检查]]"
+  },
+  {
+   "id": "node_f_d21c82",
+   "kind": "text",
+   "title": "ALT 最敏感；AST/ALT＞1 提示酒精性/重症；AKP/GGT↑＝胆汁淤积",
+   "x": 480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_11_fb16e5",
+   "kind": "text",
+   "title": "白蛋白与 PT 反映肝脏合成储备",
+   "x": 480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_14_f6febc",
+   "kind": "notebook",
+   "title": "第 7 节 血糖与血脂",
+   "x": 240,
+   "y": 660.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-实验室检查#第 7 节 血糖与血脂]]",
+    "path": "诊断学/03-实验室检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-实验室检查#第 7 节 血糖与血脂]]"
+  },
+  {
+   "id": "node_15_97a1e",
+   "kind": "text",
+   "title": "糖尿病切点：FPG≥7.0、OGTT 2h≥11.1、HbA1c≥6.5%",
+   "x": 480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_18_f72169",
+   "kind": "notebook",
+   "title": "第 9 节 电解质与血气分析",
+   "x": 240,
+   "y": 825.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-实验室检查#第 9 节 电解质与血气分析]]",
+    "path": "诊断学/03-实验室检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-实验室检查#第 9 节 电解质与血气分析]]"
+  },
+  {
+   "id": "node_19_971610",
+   "kind": "text",
+   "title": "四型酸碱失衡大表＋血气判读五步",
+   "x": 480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1b_dea4ae",
+   "kind": "text",
+   "title": "呼衰分型：Ⅰ型 PaO₂＜60、Ⅱ型另加 PaCO₂＞50",
+   "x": 480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_1e_d85480",
+   "kind": "notebook",
+   "title": "第 11 节 肿瘤标志物配对表（必背）",
+   "x": 240,
+   "y": 990.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-实验室检查#第 11 节 肿瘤标志物配对表（必背）]]",
+    "path": "诊断学/03-实验室检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-实验室检查#第 11 节 肿瘤标志物配对表（必背）]]"
+  },
+  {
+   "id": "node_1f_70b7e8",
+   "kind": "text",
+   "title": "AFP 肝癌、CEA 结直肠癌、CA19-9 胰腺癌、CA125 卵巢癌、PSA 前列腺癌",
+   "x": 480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_22_e912b4",
+   "kind": "notebook",
+   "title": "第 13 节 CRP 与 PCT（感染标志物对比）",
+   "x": 240,
+   "y": 1100.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-实验室检查#第 13 节 CRP 与 PCT（感染标志物对比）]]",
+    "path": "诊断学/03-实验室检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-实验室检查#第 13 节 CRP 与 PCT（感染标志物对比）]]"
+  },
+  {
+   "id": "node_23_74f93d",
+   "kind": "text",
+   "title": "PCT 更能鉴别细菌/病毒感染并指导抗生素停药",
+   "x": 480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_26_24e75e",
+   "kind": "notebook",
+   "title": "第 15 节 骨髓细胞学检查速记（常见贫血与白血病）",
+   "x": 240,
+   "y": 1210.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-实验室检查#第 15 节 骨髓细胞学检查速记（常见贫血与白血病）]]",
+    "path": "诊断学/03-实验室检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-实验室检查#第 15 节 骨髓细胞学检查速记（常见贫血与白血病）]]"
+  },
+  {
+   "id": "node_27_68f45b",
+   "kind": "text",
+   "title": "核老浆幼＝缺铁、核幼浆老＝巨幼、POX 强阳性＝急粒",
+   "x": 480,
+   "y": 1210,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2a_f84f16",
+   "kind": "notebook",
+   "title": "第 2 节 溶血性贫血的实验室检查",
+   "x": -240,
+   "y": 55.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-实验室检查#第 2 节 溶血性贫血的实验室检查]]",
+    "path": "诊断学/03-实验室检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-实验室检查#第 2 节 溶血性贫血的实验室检查]]"
+  },
+  {
+   "id": "node_2b_278437",
+   "kind": "text",
+   "title": "血管内（血红蛋白尿、Rous 阳性）vs 血管外（脾大明显）",
+   "x": -480,
+   "y": 0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_2d_783089",
+   "kind": "text",
+   "title": "Coombs→AIHA、Ham→PNH、脆性↑球形／↓地贫",
+   "x": -480,
+   "y": 110,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_30_43d888",
+   "kind": "notebook",
+   "title": "第 4 节 尿液检查",
+   "x": -240,
+   "y": 275.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-实验室检查#第 4 节 尿液检查]]",
+    "path": "诊断学/03-实验室检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-实验室检查#第 4 节 尿液检查]]"
+  },
+  {
+   "id": "node_31_56abf2",
+   "kind": "text",
+   "title": "蛋白尿四类机制＋尿三杯试验定位血尿",
+   "x": -480,
+   "y": 220,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_33_b15516",
+   "kind": "text",
+   "title": "管型配对：红细胞管型→肾炎、白细胞管型→肾盂肾炎、蜡样管型→尿毒症",
+   "x": -480,
+   "y": 330,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_36_148f8b",
+   "kind": "notebook",
+   "title": "第 6 节 肾功能检查",
+   "x": -240,
+   "y": 440.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-实验室检查#第 6 节 肾功能检查]]",
+    "path": "诊断学/03-实验室检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-实验室检查#第 6 节 肾功能检查]]"
+  },
+  {
+   "id": "node_37_da0d4a",
+   "kind": "text",
+   "title": "BUN/Cr＞20:1 提示肾前性；CKD 按 GFR 分期（G5 ＜15）",
+   "x": -480,
+   "y": 440,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3a_aca2b1",
+   "kind": "notebook",
+   "title": "第 8 节 心肌标志物时间轴（必背大表）",
+   "x": -240,
+   "y": 550.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-实验室检查#第 8 节 心肌标志物时间轴（必背大表）]]",
+    "path": "诊断学/03-实验室检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-实验室检查#第 8 节 心肌标志物时间轴（必背大表）]]"
+  },
+  {
+   "id": "node_3b_dbfdd9",
+   "kind": "text",
+   "title": "肌红蛋白最早、cTn 最特异（7～14 天）、CK-MB 判再梗",
+   "x": -480,
+   "y": 550,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_3e_f4427e",
+   "kind": "notebook",
+   "title": "第 10 节 内分泌与免疫学检查",
+   "x": -240,
+   "y": 715.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-实验室检查#第 10 节 内分泌与免疫学检查]]",
+    "path": "诊断学/03-实验室检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-实验室检查#第 10 节 内分泌与免疫学检查]]"
+  },
+  {
+   "id": "node_3f_5110b4",
+   "kind": "text",
+   "title": "TSH 一线筛查；TRAb→Graves、TPOAb/TGAb→桥本",
+   "x": -480,
+   "y": 660,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_41_b7fddd",
+   "kind": "text",
+   "title": "抗 Sm 标记 SLE、抗 dsDNA 示活动、抗 CCP→RA",
+   "x": -480,
+   "y": 770,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_44_7cea20",
+   "kind": "notebook",
+   "title": "第 12 节 浆膜腔积液检查",
+   "x": -240,
+   "y": 935.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-实验室检查#第 12 节 浆膜腔积液检查]]",
+    "path": "诊断学/03-实验室检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-实验室检查#第 12 节 浆膜腔积液检查]]"
+  },
+  {
+   "id": "node_45_df547e",
+   "kind": "text",
+   "title": "漏出 vs 渗出＋Light 标准（0.5／0.6／2/3）",
+   "x": -480,
+   "y": 880,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_47_930ae",
+   "kind": "text",
+   "title": "结核性 ADA＞45、恶性 CEA↑、脓胸 pH＜7.2",
+   "x": -480,
+   "y": 990,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  },
+  {
+   "id": "node_4a_3c19e7",
+   "kind": "notebook",
+   "title": "第 14 节 脑脊液检查",
+   "x": -240,
+   "y": 1100.0,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded",
+   "notebook": {
+    "link": "[[03-实验室检查#第 14 节 脑脊液检查]]",
+    "path": "诊断学/03-实验室检查.md",
+    "targetType": "heading"
+   },
+   "link": "[[03-实验室检查#第 14 节 脑脊液检查]]"
+  },
+  {
+   "id": "node_4b_a193c4",
+   "kind": "text",
+   "title": "结脑糖氯双降＋薄膜、化脓中性粒为主、病毒糖正常",
+   "x": -480,
+   "y": 1100,
+   "width": 180,
+   "height": 56,
+   "treeControl": "manual-expanded"
+  }
+ ],
+ "edges": [
+  {
+   "id": "edge_4_517400",
+   "source": "node_2_69288e",
+   "target": "node_3_b2c78",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_6_7914f8",
+   "source": "node_2_69288e",
+   "target": "node_5_bea4ff",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_7_b489d0",
+   "source": "node_1_c68a15",
+   "target": "node_2_69288e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_a_61985d",
+   "source": "node_8_e9d68f",
+   "target": "node_9_cfb87e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_c_fd08b3",
+   "source": "node_8_e9d68f",
+   "target": "node_b_62d60e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_d_a9e782",
+   "source": "node_1_c68a15",
+   "target": "node_8_e9d68f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_10_a6eab7",
+   "source": "node_e_cada4f",
+   "target": "node_f_d21c82",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_12_26f05f",
+   "source": "node_e_cada4f",
+   "target": "node_11_fb16e5",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_13_7ecddb",
+   "source": "node_1_c68a15",
+   "target": "node_e_cada4f",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_16_2051ac",
+   "source": "node_14_f6febc",
+   "target": "node_15_97a1e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_17_809627",
+   "source": "node_1_c68a15",
+   "target": "node_14_f6febc",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1a_54fd9a",
+   "source": "node_18_f72169",
+   "target": "node_19_971610",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1c_19b17e",
+   "source": "node_18_f72169",
+   "target": "node_1b_dea4ae",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_1d_dfcaf0",
+   "source": "node_1_c68a15",
+   "target": "node_18_f72169",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_20_1986b4",
+   "source": "node_1e_d85480",
+   "target": "node_1f_70b7e8",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_21_86a4ba",
+   "source": "node_1_c68a15",
+   "target": "node_1e_d85480",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_24_3edd1",
+   "source": "node_22_e912b4",
+   "target": "node_23_74f93d",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_25_b8f214",
+   "source": "node_1_c68a15",
+   "target": "node_22_e912b4",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_28_def576",
+   "source": "node_26_24e75e",
+   "target": "node_27_68f45b",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_29_a79fbf",
+   "source": "node_1_c68a15",
+   "target": "node_26_24e75e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2c_1327f1",
+   "source": "node_2a_f84f16",
+   "target": "node_2b_278437",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2e_c8120a",
+   "source": "node_2a_f84f16",
+   "target": "node_2d_783089",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_2f_f81dba",
+   "source": "node_1_c68a15",
+   "target": "node_2a_f84f16",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_32_9f8ded",
+   "source": "node_30_43d888",
+   "target": "node_31_56abf2",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_34_65c177",
+   "source": "node_30_43d888",
+   "target": "node_33_b15516",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_35_a65bb1",
+   "source": "node_1_c68a15",
+   "target": "node_30_43d888",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_38_541cdf",
+   "source": "node_36_148f8b",
+   "target": "node_37_da0d4a",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_39_da330a",
+   "source": "node_1_c68a15",
+   "target": "node_36_148f8b",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3c_889b78",
+   "source": "node_3a_aca2b1",
+   "target": "node_3b_dbfdd9",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_3d_61484b",
+   "source": "node_1_c68a15",
+   "target": "node_3a_aca2b1",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_40_a075e9",
+   "source": "node_3e_f4427e",
+   "target": "node_3f_5110b4",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_42_e32f2e",
+   "source": "node_3e_f4427e",
+   "target": "node_41_b7fddd",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_43_c26828",
+   "source": "node_1_c68a15",
+   "target": "node_3e_f4427e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_46_8a8006",
+   "source": "node_44_7cea20",
+   "target": "node_45_df547e",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_48_9e11d2",
+   "source": "node_44_7cea20",
+   "target": "node_47_930ae",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_49_118405",
+   "source": "node_1_c68a15",
+   "target": "node_44_7cea20",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4c_af34cf",
+   "source": "node_4a_3c19e7",
+   "target": "node_4b_a193c4",
+   "relation": "mindmap",
+   "type": "curve"
+  },
+  {
+   "id": "edge_4d_ebc202",
+   "source": "node_1_c68a15",
+   "target": "node_4a_3c19e7",
+   "relation": "mindmap",
+   "type": "curve"
+  }
+ ]
+}
